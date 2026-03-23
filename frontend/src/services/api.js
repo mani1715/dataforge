@@ -1,17 +1,17 @@
 import axios from 'axios';
 
-// Create axios instance with configuration for large file uploads
+// Create axios instance with production-grade configuration for large file uploads
 const api = axios.create({
   baseURL: '/api',
-  timeout: 300000, // 5 minutes timeout for large files
-  maxContentLength: 500 * 1024 * 1024, // 500MB
-  maxBodyLength: 500 * 1024 * 1024, // 500MB
+  timeout: 0, // No timeout - let the upload complete
+  maxContentLength: Infinity, // No limit
+  maxBodyLength: Infinity, // No limit
   headers: {
     'Content-Type': 'application/json',
   },
 });
 
-// Add request interceptor for file uploads
+// Request interceptor
 api.interceptors.request.use(
   (config) => {
     // For FormData uploads, remove Content-Type to let browser set it with boundary
@@ -25,12 +25,16 @@ api.interceptors.request.use(
   }
 );
 
-// Add response interceptor for better error handling
+// Response interceptor for better error handling
 api.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.code === 'ECONNABORTED') {
-      console.error('Request timeout - file might be too large or connection is slow');
+      console.error('Request timeout - connection issue');
+    } else if (error.code === 'ERR_NETWORK') {
+      console.error('Network error - check connection');
+    } else if (error.response?.status === 413) {
+      console.error('File too large - maximum 500MB');
     }
     return Promise.reject(error);
   }
