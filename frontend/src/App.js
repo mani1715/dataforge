@@ -136,8 +136,7 @@ function App() {
 
   // Handle Download
   const handleDownload = () => {
-    const backendUrl = process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000/api';
-    window.open(`${backendUrl.replace('/api', '')}/api/download`, '_blank');
+    window.open('/api/download', '_blank');
   };
 
   // Handle Reset
