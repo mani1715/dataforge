@@ -1,0 +1,213 @@
+/* --- ROOT VARIABLES (Professional Blue System) --- */
+:root {
+  --bg-main: #F7F9FC;
+  --primary: #4F46E5;
+  --primary-hover: #4338CA;
+  --card-bg: #FFFFFF;
+  --text-primary: #111827;
+  --text-secondary: #6B7280;
+  --status-error: #EF4444;
+  --status-warning: #F59E0B;
+  --status-success: #10B981;
+  --border-color: #E5E7EB;
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.05);
+  --gradient-hero: linear-gradient(135deg, #4F46E5, #06B6D4);
+  --highlight-missing: #FEE2E2;
+}
+
+/* --- GLOBAL STYLES --- */
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+/* --- HEADER --- */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -1px;
+}
+
+/* --- HERO SECTION --- */
+.hero-container {
+  text-align: center;
+  padding: 80px 20px;
+  background: var(--gradient-hero);
+  color: white;
+  border-radius: 0 0 40px 40px;
+  margin-bottom: 40px;
+}
+
+.hero-title {
+  font-size: 48px;
+  margin: 0 0 10px 0;
+}
+
+/* --- UPLOAD ZONE --- */
+.upload-zone {
+  background: var(--card-bg);
+  border: 2px dashed var(--primary);
+  border-radius: 16px;
+  padding: 60px;
+  margin: 40px auto;
+  max-width: 600px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.upload-zone:hover {
+  background: #F0F4FF;
+  border-color: var(--primary-hover);
+}
+
+/* --- BUTTONS --- */
+.btn-primary {
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-primary:hover {
+  background: var(--primary-hover);
+}
+
+.btn-action {
+  background: var(--bg-main);
+  border: 1px solid var(--border-color);
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--text-primary);
+}
+
+.btn-action:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+/* --- DASHBOARD LAYOUT --- */
+.dashboard-layout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 30px;
+  padding: 0 40px 40px 40px;
+}
+
+/* --- SIDEBAR --- */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card {
+  background: var(--card-bg);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--border-color);
+}
+
+.health-score {
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.health-good { color: var(--status-success); }
+.health-warning { color: var(--status-warning); }
+.health-bad { color: var(--status-error); }
+
+/* --- DROPDOWN --- */
+.select-dropdown {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  background: var(--bg-main);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.select-dropdown:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+/* --- TABLE --- */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.data-table th {
+  background: var(--bg-main);
+  text-align: left;
+  padding: 12px;
+  color: var(--text-secondary);
+  font-weight: 700;
+}
+
+.data-table td {
+  border-bottom: 1px solid var(--border-color);
+  padding: 12px;
+}
+
+.missing-val {
+  background: var(--highlight-missing);
+  color: var(--status-error);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+/* --- RESPONSIVE --- */
+@media (max-width: 900px) {
+  .dashboard-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- SPINNER ANIMATION (Stage 7) --- */
+.spinner {
+  margin: 0 auto 20px auto;
+  width: 50px;
+  height: 50px;
+  border: 5px solid rgba(255,255,255,0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
