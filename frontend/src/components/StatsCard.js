@@ -21,7 +21,7 @@ const StatsCard = ({ score, stats }) => {
       <div className="score-container">
         <div className="score-label">Data Quality Score</div>
         <div className="score-circle">
-          <ResponsiveContainer width="100%" height={140}>
+          <ResponsiveContainer width="100%" height={180}>
             <PieChart>
               <Pie
                 data={progressData}
@@ -29,10 +29,11 @@ const StatsCard = ({ score, stats }) => {
                 cy="50%"
                 startAngle={90}
                 endAngle={-270}
-                innerRadius={50}
-                outerRadius={65}
+                innerRadius={55}
+                outerRadius={75}
                 dataKey="value"
                 stroke="none"
+                isAnimationActive={true}
               >
                 {progressData.map((entry, index) => (
                   <Cell key={`cell-${index}`} fill={COLORS[index]} />
@@ -40,7 +41,7 @@ const StatsCard = ({ score, stats }) => {
               </Pie>
             </PieChart>
           </ResponsiveContainer>
-          <div className={`score-value ${scoreClass}`} data-testid="quality-score">
+          <div className={`score-value ${scoreClass}`} data-testid="quality-score" style={{ background: 'transparent', border: 'none' }}>
             {score}%
           </div>
         </div>
@@ -62,7 +63,7 @@ const StatsCard = ({ score, stats }) => {
           </li>
           <li className="summary-item">
             <span className="summary-label">Missing Values</span>
-            <span className="summary-value" style={{ color: stats.missing > 0 ? 'var(--status-error)' : 'var(--status-success)' }} data-testid="missing-values">
+            <span className="summary-value" style={{ color: stats.missing > 0 ? 'var(--error-500)' : 'var(--success-500)' }} data-testid="missing-values">
               {stats.missing.toLocaleString()}
             </span>
           </li>

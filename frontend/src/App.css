@@ -397,6 +397,10 @@ body {
   letter-spacing: -2px;
   z-index: 10;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .score-status {
