@@ -104,10 +104,6 @@ function App() {
                   Get Started Free
                   <span>→</span>
                 </button>
-                <button className="btn btn-hero-secondary">
-                  Watch Demo
-                  <span>▶</span>
-                </button>
               </div>
               <div className="hero-stats">
                 <div className="stat-item">
