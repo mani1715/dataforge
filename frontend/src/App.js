@@ -3,173 +3,228 @@ import Header from './components/Header';
 import FileUpload from './components/FileUpload';
 import StatsCard from './components/StatsCard';
 import DataTable from './components/DataTable';
+import CleaningControls from './components/CleaningControls';
 import Visualization from './components/Visualization';
 import api from './services/api';
 import './App.css';
 
 function App() {
+  // State Management
   const [isUploaded, setIsUploaded] = useState(false);
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
+  const [messageType, setMessageType] = useState('info'); // 'info', 'success', 'error'
+  const [datasetName, setDatasetName] = useState('');
+  
+  // Data State
   const [score, setScore] = useState(0);
-  const [stats, setStats] = useState({ rows: 0, columns: 0, missing: 0 });
+  const [stats, setStats] = useState({ 
+    rows: 0, 
+    columns: 0, 
+    missing: 0, 
+    duplicates: 0 
+  });
   const [tableData, setTableData] = useState([]);
   const [chartData, setChartData] = useState(null);
+  
+  // Cleaning State
   const [cleanStrategy, setCleanStrategy] = useState('ai');
-  const [suggestion, setSuggestion] = useState('');
+  const [aiMessage, setAiMessage] = useState('');
 
-  const handleFileSelect = (file) => handleUpload(file);
-
-  const handleUpload = async (file) => {
+  // Handle File Upload
+  const handleFileSelect = async (file) => {
     if (!file) return;
+    
     const formData = new FormData();
     formData.append('file', file);
+    
     setLoading(true);
-    setMessage('Uploading...');
+    setMessage('📤 Uploading and analyzing your dataset...');
+    setMessageType('info');
+    setDatasetName(file.name);
     
     try {
       const res = await api.post('/upload', formData);
+      
+      // Update all state
       setScore(res.data.quality_score);
       setStats({
         rows: res.data.summary.rows,
         columns: res.data.summary.columns,
-        missing: res.data.summary.missing_values
+        missing: res.data.summary.missing_values,
+        duplicates: res.data.summary.duplicates || 0
       });
       setTableData(res.data.preview);
       setChartData(res.data.chart_data);
       setIsUploaded(true);
-      setMessage('✅ Data uploaded successfully.');
+      
+      setMessage('✅ Dataset uploaded successfully!');
+      setMessageType('success');
+      
+      // Generate AI suggestion
       generateSuggestion(res.data.summary);
+      
     } catch (err) {
-      console.error(err);
-      setMessage('❌ Error uploading file.');
+      console.error('Upload error:', err);
+      setMessage(`❌ Error uploading file: ${err.response?.data?.error || err.message}`);
+      setMessageType('error');
     } finally {
       setLoading(false);
     }
   };
 
-  const generateSuggestion = (stats) => {
-    if (stats.missing_values === 0) {
-      setSuggestion('No missing values found. Data is clean!');
+  // Generate AI Suggestions
+  const generateSuggestion = (summary) => {
+    if (summary.missing_values === 0 && summary.duplicates === 0) {
+      setAiMessage('✨ Your dataset is clean! No missing values or duplicates detected.');
       return;
     }
-    const missingPercent = (stats.missing_values / (stats.rows * stats.columns)) * 100;
+    
+    const missingPercent = (summary.missing_values / (summary.rows * summary.columns)) * 100;
+    
+    let suggestion = '';
     if (missingPercent > 40) {
-      setSuggestion('High missing data detected. Recommendation: Drop Rows or Fill with 0.');
+      suggestion = '⚠️ High missing data detected (>40%). Recommendation: Use "Drop Rows" or "Fill with 0" strategy.';
     } else if (missingPercent > 10) {
-      setSuggestion('Moderate missing data. Recommendation: Use Median or AI Prediction.');
-    } else {
-      setSuggestion('Low missing data. Recommendation: Mean or Mode is safe.');
+      suggestion = '💡 Moderate missing data (10-40%). Recommendation: Use "Median" or "AI Prediction" for best results.';
+    } else if (missingPercent > 0) {
+      suggestion = '✓ Low missing data (<10%). Recommendation: "Mean" or "Mode" strategies are safe choices.';
     }
+    
+    if (summary.duplicates > 0) {
+      suggestion += ` Found ${summary.duplicates} duplicate rows - consider removing them.`;
+    }
+    
+    setAiMessage(suggestion);
   };
 
+  // Handle Cleaning Actions
   const handleAction = async (actionType) => {
     setLoading(true);
-    setMessage('⏳ Processing...');
+    setMessage('⏳ Processing your request...');
+    setMessageType('info');
+    
     try {
       const res = await api.post('/action', { 
         action: actionType, 
-        strategy: cleanStrategy, 
+        strategy: cleanStrategy,
         fill_value: cleanStrategy === 'constant' ? 0 : null 
       });
+      
+      // Update state with cleaned data
       setScore(res.data.new_score);
       setTableData(res.data.preview);
       setMessage(`✅ ${res.data.message}`);
+      setMessageType('success');
+      setAiMessage(res.data.message);
+      
+      // Update stats (missing values should decrease)
+      const newMissing = res.data.preview.reduce((count, row) => {
+        return count + Object.values(row).filter(val => val === null || val === 'NaN').length;
+      }, 0);
+      
+      setStats(prev => ({ ...prev, missing: newMissing }));
+      
     } catch (err) {
-      console.error(err);
-      setMessage('❌ Error performing action.');
+      console.error('Action error:', err);
+      setMessage(`❌ Error: ${err.response?.data?.error || err.message}`);
+      setMessageType('error');
     } finally {
       setLoading(false);
     }
   };
 
+  // Handle Download
   const handleDownload = () => {
-    window.open('http://localhost:5000/api/download', '_blank');
+    const backendUrl = process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000/api';
+    window.open(`${backendUrl.replace('/api', '')}/api/download`, '_blank');
+  };
+
+  // Handle Reset
+  const handleReset = () => {
+    // Reset all state
+    setIsUploaded(false);
+    setDatasetName('');
+    setScore(0);
+    setStats({ rows: 0, columns: 0, missing: 0, duplicates: 0 });
+    setTableData([]);
+    setChartData(null);
+    setMessage('');
+    setAiMessage('');
+    setCleanStrategy('ai');
   };
 
   return (
-    <div className='App'>
-      <Header />
+    <div className="App">
+      {/* Header */}
+      <Header 
+        datasetName={datasetName}
+        onReset={handleReset}
+        onDownload={handleDownload}
+        showActions={isUploaded}
+      />
       
       {/* Loading Overlay */}
       {loading && (
-        <div style={{
-          position: 'fixed', top: 0, left: 0, width: '100%', height: '100%',
-          background: 'rgba(0,0,0,0.5)', display: 'flex', 
-          justifyContent: 'center', alignItems: 'center', zIndex: 9999
-        }}>
-          <div style={{ color: 'white', fontSize: '24px', fontWeight: 'bold' }}>
-            <div className="spinner"></div> {/* We will add CSS for this */}
-            <p>AI Processing...</p>
+        <div className="loading-overlay">
+          <div className="loading-content">
+            <div className="spinner" data-testid="loading-spinner"></div>
+            <div className="loading-text">🤖 AI Processing...</div>
           </div>
         </div>
       )}
 
+      {/* Upload Page */}
       {!isUploaded ? (
-        <div className='hero-container'>
-          <h1 className='hero-title'>Shape Your Data Into Clarity</h1>
-          <p style={{ fontSize: '18px', opacity: 0.9 }}>Automated, AI-powered data cleaning.</p>
-          <FileUpload onFileSelect={handleFileSelect} />
-          {loading && <p style={{color: 'white'}}>{message}</p>}
+        <div className="upload-page" data-testid="upload-page">
+          <div className="upload-header">
+            <h1>Shape Your Data Into Clarity</h1>
+            <p>Automated, AI-powered data cleaning and profiling</p>
+          </div>
+          
+          <FileUpload onFileSelect={handleFileSelect} loading={loading} />
+          
+          {message && (
+            <div 
+              className={`message-banner message-${messageType}`} 
+              style={{ marginTop: '24px', maxWidth: '600px' }}
+              data-testid="upload-message"
+            >
+              {message}
+            </div>
+          )}
         </div>
       ) : (
-        <div className='dashboard-layout'>
-          <div className='sidebar'>
+        /* Dashboard Layout */
+        <div className="dashboard-layout" data-testid="dashboard-page">
+          {/* LEFT PANEL: Stats */}
+          <aside>
             <StatsCard score={score} stats={stats} />
-            <div className='card'>
-              <h3 style={{ marginTop: '0' }}>⚙️ Cleaning Tools</h3>
-              
-              {/* Numeric Cleaning */}
-              <label style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '10px', display:'block' }}>
-                Numeric Strategy:
-              </label>
-              <select value={cleanStrategy} onChange={(e) => setCleanStrategy(e.target.value)} className='select-dropdown'>
-                <option value='ai'>🤖 AI Prediction</option>
-                <option value='mean'>📊 Mean</option>
-                <option value='median'>📈 Median</option>
-                <option value='mode'>🔢 Mode</option>
-                <option value='constant'>➕ Fill with 0</option>
-                <option value='drop_rows'>❌ Drop Rows</option>
-              </select>
+          </aside>
 
-              <button className='btn-primary' style={{width:'100%', marginTop:'10px'}} onClick={() => handleAction('fill_missing')} disabled={loading}>
-                🛠️ Clean Numeric Data
-              </button>
-
-              {/* Text Cleaning - NEW */}
-              <button className='btn-action' style={{width:'100%', marginTop:'10px', background:'#EEF2FF', color:'#4F46E5', border:'1px solid #4F46E5'}} onClick={() => handleAction('clean_text')} disabled={loading}>
-                🔤 Clean Text Data (Fill "Unknown")
-              </button>
-
-              <div style={{ background: '#EEF2FF', padding: '10px', borderRadius: '8px', margin: '15px 0', fontSize: '12px', color: '#4F46E5' }}>
-                <strong>💡 Tip:</strong> {suggestion}
-              </div>
-
-              <button className='btn-action' style={{width:'100%', marginTop:'10px'}} onClick={() => handleAction('remove_duplicates')} disabled={loading}>
-                🗑️ Remove Duplicates
-              </button>
-              <button className='btn-action' style={{width:'100%', marginTop:'10px'}} onClick={() => handleAction('remove_outliers')} disabled={loading}>
-                📉 Remove Outliers
-              </button>
-              
-              <hr style={{margin: '20px 0', border: '1px solid var(--border-color)'}}/>
-              
-              <button className='btn-primary' style={{width:'100%', background:'var(--status-success)'}} onClick={handleDownload}>
-                ⬇️ Download Clean Data
-              </button>
-            </div>
-          </div>
-          <div className='main-content'>
+          {/* CENTER PANEL: Data Table + Controls */}
+          <main className="main-content">
             {message && (
-                <div className='card' style={{padding:'10px', marginBottom:'10px', background:'#EEF2FF', color:'#4F46E5', fontSize: '14px'}}>
-                    {message}
-                </div>
+              <div className={`message-banner message-${messageType}`} data-testid="dashboard-message">
+                {message}
+              </div>
             )}
             
-            <Visualization data={chartData} />
-
             <DataTable data={tableData} />
-          </div>
+            
+            <CleaningControls 
+              strategy={cleanStrategy}
+              setStrategy={setCleanStrategy}
+              onAction={handleAction}
+              loading={loading}
+              aiMessage={aiMessage}
+            />
+          </main>
+
+          {/* RIGHT PANEL: Visualization */}
+          <aside>
+            <Visualization data={chartData} />
+          </aside>
         </div>
       )}
     </div>

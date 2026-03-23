@@ -1,15 +1,12 @@
 import React, { useRef } from 'react';
 
-const FileUpload = ({ onFileSelect }) => {
-  // Create a reference to the hidden file input
+const FileUpload = ({ onFileSelect, loading }) => {
   const inputRef = useRef(null);
 
-  // Function to trigger the file input click
   const handleClick = () => {
     inputRef.current.click();
   };
 
-  // Function to handle when a file is selected
   const handleChange = (e) => {
     if (e.target.files && e.target.files[0]) {
       onFileSelect(e.target.files[0]);
@@ -17,26 +14,26 @@ const FileUpload = ({ onFileSelect }) => {
   };
 
   return (
-    <div className="upload-zone">
-      <h3>Drag & Drop Files Here</h3>
-      <p style={{ color: 'var(--text-secondary)' }}>Supports CSV, Excel</p>
+    <div className="upload-zone" onClick={handleClick} data-testid="upload-zone">
+      <div className="upload-icon">📊</div>
+      <h3>Drag & Drop Your Dataset</h3>
+      <p>Supports CSV and Excel files (up to 16MB)</p>
       
-      {/* The Hidden Input */}
       <input 
         type="file" 
         ref={inputRef} 
         style={{ display: 'none' }} 
         onChange={handleChange} 
         accept=".csv, .xlsx"
+        data-testid="file-input"
       />
 
-      {/* The Visible Button */}
       <button 
-        className="btn-primary" 
-        style={{ marginTop: '20px' }} 
-        onClick={handleClick}
+        className="btn btn-primary" 
+        disabled={loading}
+        data-testid="upload-button"
       >
-        Select File
+        {loading ? '⏳ Uploading...' : '📁 Select File'}
       </button>
     </div>
   );
