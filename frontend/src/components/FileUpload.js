@@ -17,7 +17,7 @@ const FileUpload = ({ onFileSelect, loading }) => {
     <div className="upload-zone" onClick={handleClick} data-testid="upload-zone">
       <div className="upload-icon">📊</div>
       <h3>Drag & Drop Your Dataset</h3>
-      <p>Supports CSV and Excel files (up to 16MB)</p>
+      <p>Supports CSV and Excel files (up to 200MB)</p>
       
       <input 
         type="file" 
