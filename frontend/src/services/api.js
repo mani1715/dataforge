@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with production-grade configuration for large file uploads
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: process.env.REACT_APP_BACKEND_URL || 'http://localhost:8001/api',
   timeout: 0, // No timeout - let the upload complete
   maxContentLength: Infinity, // No limit
   maxBodyLength: Infinity, // No limit
@@ -34,7 +34,7 @@ api.interceptors.response.use(
     } else if (error.code === 'ERR_NETWORK') {
       console.error('Network error - check connection');
     } else if (error.response?.status === 413) {
-      console.error('File too large - maximum 500MB');
+      console.error('File too large - maximum 200MB');
     }
     return Promise.reject(error);
   }

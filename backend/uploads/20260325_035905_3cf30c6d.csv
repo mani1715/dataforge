@@ -1,0 +1,5001 @@
+Order ID,Product Name,Category,Price,Quantity,Customer Name,Date
+, Messi ,Sports,,,John,
+,,Sports,,,john ,
+2,,sports,,-1,J0hn,2024-01-01
+ORD3,,Electronics,,-1,J0hn,2024-01-01
+,,Electronics,unknown,,,
+ORD5,,sports,417.83,,,01/02/2024
+,Messi,Elec ,,1,john ,01/02/2024
+,,Electronics,,,J0hn,2024/13/01
+ORD8,messi,Electronics,,,JOHN,
+ORD9,,Electronics,,9,JOHN,
+10,,Elec ,359.22,,,
+, Messi ,Sports,333.99,,john ,01/02/2024
+, Messi ,,,,,2024/13/01
+ORD13,Messi,,unknown,,JOHN,2024/13/01
+ORD14,messi,Elec ,,6,JOHN,2024-01-01
+, Messi ,Electronics,unknown,,JOHN,2024-01-01
+,MESSI,Sports,163.62,,,2024/13/01
+, Messi ,Electronics,,,,01/02/2024
+,Messi,,unknown,,john ,
+ORD19,,Sports,,,John,2024-01-01
+,,,,,,2024/13/01
+21, Messi ,,162.22,-1,J0hn,
+,,Electronics,273.13,,JOHN,
+23,,,unknown,-1,John,
+,Messi,Electronics,unknown,-1,,2024/13/01
+,Messi,Sports,100.11,,John,01/02/2024
+ORD26,,Elec ,unknown,,,2024-01-01
+ORD27,Messi!!,Elec ,unknown,,john ,
+, Messi ,,,-1,,01/02/2024
+,Messi,,286.85,6,J0hn,
+,,,unknown,-1,J0hn,2024-01-01
+,MESSI,Elec ,,-1,J0hn,2024-01-01
+ORD32,,,unknown,2,,
+33, Messi ,sports,309.83,,,2024/13/01
+,,,324.84,6,,01/02/2024
+35,MESSI,,unknown,-1,John,2024-01-01
+36,,,,,J0hn,
+ORD37,,,,6,,2024/13/01
+,messi,Sports,261.6,6,john ,01/02/2024
+,messi,,,,J0hn,01/02/2024
+, Messi ,,,,,2024-01-01
+41,,sports,,2,John,
+,,sports,358.44,4,John,
+,Messi!!,sports,,6,J0hn,2024/13/01
+ORD44,,Electronics,,,J0hn,2024/13/01
+,Messi,,143.7,-1,John,
+,messi,Sports,,2,,2024/13/01
+,,Elec ,230.78,8,JOHN,
+48,Messi,sports,329.52,,,2024-01-01
+49,Messi,Elec ,unknown,,,
+50, Messi ,,,-1,,01/02/2024
+51,,,,,,01/02/2024
+,MESSI,,unknown,,J0hn,
+ORD53,Messi!!,,63.17,,john ,2024/13/01
+ORD54,Messi!!,Sports,,,john ,
+,messi,Elec ,,5,,
+,messi,Electronics,246.45,,,2024/13/01
+57,Messi!!,,496.89,-1,JOHN,
+, Messi ,sports,,5,John,2024-01-01
+ORD59,messi,Elec ,,-1,,
+,,Electronics,149.55,,,2024-01-01
+,,Electronics,28.94,,JOHN,01/02/2024
+ORD62,MESSI,sports,,5,John,
+63,Messi!!,Elec ,,2,,2024-01-01
+64,MESSI,,,,J0hn,
+ORD65,MESSI,,unknown,,J0hn,2024/13/01
+ORD66, Messi ,Sports,,8,John,2024-01-01
+,messi,Elec ,13.25,7,JOHN,
+68, Messi ,Electronics,unknown,8,JOHN,
+ORD69,,Elec ,,,J0hn,2024/13/01
+70,MESSI,Sports,,,John,
+, Messi ,Electronics,unknown,6,John,
+, Messi ,Sports,,-1,,
+, Messi ,Electronics,283.49,,john ,01/02/2024
+ORD74,Messi!!,sports,unknown,,john ,01/02/2024
+75,MESSI,,,,john ,2024-01-01
+76,Messi!!,,94.03,,John,
+,,sports,unknown,,,01/02/2024
+ORD78,MESSI,Electronics,312.65,,,2024-01-01
+,Messi!!,sports,unknown,7,,
+ORD80,,,unknown,,JOHN,01/02/2024
+,Messi!!,Elec ,,,,
+82,,,unknown,,,
+,Messi,Elec ,,10,John,2024/13/01
+ORD84, Messi ,Sports,unknown,,J0hn,
+ORD85,Messi!!,Elec ,,-1,,
+, Messi ,,unknown,-1,John,01/02/2024
+,,Electronics,,,John,01/02/2024
+88,Messi!!,Elec ,unknown,-1,john ,2024/13/01
+,messi,,unknown,,john ,01/02/2024
+ORD90,Messi,Elec ,142.31,,,
+,MESSI,Sports,,,john ,01/02/2024
+,MESSI,,383.94,10,John,
+93,Messi!!,Elec ,368.39,,,2024-01-01
+,MESSI,,,,john ,
+, Messi ,Elec ,unknown,-1,John,2024/13/01
+,MESSI,Electronics,unknown,,JOHN,2024-01-01
+97,messi,Electronics,,-1,John,2024/13/01
+,messi,Electronics,,5,John,
+,MESSI,Elec ,,9,JOHN,2024-01-01
+ORD100,MESSI,,,,JOHN,2024-01-01
+101,messi,Sports,169.32,6,John,2024/13/01
+ORD102, Messi ,sports,,,JOHN,
+ORD103,,Electronics,310.47,6,,
+,MESSI,sports,,-1,JOHN,01/02/2024
+,Messi,,,,J0hn,
+,Messi!!,sports,,,J0hn,
+107, Messi ,Electronics,,-1,john ,2024/13/01
+108,,sports,,-1,,
+109, Messi ,Sports,,,,
+,messi,,,,JOHN,2024/13/01
+,messi,Electronics,,,,01/02/2024
+,MESSI,,unknown,,,
+ORD113,,,,-1,J0hn,2024/13/01
+ORD114,,Elec ,,,John,
+ORD115,MESSI,,262.88,10,,01/02/2024
+116,Messi,Electronics,,,J0hn,01/02/2024
+,messi,Electronics,448.08,1,,2024-01-01
+118,MESSI,sports,,,,
+ORD119,,,,-1,,
+,MESSI,sports,269.12,1,,2024/13/01
+, Messi ,,277.53,-1,,
+,messi,,unknown,-1,John,01/02/2024
+123, Messi ,,389.14,,John,01/02/2024
+124,Messi,Sports,356.51,,JOHN,
+,Messi,Sports,,-1,John,01/02/2024
+ORD126,messi,sports,352.27,1,J0hn,
+127, Messi ,Electronics,unknown,-1,john ,2024/13/01
+ORD128,Messi,Sports,27.2,,john ,2024-01-01
+, Messi ,,,,,01/02/2024
+ORD130,messi,Sports,,-1,JOHN,2024/13/01
+,,Sports,unknown,,J0hn,
+ORD132,,Sports,,4,john ,01/02/2024
+133,MESSI,Electronics,unknown,-1,,2024-01-01
+ORD134,messi,Elec ,unknown,-1,J0hn,01/02/2024
+135,messi,,451.23,,john ,2024/13/01
+,Messi!!,,,8,,
+137,Messi,,435.02,-1,,
+,Messi!!,Sports,268.73,,,
+,Messi,,,,,
+ORD140,Messi!!,,143.09,1,john ,01/02/2024
+, Messi ,,unknown,,,
+,,Sports,183.7,,,2024/13/01
+143,,,213.14,6,JOHN,
+, Messi ,Elec ,,7,john ,
+145,messi,sports,,5,john ,2024-01-01
+,,Elec ,481.46,,,01/02/2024
+147,MESSI,Sports,,-1,,
+ORD148,messi,Sports,33.44,,JOHN,01/02/2024
+,messi,Elec ,,7,,
+, Messi ,,,-1,,
+,,Elec ,314.54,,john ,
+, Messi ,sports,,3,,01/02/2024
+ORD153,MESSI,Electronics,422.98,6,John,
+,messi,Elec ,176.87,,John,
+ORD155,messi,Sports,113.98,7,JOHN,
+156,Messi!!,Elec ,143.91,-1,J0hn,
+,Messi!!,Sports,,8,JOHN,
+ORD158,MESSI,sports,unknown,-1,John,2024/13/01
+ORD159,Messi,sports,44.34,,J0hn,2024/13/01
+,messi,sports,,,JOHN,
+, Messi ,,unknown,-1,JOHN,2024-01-01
+162,Messi!!,Elec ,,,J0hn,
+,,Electronics,21.41,,,
+164,Messi,Electronics,,5,JOHN,2024/13/01
+165,,,,,J0hn,
+,Messi!!,Elec ,,8,john ,
+,,Electronics,,-1,J0hn,
+168,,sports,unknown,6,,
+169,,Sports,,,,
+,Messi!!,Elec ,97.57,,,2024-01-01
+ORD171,Messi!!,,unknown,-1,john ,2024/13/01
+172, Messi ,,,,,2024-01-01
+173, Messi ,,159.81,-1,,2024/13/01
+174, Messi ,,33.43,-1,John,2024-01-01
+,,,,,,2024/13/01
+,MESSI,sports,unknown,,,01/02/2024
+177,,sports,,,,2024-01-01
+178, Messi ,,,-1,john ,01/02/2024
+179,,Sports,,,john ,01/02/2024
+,MESSI,Electronics,unknown,3,,2024/13/01
+,Messi,,49.57,-1,J0hn,
+182,Messi!!,,107.94,,JOHN,2024-01-01
+183, Messi ,Electronics,unknown,,,01/02/2024
+, Messi ,,,,john ,
+,messi,Electronics,,-1,JOHN,2024-01-01
+,MESSI,Electronics,,,,
+187,,,,,John,
+,messi,,,,John,01/02/2024
+,Messi,,43.77,,John,
+,Messi,Sports,,,J0hn,
+191,MESSI,Electronics,35.37,,,
+192,,Electronics,153.55,,John,
+ORD193,,sports,unknown,,,
+ORD194, Messi ,,287.08,8,J0hn,
+195,Messi,Electronics,unknown,9,,2024/13/01
+,,,,-1,,
+,messi,Sports,,,JOHN,
+ORD198,,sports,236.38,,,01/02/2024
+, Messi ,,280.06,,John,
+ORD200, Messi ,Sports,unknown,,,
+ORD201,Messi!!,,,-1,John,2024-01-01
+202,messi,Sports,51.45,2,,
+, Messi ,Elec ,unknown,1,J0hn,2024-01-01
+,,Elec ,unknown,5,J0hn,
+,Messi!!,Elec ,,-1,,2024/13/01
+206,,Sports,,,JOHN,2024-01-01
+,messi,,,-1,JOHN,2024-01-01
+,Messi,sports,,3,john ,01/02/2024
+,,Sports,438.34,-1,J0hn,01/02/2024
+ORD210,,Elec ,471.04,,JOHN,2024-01-01
+ORD211,messi,,unknown,-1,john ,2024/13/01
+,Messi,Electronics,unknown,,,01/02/2024
+ORD213,MESSI,Electronics,,-1,,2024/13/01
+214,Messi,Sports,unknown,,john ,01/02/2024
+,,Sports,,,john ,
+, Messi ,Sports,,,,
+217,,,unknown,,,2024/13/01
+ORD218,MESSI,,408.23,,JOHN,2024/13/01
+ORD219,Messi!!,Elec ,unknown,1,John,2024/13/01
+,Messi,Electronics,,,JOHN,2024-01-01
+221,MESSI,Electronics,,,,
+ORD222,messi,Electronics,,,john ,
+,,,,-1,J0hn,2024-01-01
+,,,,,J0hn,2024-01-01
+225,MESSI,sports,unknown,,,2024/13/01
+226,messi,Electronics,,,,01/02/2024
+,messi,,unknown,10,john ,
+ORD228,messi,sports,,10,,2024/13/01
+,,,438.89,,J0hn,01/02/2024
+,,,,8,,2024-01-01
+ORD231,messi,Electronics,unknown,,JOHN,
+,MESSI,Sports,,,JOHN,
+,messi,sports,unknown,-1,John,01/02/2024
+ORD234,Messi,sports,180.78,,,
+235,MESSI,,,,John,2024/13/01
+,MESSI,Electronics,unknown,,,2024/13/01
+,Messi,,,-1,J0hn,
+,messi,sports,,,JOHN,2024-01-01
+ORD239,,,unknown,,,2024/13/01
+240,,,,,,2024-01-01
+ORD241,MESSI,,,,,2024/13/01
+242,,Electronics,46.17,-1,John,2024/13/01
+,,Sports,58.96,,,01/02/2024
+244,Messi!!,Electronics,,,JOHN,
+245, Messi ,Sports,,8,John,01/02/2024
+,MESSI,Electronics,,4,John,
+247,,Elec ,,-1,JOHN,
+, Messi ,Sports,,,John,
+249,,Electronics,unknown,,J0hn,2024-01-01
+,MESSI,Elec ,299.88,,J0hn,2024/13/01
+, Messi ,,,-1,john ,
+ORD252,,,122.52,-1,J0hn,01/02/2024
+,MESSI,Elec ,,7,JOHN,01/02/2024
+,Messi!!,,,,,2024-01-01
+,messi,Sports,57.23,-1,,
+,messi,,unknown,-1,John,2024/13/01
+257,,,102.25,,,
+258,Messi,Elec ,,5,john ,
+ORD259,Messi!!,,,,John,2024-01-01
+,Messi,,,-1,John,
+261, Messi ,,,7,J0hn,2024-01-01
+,Messi,Sports,,,,
+ORD263,Messi!!,Sports,unknown,,John,
+264,,,167.44,1,JOHN,2024/13/01
+,,,unknown,-1,John,2024-01-01
+ORD266,messi,Sports,95.28,,john ,01/02/2024
+ORD267,Messi,Elec ,unknown,,,2024/13/01
+268,,,303.85,-1,,2024-01-01
+,,,unknown,5,John,2024-01-01
+,Messi!!,,,6,J0hn,2024-01-01
+ORD271,Messi!!,Electronics,unknown,,,
+,,,unknown,-1,,
+ORD273,,Electronics,unknown,,J0hn,01/02/2024
+,MESSI,,,-1,J0hn,
+ORD275,,sports,,-1,John,2024/13/01
+,Messi,Elec ,155.9,,,
+,Messi!!,Electronics,,5,John,01/02/2024
+278,MESSI,sports,90.19,,JOHN,2024-01-01
+ORD279,,,,,,2024/13/01
+,,Elec ,,,john ,01/02/2024
+ORD281,Messi!!,Electronics,unknown,,,2024-01-01
+282,Messi!!,,,,J0hn,2024/13/01
+,Messi,Elec ,,,John,
+284,,,unknown,-1,,01/02/2024
+,Messi!!,sports,unknown,-1,,2024/13/01
+,,Elec ,unknown,3,JOHN,2024-01-01
+,messi,sports,,4,john ,2024/13/01
+,MESSI,Sports,27.0,-1,John,
+,,Electronics,,,J0hn,
+ORD290,Messi!!,,unknown,-1,John,2024-01-01
+ORD291,messi,Sports,483.9,10,John,
+, Messi ,Sports,unknown,,John,2024-01-01
+ORD293,MESSI,Sports,,-1,,
+ORD294,MESSI,,,-1,J0hn,2024/13/01
+,Messi!!,Sports,unknown,-1,,01/02/2024
+296,Messi,Elec ,,,JOHN,2024/13/01
+ORD297, Messi ,Electronics,,-1,J0hn,01/02/2024
+ORD298,,Elec ,,,John,
+ORD299,Messi!!,sports,434.96,,J0hn,
+,MESSI,,,10,,
+ORD301,Messi!!,,,,John,2024/13/01
+,MESSI,Elec ,,8,JOHN,01/02/2024
+,MESSI,,104.03,6,john ,01/02/2024
+,MESSI,,255.24,,John,01/02/2024
+ORD305,,Sports,,,,2024-01-01
+,,Sports,unknown,3,J0hn,2024/13/01
+307,Messi!!,Electronics,,,JOHN,01/02/2024
+ORD308,Messi!!,Elec ,,-1,JOHN,01/02/2024
+309,,sports,472.08,-1,John,2024/13/01
+,Messi!!,Elec ,unknown,3,John,2024-01-01
+311, Messi ,,,,JOHN,
+, Messi ,,,,J0hn,2024-01-01
+313,,,,10,JOHN,
+,Messi,Electronics,unknown,,,2024/13/01
+ORD315,messi,,,-1,,01/02/2024
+,Messi!!,Electronics,,7,john ,2024/13/01
+,Messi,Electronics,236.54,7,john ,2024-01-01
+ORD318,MESSI,,,,JOHN,2024/13/01
+,Messi!!,sports,unknown,6,,01/02/2024
+ORD320,,sports,,-1,john ,
+,Messi!!,,,,J0hn,
+ORD322, Messi ,Sports,unknown,,John,2024/13/01
+,MESSI,Elec ,,-1,JOHN,2024-01-01
+,MESSI,sports,,-1,,2024-01-01
+325,,,171.95,-1,John,01/02/2024
+326,messi,Sports,20.75,5,john ,2024/13/01
+ORD327,MESSI,Sports,,-1,J0hn,
+,,,156.92,,,
+329, Messi ,,,,J0hn,
+,,Elec ,34.89,,J0hn,2024/13/01
+ORD331,,,unknown,,john ,2024/13/01
+ORD332,,,300.25,7,J0hn,
+ORD333,,Electronics,,,John,2024-01-01
+, Messi ,Electronics,unknown,-1,,2024-01-01
+,Messi!!,Electronics,352.47,4,,01/02/2024
+ORD336,,sports,241.0,,John,2024-01-01
+,Messi!!,Elec ,unknown,,,2024/13/01
+,messi,,,,,
+, Messi ,,unknown,,john ,01/02/2024
+340, Messi ,Elec ,397.31,-1,john ,2024-01-01
+341,Messi,Sports,,,,2024/13/01
+, Messi ,Elec ,unknown,-1,JOHN,01/02/2024
+,Messi!!,Elec ,,6,,
+,messi,Electronics,56.47,-1,,2024/13/01
+,Messi,,unknown,,John,
+ORD346, Messi ,Electronics,,,,
+, Messi ,Sports,unknown,,,2024-01-01
+348,,Electronics,unknown,,JOHN,2024-01-01
+349,Messi,,45.45,,,
+ORD350,MESSI,Elec ,,3,John,
+351,messi,Electronics,324.43,-1,john ,2024-01-01
+ORD352, Messi ,,,6,john ,
+,MESSI,Elec ,,,,2024/13/01
+,Messi,Electronics,150.72,,J0hn,
+,Messi,,,2,john ,
+356, Messi ,Sports,unknown,,,
+ORD357,MESSI,Sports,,,John,01/02/2024
+358,messi,Elec ,,5,John,01/02/2024
+ORD359, Messi ,,unknown,4,JOHN,01/02/2024
+,Messi!!,,443.34,,john ,
+ORD361, Messi ,,unknown,,john ,
+362,,,unknown,,john ,2024/13/01
+,,,unknown,7,J0hn,2024-01-01
+ORD364,Messi!!,sports,unknown,2,,
+,Messi,Electronics,,,JOHN,01/02/2024
+ORD366,,,479.66,-1,,
+,,,209.18,,,01/02/2024
+ORD368,Messi,Sports,unknown,-1,John,2024-01-01
+,Messi,Sports,,,John,01/02/2024
+,,Electronics,288.11,,,2024/13/01
+371,Messi!!,Electronics,266.87,-1,,2024/13/01
+372,Messi!!,,,,J0hn,
+373,MESSI,Electronics,,,,2024/13/01
+,MESSI,sports,275.97,,,2024/13/01
+375,Messi,,196.01,-1,John,2024/13/01
+,,sports,,-1,JOHN,
+ORD377,Messi!!,sports,,-1,J0hn,2024/13/01
+378,messi,Electronics,,,,2024-01-01
+379, Messi ,,,,john ,2024-01-01
+ORD380,Messi,Sports,unknown,9,JOHN,2024/13/01
+381,Messi!!,Sports,,,J0hn,2024-01-01
+,Messi!!,Electronics,unknown,-1,JOHN,
+383,Messi!!,sports,unknown,-1,J0hn,2024/13/01
+,messi,sports,125.25,-1,,2024-01-01
+,,,190.71,,John,
+386,,Sports,,-1,,2024-01-01
+387, Messi ,,unknown,,,01/02/2024
+,Messi!!,,220.59,1,,
+, Messi ,Electronics,267.73,8,,
+,messi,Elec ,381.23,4,john ,01/02/2024
+ORD391,messi,Sports,,,John,
+ORD392, Messi ,Electronics,,8,john ,
+,,,,7,,
+ORD394, Messi ,Electronics,unknown,-1,,
+ORD395, Messi ,Electronics,7.69,-1,,2024-01-01
+396,Messi!!,sports,,,john ,2024/13/01
+ORD397,,Sports,,-1,,2024/13/01
+,messi,,,4,John,
+399,,Sports,unknown,,,
+,Messi!!,Electronics,,-1,J0hn,01/02/2024
+ORD401,,Electronics,,,,2024-01-01
+,Messi,,unknown,,JOHN,2024-01-01
+ORD403,messi,Sports,49.12,,john ,2024-01-01
+,Messi,,unknown,,john ,01/02/2024
+ORD405, Messi ,,unknown,,J0hn,2024-01-01
+ORD406, Messi ,Sports,,,john ,
+407,Messi,Elec ,,2,J0hn,
+,,Sports,,-1,,
+,,Elec ,,,john ,01/02/2024
+410,,,,-1,,
+411,Messi,Elec ,,1,,2024-01-01
+ORD412, Messi ,,,,john ,
+,,Sports,unknown,6,john ,
+, Messi ,,164.66,2,john ,
+ORD415,,Electronics,,,JOHN,2024-01-01
+ORD416,messi,,unknown,,J0hn,2024-01-01
+,,Elec ,unknown,,JOHN,2024/13/01
+418, Messi ,sports,,8,John,
+,Messi!!,,,,JOHN,
+,,Electronics,unknown,-1,,
+421,messi,sports,350.88,,john ,
+ORD422,,,270.02,,,2024-01-01
+,,Elec ,,,John,01/02/2024
+, Messi ,Elec ,,,John,
+ORD425,messi,Sports,347.98,,JOHN,2024-01-01
+ORD426, Messi ,Sports,,,JOHN,2024-01-01
+,MESSI,Electronics,unknown,8,,2024/13/01
+428,Messi,,84.59,-1,John,2024/13/01
+429,MESSI,Sports,38.61,,,
+,messi,,,4,JOHN,01/02/2024
+ORD431,,Elec ,154.86,,john ,01/02/2024
+,Messi,Electronics,237.6,,JOHN,01/02/2024
+433,Messi!!,Sports,unknown,-1,JOHN,01/02/2024
+ORD434,messi,sports,,,J0hn,
+ORD435,Messi!!,Electronics,9.76,5,JOHN,2024-01-01
+,,sports,unknown,,,
+,Messi!!,Electronics,,,,2024-01-01
+,MESSI,,78.35,-1,,01/02/2024
+439, Messi ,,,4,,
+ORD440,messi,Elec ,,5,john ,2024/13/01
+,Messi,sports,,,,
+,MESSI,Sports,,4,JOHN,
+443,,Electronics,unknown,-1,,
+,messi,sports,unknown,,J0hn,
+445, Messi ,sports,,,john ,2024/13/01
+ORD446,messi,Elec ,unknown,,John,
+,Messi,,46.52,,john ,
+ORD448,Messi,Sports,,,,
+,Messi,,118.78,,,2024/13/01
+450,messi,,unknown,-1,,2024/13/01
+ORD451,,Electronics,461.41,,,2024/13/01
+452,,sports,141.73,,,01/02/2024
+, Messi ,sports,119.49,,J0hn,2024/13/01
+,,Electronics,unknown,,,2024-01-01
+ORD455,,,360.24,,JOHN,01/02/2024
+,Messi,sports,unknown,-1,J0hn,2024-01-01
+ORD457,messi,,unknown,,JOHN,01/02/2024
+458,,,,7,,01/02/2024
+,messi,,,3,JOHN,
+460,,,,5,JOHN,2024/13/01
+,MESSI,Sports,,,,2024-01-01
+462,MESSI,Elec ,unknown,,John,
+463,Messi!!,Electronics,464.24,10,john ,2024-01-01
+ORD464,,,,,JOHN,01/02/2024
+465,messi,,unknown,-1,John,
+ORD466,,Electronics,471.98,-1,John,
+467,,,203.17,,JOHN,
+468,Messi,Elec ,,2,John,2024-01-01
+ORD469,,Elec ,unknown,,John,2024-01-01
+470,,,unknown,,John,
+,Messi,,,-1,J0hn,2024/13/01
+, Messi ,Electronics,unknown,,JOHN,2024-01-01
+473,Messi!!,,,,JOHN,
+,Messi!!,,118.13,,JOHN,01/02/2024
+,Messi,,,,john ,2024/13/01
+,Messi!!,Elec ,383.57,4,,01/02/2024
+ORD477, Messi ,sports,184.79,,,2024/13/01
+ORD478,Messi!!,Sports,26.21,1,john ,01/02/2024
+,Messi!!,Sports,8.51,-1,john ,2024-01-01
+,messi,,unknown,-1,john ,
+,MESSI,Elec ,,-1,,
+,,Elec ,,-1,john ,01/02/2024
+,MESSI,,,10,JOHN,01/02/2024
+,,Sports,,,JOHN,
+,Messi!!,,419.63,-1,J0hn,2024/13/01
+486,,Electronics,,,J0hn,
+,Messi!!,sports,,-1,J0hn,2024/13/01
+,Messi,Electronics,,,JOHN,
+ORD489, Messi ,Elec ,unknown,-1,J0hn,2024/13/01
+,,sports,,,,2024-01-01
+,,Sports,,,,2024/13/01
+,,,259.26,10,,
+493,MESSI,Electronics,197.46,,JOHN,
+, Messi ,,,5,,
+, Messi ,,,,,2024-01-01
+ORD496,,,,5,John,2024/13/01
+497,MESSI,Sports,unknown,,J0hn,01/02/2024
+ORD498,Messi!!,Electronics,,,john ,2024/13/01
+ORD499,,,,,J0hn,
+, Messi ,Sports,112.6,-1,,
+, Messi ,sports,unknown,,,2024-01-01
+502, Messi ,Sports,unknown,,john ,
+, Messi ,,unknown,-1,john ,2024-01-01
+, Messi ,Elec ,,,john ,01/02/2024
+505,,Electronics,462.39,-1,JOHN,2024-01-01
+506,,sports,,,,2024-01-01
+ORD507,Messi!!,sports,unknown,,,2024/13/01
+,messi,,,-1,J0hn,2024-01-01
+ORD509,Messi!!,sports,17.89,,,2024/13/01
+510,messi,Sports,,9,john ,
+ORD511,Messi,sports,,9,,2024-01-01
+,,Sports,493.42,,john ,01/02/2024
+ORD513,MESSI,sports,443.12,-1,J0hn,2024/13/01
+,MESSI,,,,John,01/02/2024
+515,MESSI,sports,201.07,,JOHN,01/02/2024
+ORD516,Messi,sports,unknown,,,01/02/2024
+,MESSI,sports,unknown,,john ,2024/13/01
+, Messi ,sports,,,,
+,MESSI,,unknown,1,john ,2024/13/01
+,Messi!!,Elec ,371.31,,JOHN,
+521,messi,Electronics,unknown,-1,,
+ORD522,MESSI,,unknown,,john ,2024/13/01
+ORD523, Messi ,Electronics,256.62,,john ,
+524,Messi,sports,328.77,,John,2024/13/01
+525,Messi,sports,,6,J0hn,01/02/2024
+ORD526,MESSI,,,9,,2024/13/01
+,messi,sports,32.82,9,J0hn,
+ORD528,messi,Electronics,400.45,,john ,2024/13/01
+ORD529,messi,sports,220.3,,JOHN,2024-01-01
+,MESSI,Sports,88.68,,,2024-01-01
+ORD531,messi,Sports,unknown,4,J0hn,2024-01-01
+,messi,Elec ,unknown,-1,,
+,messi,,unknown,,J0hn,2024/13/01
+ORD534,messi,Electronics,,,john ,
+ORD535,,Sports,unknown,3,,2024/13/01
+536,Messi,Elec ,,,,
+537, Messi ,,,,john ,2024-01-01
+,messi,Elec ,,-1,,01/02/2024
+539,messi,sports,,10,,01/02/2024
+,MESSI,,,9,John,
+541,Messi,Sports,,6,John,
+ORD542,,sports,,,JOHN,
+543,Messi!!,,,,John,2024/13/01
+,MESSI,Electronics,,10,JOHN,01/02/2024
+,messi,sports,,,JOHN,2024/13/01
+ORD546,,sports,,,JOHN,2024/13/01
+,MESSI,,,5,john ,
+,messi,Sports,,1,john ,01/02/2024
+549,,,,10,John,2024/13/01
+,messi,,unknown,,John,
+,messi,Sports,,10,,2024-01-01
+,MESSI,Electronics,,-1,john ,
+,,sports,,3,J0hn,2024-01-01
+ORD554,,,,3,john ,
+,Messi!!,Electronics,,-1,john ,
+,Messi,sports,196.25,,JOHN,2024/13/01
+,,Elec ,320.97,,,2024-01-01
+,,Elec ,467.55,,,2024-01-01
+,messi,Electronics,,,,
+560,Messi,,unknown,,,2024-01-01
+561,,Sports,,,,01/02/2024
+562,messi,Sports,,,,2024/13/01
+,Messi!!,sports,401.74,-1,J0hn,
+,Messi!!,,unknown,-1,J0hn,2024-01-01
+, Messi ,,unknown,7,JOHN,2024-01-01
+566, Messi ,Electronics,,,,
+567,messi,,,-1,J0hn,
+,Messi!!,,220.34,-1,John,
+569,Messi,,482.16,-1,John,
+570,Messi,sports,,3,john ,2024-01-01
+,messi,Electronics,,-1,JOHN,
+,Messi!!,,,-1,JOHN,2024-01-01
+,Messi,,unknown,-1,john ,2024/13/01
+,Messi!!,,258.0,-1,,2024/13/01
+, Messi ,Elec ,420.52,,,2024/13/01
+576,Messi!!,Elec ,,-1,,2024/13/01
+,Messi,Electronics,,-1,John,2024/13/01
+,MESSI,Sports,,,,
+ORD579,MESSI,sports,,,,
+ORD580,,,6.95,3,john ,01/02/2024
+581,Messi!!,Electronics,407.74,5,JOHN,2024-01-01
+582,MESSI,sports,126.11,,john ,2024/13/01
+583,Messi!!,sports,,,,2024/13/01
+,MESSI,sports,,2,John,2024/13/01
+585,MESSI,sports,,8,john ,
+, Messi ,sports,,-1,,01/02/2024
+,messi,sports,,,,
+,Messi,Sports,,,,
+,messi,Electronics,unknown,4,John,2024/13/01
+,Messi!!,sports,,-1,JOHN,
+591, Messi ,,258.66,,,
+592,Messi,Sports,unknown,9,john ,01/02/2024
+,,Electronics,,,John,
+,MESSI,,unknown,10,,2024/13/01
+ORD595, Messi ,sports,,9,,2024-01-01
+,,Electronics,212.68,-1,John,
+,Messi,Electronics,,,JOHN,
+598,Messi,,,-1,John,
+ORD599,Messi,,163.16,-1,JOHN,2024-01-01
+600,MESSI,Sports,476.02,,JOHN,2024-01-01
+,,Electronics,,,,2024-01-01
+,,Sports,212.49,,john ,01/02/2024
+ORD603,MESSI,Sports,,6,john ,2024-01-01
+,,,unknown,,,2024-01-01
+605,Messi,,,-1,J0hn,2024-01-01
+,Messi,Sports,387.4,-1,john ,
+,Messi,,,,J0hn,
+608,Messi!!,Electronics,,-1,JOHN,01/02/2024
+,,,unknown,3,John,2024-01-01
+,,sports,477.77,,,01/02/2024
+611,,,349.88,10,john ,2024-01-01
+612,Messi!!,,unknown,4,john ,2024-01-01
+,MESSI,,,,JOHN,
+614,MESSI,sports,unknown,-1,J0hn,2024-01-01
+615,Messi,Electronics,unknown,,JOHN,
+616,Messi!!,Electronics,,,john ,2024/13/01
+617,Messi,Elec ,,,,2024/13/01
+,,Electronics,,4,JOHN,
+,Messi!!,Sports,,2,,2024-01-01
+ORD620,Messi,,unknown,,,2024/13/01
+ORD621,Messi,Elec ,,8,john ,01/02/2024
+ORD622,,Electronics,,,,2024-01-01
+,messi,,,,john ,01/02/2024
+624,Messi,Sports,unknown,,,2024-01-01
+625,MESSI,,unknown,,,01/02/2024
+,,,,5,John,2024-01-01
+627,Messi,,,,,
+628,,,60.48,-1,J0hn,2024-01-01
+,Messi!!,sports,,,,
+630, Messi ,,unknown,,,
+631,Messi,,unknown,10,J0hn,01/02/2024
+632,,,,,JOHN,
+633,Messi,Electronics,38.03,,J0hn,
+,,,221.94,,,2024/13/01
+,,,unknown,,John,2024/13/01
+636, Messi ,,206.94,,J0hn,2024-01-01
+637,,,482.21,3,John,
+,messi,sports,unknown,,JOHN,2024-01-01
+639,MESSI,,,-1,John,2024-01-01
+,Messi!!,Sports,unknown,,,
+,messi,sports,,-1,J0hn,
+,messi,Electronics,unknown,9,John,
+,Messi!!,,224.94,,John,
+,Messi!!,,unknown,,,2024/13/01
+645,Messi,,489.77,10,john ,2024-01-01
+646,,Sports,,10,john ,
+,,Sports,,-1,,2024/13/01
+,Messi,,,,JOHN,2024/13/01
+ORD649,messi,,,,,
+ORD650,MESSI,Elec ,,,JOHN,2024/13/01
+ORD651,messi,Electronics,,7,john ,2024/13/01
+,,,344.56,,John,2024-01-01
+ORD653,Messi!!,,unknown,,,
+,Messi,Sports,428.63,2,J0hn,2024-01-01
+,,sports,,,,2024/13/01
+656, Messi ,Electronics,unknown,4,John,2024-01-01
+, Messi ,,,5,,
+658,,,unknown,5,John,
+,,Electronics,,1,,2024-01-01
+660,Messi!!,Elec ,unknown,,John,2024/13/01
+ORD661,messi,,32.38,,JOHN,2024/13/01
+ORD662,Messi!!,Electronics,unknown,-1,john ,
+663,messi,,,-1,,
+,,Sports,17.24,7,John,2024-01-01
+,,Electronics,,7,,
+,messi,Electronics,,,John,2024/13/01
+667, Messi ,Sports,183.61,-1,John,
+,,,unknown,,J0hn,
+,,Elec ,56.43,,,
+ORD670,Messi,Electronics,83.19,,JOHN,2024/13/01
+,,Elec ,,,J0hn,2024/13/01
+,MESSI,,unknown,,J0hn,01/02/2024
+673,Messi!!,sports,220.83,1,,2024-01-01
+ORD674,MESSI,,69.51,-1,,
+675,Messi!!,,252.36,,JOHN,2024-01-01
+,MESSI,sports,122.54,,J0hn,2024-01-01
+677,Messi,Sports,,8,John,2024/13/01
+ORD678,MESSI,Sports,unknown,,John,2024-01-01
+679,,Sports,,-1,john ,2024-01-01
+, Messi ,,unknown,6,,
+681,Messi,Electronics,,,John,
+,MESSI,sports,unknown,8,john ,2024/13/01
+683, Messi ,,unknown,,J0hn,
+,,,,9,,01/02/2024
+685, Messi ,Elec ,,-1,J0hn,
+ORD686,,,,,,2024-01-01
+,,,unknown,,JOHN,01/02/2024
+,MESSI,Electronics,,,john ,2024/13/01
+,Messi!!,,unknown,,J0hn,01/02/2024
+, Messi ,Sports,137.39,,,
+,MESSI,,,,john ,01/02/2024
+ORD692, Messi ,sports,454.41,,john ,01/02/2024
+ORD693,messi,,,,john ,01/02/2024
+,Messi!!,Electronics,,3,J0hn,
+,,sports,,-1,JOHN,
+,Messi!!,,,,,
+697,messi,Sports,,,John,2024/13/01
+698,messi,Sports,,,john ,
+ORD699,,,unknown,3,john ,01/02/2024
+ORD700,Messi!!,Sports,,,JOHN,2024-01-01
+,,,,,J0hn,2024/13/01
+ORD702,messi,Sports,,,,01/02/2024
+703,Messi!!,,,,,
+,,Elec ,unknown,,JOHN,2024/13/01
+,,sports,unknown,-1,JOHN,2024-01-01
+, Messi ,Elec ,,7,,2024/13/01
+,messi,,191.59,,John,2024/13/01
+,messi,Electronics,,,,
+709,,Electronics,,-1,J0hn,
+, Messi ,Elec ,,,JOHN,2024/13/01
+,messi,sports,,8,,01/02/2024
+ORD712,,,,,JOHN,
+ORD713,Messi,,,-1,,01/02/2024
+,Messi!!,,181.41,,john ,2024/13/01
+715,Messi!!,Electronics,305.3,-1,,2024-01-01
+, Messi ,Sports,unknown,6,john ,
+ORD717,Messi!!,,324.08,,john ,
+ORD718,messi,,100.54,,John,
+719,MESSI,Elec ,unknown,7,,
+,Messi!!,Elec ,,-1,John,01/02/2024
+721,messi,,,,JOHN,
+,,Sports,,10,John,2024/13/01
+723,Messi!!,,,,,2024-01-01
+,Messi!!,Electronics,unknown,,JOHN,2024/13/01
+,,,unknown,10,john ,
+,Messi!!,Sports,,-1,JOHN,
+727,Messi!!,Electronics,,,,
+,MESSI,Sports,,5,,01/02/2024
+729,Messi,Sports,,-1,JOHN,01/02/2024
+ORD730,Messi!!,Electronics,,3,John,
+,,sports,,,John,2024-01-01
+,Messi,,,,,2024-01-01
+733,Messi!!,Electronics,unknown,6,J0hn,
+,,Sports,345.45,,John,
+ORD735,MESSI,sports,,9,,2024/13/01
+ORD736,MESSI,sports,487.7,7,john ,01/02/2024
+ORD737,,Electronics,,,john ,
+738,Messi!!,,53.96,1,JOHN,2024/13/01
+,Messi!!,sports,unknown,,John,
+, Messi ,Electronics,254.49,-1,J0hn,2024/13/01
+ORD741,MESSI,,,,,01/02/2024
+ORD742, Messi ,sports,,-1,John,
+,Messi,Elec ,,,J0hn,
+ORD744,,,unknown,,john ,2024-01-01
+ORD745,MESSI,,,-1,J0hn,2024-01-01
+, Messi ,Sports,369.65,-1,John,01/02/2024
+ORD747, Messi ,Sports,121.16,,JOHN,2024/13/01
+748,MESSI,Electronics,217.98,1,,
+,Messi,Electronics,unknown,-1,,2024/13/01
+,,Sports,,3,,
+ORD751,messi,,402.86,,JOHN,2024/13/01
+752,Messi!!,,,-1,,2024/13/01
+ORD753,Messi!!,Elec ,313.01,,JOHN,2024/13/01
+,messi,,unknown,,,2024-01-01
+,Messi,Sports,,,JOHN,2024/13/01
+,Messi!!,,,,,2024-01-01
+ORD757,,,unknown,1,,2024-01-01
+,MESSI,Sports,295.8,6,,
+ORD759,messi,Electronics,unknown,,john ,2024/13/01
+,messi,Electronics,,,john ,2024-01-01
+,Messi,sports,,,john ,
+,MESSI,,,-1,john ,2024-01-01
+,messi,,unknown,10,,
+, Messi ,Electronics,379.74,,John,
+765,messi,Elec ,215.01,,JOHN,2024-01-01
+,MESSI,sports,,8,JOHN,01/02/2024
+,,,202.19,,,01/02/2024
+,Messi,,,,john ,01/02/2024
+,,,,6,,
+ORD770,messi,Elec ,,7,J0hn,
+,Messi,Electronics,unknown,-1,,
+,,,,6,J0hn,
+ORD773,messi,sports,,-1,,2024-01-01
+,,Elec ,,,John,01/02/2024
+ORD775,,Elec ,,,,
+776,Messi,sports,,,JOHN,2024/13/01
+,messi,,480.7,-1,john ,2024-01-01
+778,messi,Elec ,,,JOHN,
+, Messi ,Electronics,,10,JOHN,
+780,messi,Elec ,unknown,-1,john ,
+, Messi ,Electronics,,,J0hn,2024-01-01
+,MESSI,Electronics,,,,2024-01-01
+,Messi!!,sports,unknown,,JOHN,01/02/2024
+784,messi,,unknown,,,
+ORD785,MESSI,,22.25,3,J0hn,
+,messi,,58.18,,,
+,,,unknown,,,2024-01-01
+ORD788,,,25.26,,,2024/13/01
+ORD789,Messi,Elec ,,,J0hn,
+,MESSI,,,-1,John,2024/13/01
+,MESSI,Sports,,,JOHN,2024-01-01
+ORD792,messi,,392.76,,,
+,MESSI,sports,29.73,,,
+ORD794,Messi!!,Elec ,,-1,john ,01/02/2024
+ORD795,messi,,,-1,JOHN,2024-01-01
+,Messi,,unknown,,,
+,Messi,sports,,-1,,01/02/2024
+,,,,,john ,
+ORD799,Messi,Electronics,263.14,,JOHN,
+,MESSI,,unknown,5,John,01/02/2024
+ORD801,Messi!!,,,,john ,2024/13/01
+ORD802,messi,sports,,,JOHN,2024-01-01
+ORD803,Messi,Sports,,,JOHN,01/02/2024
+804,,,185.41,,john ,
+,messi,Elec ,139.26,-1,John,2024-01-01
+,MESSI,,,-1,,2024-01-01
+,MESSI,sports,,,John,
+808,MESSI,,151.89,,,
+,Messi,,491.72,,john ,2024/13/01
+ORD810,Messi!!,sports,unknown,,J0hn,01/02/2024
+, Messi ,Sports,57.97,-1,,01/02/2024
+,,,194.49,,,01/02/2024
+,MESSI,Electronics,391.88,,JOHN,
+ORD814,MESSI,sports,109.41,-1,,
+,MESSI,,,,john ,2024/13/01
+,,Sports,,2,,
+ORD817,,sports,unknown,,john ,2024-01-01
+ORD818,Messi!!,sports,,,john ,
+819,Messi!!,Elec ,,,John,
+,,Electronics,,,John,
+,,,215.58,-1,john ,
+822,Messi,,304.75,-1,,01/02/2024
+,,Elec ,,,,
+, Messi ,Elec ,,,John,
+, Messi ,,345.9,,JOHN,01/02/2024
+,messi,,,-1,,2024-01-01
+,,,,5,,01/02/2024
+828,messi,sports,498.35,,john ,2024-01-01
+ORD829,,Electronics,,3,,
+,Messi!!,sports,unknown,,J0hn,
+831,Messi!!,,,,john ,01/02/2024
+,MESSI,,,-1,,
+833,MESSI,sports,unknown,,John,01/02/2024
+834,,,,,,2024/13/01
+,Messi,Sports,,,john ,01/02/2024
+ORD836,,,405.22,-1,john ,2024/13/01
+837,messi,sports,77.39,6,JOHN,
+838,,Sports,unknown,-1,J0hn,2024/13/01
+,,,241.13,,JOHN,
+,Messi,,unknown,,,2024/13/01
+841,,Elec ,371.35,-1,john ,2024/13/01
+ORD842, Messi ,,unknown,,John,
+ORD843,,Elec ,,,,2024-01-01
+,,Elec ,,-1,,2024-01-01
+845,,Sports,202.18,-1,John,2024/13/01
+,,,unknown,1,john ,2024/13/01
+847,Messi,,357.64,-1,JOHN,
+,Messi!!,Elec ,,,,2024/13/01
+,Messi,sports,,,JOHN,2024-01-01
+, Messi ,Sports,,,,2024/13/01
+,,,194.02,,J0hn,
+852,Messi!!,,306.36,,,2024/13/01
+,messi,,,-1,,01/02/2024
+854,MESSI,Sports,414.47,,JOHN,
+,messi,,209.56,5,JOHN,01/02/2024
+,,Sports,461.29,-1,,2024/13/01
+857,Messi!!,,,,John,01/02/2024
+858,Messi!!,,unknown,,John,2024/13/01
+859,messi,Elec ,unknown,,john ,2024-01-01
+860,,,147.08,,JOHN,01/02/2024
+, Messi ,Elec ,35.16,-1,John,2024/13/01
+ORD862,,sports,,,JOHN,
+,Messi,,,,john ,2024/13/01
+,messi,Electronics,211.39,,,2024/13/01
+,Messi!!,sports,97.53,-1,,01/02/2024
+,MESSI,Elec ,unknown,,John,
+,Messi!!,,,2,john ,01/02/2024
+,Messi!!,,,,,
+869,Messi,sports,unknown,-1,,2024/13/01
+,Messi!!,,,6,john ,2024-01-01
+ORD871,messi,Electronics,,,JOHN,
+ORD872,Messi,,,-1,john ,01/02/2024
+ORD873, Messi ,sports,285.86,,,2024-01-01
+,Messi!!,,421.7,6,JOHN,
+ORD875, Messi ,,unknown,,,
+876,,Sports,,,,01/02/2024
+877,Messi,,,-1,,2024/13/01
+878,,,,,john ,2024/13/01
+,,,422.21,,,2024-01-01
+, Messi ,,,-1,,2024/13/01
+ORD881,Messi!!,,unknown,,J0hn,01/02/2024
+,Messi,,,-1,John,
+ORD883, Messi ,,,,JOHN,2024-01-01
+ORD884,messi,Electronics,,6,John,2024/13/01
+885,,,356.45,,John,2024/13/01
+886,MESSI,,,-1,J0hn,2024-01-01
+,messi,,,,John,
+,,,unknown,-1,,01/02/2024
+889,,,34.98,,J0hn,
+, Messi ,,unknown,,,2024/13/01
+, Messi ,,unknown,-1,,
+892,MESSI,,,8,,
+,Messi!!,,108.95,,John,01/02/2024
+,Messi!!,,,-1,John,
+ORD895,,Electronics,unknown,,john ,2024/13/01
+ORD896,messi,Elec ,,,,2024/13/01
+ORD897,MESSI,sports,,-1,,2024-01-01
+ORD898, Messi ,Elec ,,6,,
+, Messi ,Sports,,,,01/02/2024
+, Messi ,Elec ,38.82,7,John,
+901,messi,sports,,,,
+ORD902,,,unknown,,,2024/13/01
+ORD903,messi,Elec ,unknown,-1,,2024/13/01
+904,,sports,,,John,
+,Messi!!,Sports,,7,,2024/13/01
+,,,,9,JOHN,
+,messi,Electronics,unknown,3,John,
+908,Messi,,432.35,-1,J0hn,
+ORD909,Messi,,unknown,2,,
+ORD910,,sports,,-1,,2024/13/01
+911, Messi ,,340.49,8,John,
+912,Messi!!,Electronics,,,JOHN,2024-01-01
+,,Electronics,,,John,2024-01-01
+ORD914,messi,Electronics,,,J0hn,2024/13/01
+ORD915,Messi!!,,181.14,,John,
+,,Sports,,4,J0hn,
+,messi,,53.97,,john ,
+ORD918,,,,-1,John,
+,MESSI,,,,,
+920,Messi!!,,407.51,-1,JOHN,
+,,sports,426.96,9,J0hn,2024-01-01
+ORD922,Messi!!,sports,,1,john ,
+923,Messi,sports,,10,J0hn,2024-01-01
+924,,sports,460.57,,john ,2024-01-01
+ORD925,,,46.4,-1,J0hn,
+,Messi!!,sports,358.63,2,J0hn,01/02/2024
+,,,425.94,,,2024/13/01
+928,,,68.85,9,john ,2024/13/01
+,Messi!!,Sports,unknown,7,JOHN,
+930,Messi,Sports,6.32,,J0hn,2024/13/01
+,Messi,,,-1,john ,2024/13/01
+,,sports,469.44,-1,John,
+,MESSI,,258.49,,,2024/13/01
+,messi,Electronics,,-1,,
+ORD935, Messi ,,,,,
+,MESSI,sports,,,john ,2024/13/01
+937, Messi ,,,,JOHN,2024-01-01
+,Messi,,,,,01/02/2024
+939,Messi,,,-1,J0hn,2024-01-01
+, Messi ,,unknown,,john ,2024-01-01
+941,messi,,unknown,,john ,
+, Messi ,Electronics,329.71,,John,
+,,Elec ,465.75,,,2024/13/01
+,,Sports,,-1,,01/02/2024
+,messi,Sports,,,J0hn,
+,Messi,sports,,,,2024-01-01
+,,Electronics,unknown,3,J0hn,
+948,Messi!!,Elec ,,,John,
+,Messi,Sports,unknown,,John,
+ORD950,messi,Electronics,468.59,-1,,2024-01-01
+ORD951,messi,Sports,,,,2024-01-01
+ORD952,,Sports,,,,
+953,MESSI,,473.58,,JOHN,2024-01-01
+ORD954, Messi ,,,1,John,
+ORD955,messi,,,6,,2024-01-01
+ORD956,,,unknown,,,2024/13/01
+,MESSI,Sports,330.65,,,01/02/2024
+ORD958, Messi ,Electronics,,4,JOHN,01/02/2024
+,Messi,Sports,,6,,2024-01-01
+,Messi,Elec ,,-1,,2024/13/01
+961,Messi!!,Elec ,unknown,,john ,
+ORD962,MESSI,Sports,unknown,,JOHN,
+ORD963,MESSI,Electronics,unknown,9,,2024/13/01
+,Messi!!,Sports,,,J0hn,2024-01-01
+,MESSI,sports,367.81,-1,,01/02/2024
+,Messi,,362.67,,,2024/13/01
+,Messi,Sports,unknown,6,,
+968, Messi ,sports,unknown,,JOHN,2024/13/01
+,messi,,,10,,2024-01-01
+970,Messi!!,Sports,unknown,,J0hn,01/02/2024
+971,,Elec ,,-1,JOHN,
+972,,,442.94,,john ,2024-01-01
+,,sports,,,john ,2024/13/01
+,messi,sports,,,John,
+,,Electronics,unknown,-1,,2024/13/01
+ORD976,messi,,unknown,,John,2024/13/01
+,messi,,,6,john ,01/02/2024
+ORD978,MESSI,Sports,,5,john ,
+ORD979,Messi,Elec ,unknown,,john ,2024-01-01
+,MESSI,Elec ,unknown,1,JOHN,2024/13/01
+981,Messi!!,sports,231.81,-1,J0hn,
+ORD982,Messi,Sports,,3,,
+ORD983,MESSI,Elec ,407.11,,JOHN,2024-01-01
+ORD984,,Electronics,,3,,2024/13/01
+,,Elec ,281.35,,john ,2024/13/01
+, Messi ,Electronics,,-1,,
+,,Sports,387.25,-1,JOHN,
+,messi,,unknown,,john ,2024-01-01
+,Messi,Sports,,3,J0hn,2024-01-01
+,Messi!!,,,9,,2024/13/01
+991,Messi,sports,,7,,
+992,,Electronics,110.97,,,
+,,Sports,,,John,
+994,messi,Electronics,,-1,john ,
+995, Messi ,Elec ,unknown,,,
+996,MESSI,sports,,8,John,2024-01-01
+997,Messi,Electronics,unknown,-1,,01/02/2024
+998,Messi!!,,unknown,9,john ,2024-01-01
+999,messi,,,-1,,2024-01-01
+,Messi,sports,,3,John,
+,MESSI,,,,J0hn,2024-01-01
+1002,MESSI,Sports,,10,J0hn,01/02/2024
+1003,Messi!!,,147.91,-1,John,2024-01-01
+1004,MESSI,,,,J0hn,01/02/2024
+,MESSI,sports,201.36,-1,J0hn,01/02/2024
+,Messi,Elec ,92.12,9,,2024/13/01
+ORD1007,Messi,Electronics,,-1,J0hn,
+,MESSI,Sports,,7,,2024-01-01
+, Messi ,Electronics,,1,John,2024/13/01
+,,,,2,john ,2024-01-01
+,MESSI,,,-1,J0hn,
+1012, Messi ,,unknown,-1,john ,01/02/2024
+ORD1013,Messi,Electronics,366.38,,,
+,MESSI,Sports,58.54,,john ,01/02/2024
+ORD1015, Messi ,,265.59,,JOHN,
+, Messi ,,unknown,,,
+,Messi,Elec ,unknown,,John,
+1018,MESSI,,,,john ,2024-01-01
+1019,messi,Sports,158.5,,J0hn,
+ORD1020,,Elec ,,,JOHN,2024/13/01
+,messi,Sports,unknown,-1,john ,2024/13/01
+ORD1022,Messi,sports,unknown,-1,john ,2024/13/01
+,Messi!!,,107.5,,john ,
+ORD1024,MESSI,Elec ,unknown,-1,JOHN,2024-01-01
+ORD1025,Messi,Elec ,,10,John,2024-01-01
+ORD1026,Messi!!,,unknown,,,
+ORD1027,MESSI,,,,JOHN,
+,Messi,sports,,-1,J0hn,01/02/2024
+1029,Messi,,,,J0hn,
+1030,Messi!!,Elec ,,8,J0hn,2024-01-01
+1031, Messi ,sports,122.7,-1,J0hn,
+,MESSI,,unknown,,john ,01/02/2024
+,,sports,unknown,,J0hn,
+,Messi,,,-1,,2024-01-01
+1035,Messi,Elec ,,,John,01/02/2024
+ORD1036,Messi!!,Electronics,,1,JOHN,2024-01-01
+,Messi!!,Electronics,unknown,,john ,
+,Messi,sports,unknown,6,,2024-01-01
+,MESSI,Electronics,,,John,01/02/2024
+ORD1040,messi,Elec ,184.25,2,J0hn,01/02/2024
+ORD1041,,Electronics,,,,2024/13/01
+,MESSI,sports,,,,01/02/2024
+,Messi,Sports,unknown,-1,,01/02/2024
+,messi,Electronics,441.33,-1,john ,
+,MESSI,,,,John,
+1046,,sports,,-1,john ,
+1047,Messi!!,Electronics,276.53,2,john ,2024-01-01
+1048,,Elec ,,,,2024-01-01
+ORD1049,,Electronics,,,JOHN,
+,Messi!!,Sports,,1,,
+,messi,Elec ,146.27,-1,John,
+1052,,Elec ,16.61,,J0hn,2024/13/01
+ORD1053,Messi,sports,,,,01/02/2024
+1054,,,,-1,J0hn,2024-01-01
+,Messi!!,,,10,,
+,,,293.15,-1,,01/02/2024
+ORD1057,MESSI,Sports,,-1,,
+, Messi ,Sports,,-1,John,
+,,,unknown,5,,
+,Messi!!,,488.16,-1,,01/02/2024
+1061,Messi!!,,,5,john ,2024-01-01
+1062,,,,,,
+,Messi!!,Elec ,456.33,-1,john ,
+,,Elec ,unknown,-1,john ,
+1065, Messi ,Elec ,286.1,6,John,
+,Messi,Electronics,,,JOHN,2024/13/01
+ORD1067,,,unknown,4,J0hn,01/02/2024
+,MESSI,sports,unknown,,John,2024-01-01
+ORD1069,Messi!!,Elec ,,-1,,
+,messi,Electronics,,,,
+,Messi!!,Electronics,,,J0hn,
+ORD1072,Messi!!,,unknown,-1,John,01/02/2024
+,Messi,Electronics,351.42,7,JOHN,2024/13/01
+ORD1074,Messi,Electronics,unknown,,JOHN,
+,MESSI,Sports,436.72,7,John,01/02/2024
+1076,messi,Sports,,,,
+ORD1077,,Electronics,unknown,-1,John,2024/13/01
+1078,messi,Sports,,,J0hn,
+,Messi,sports,,,,01/02/2024
+, Messi ,Elec ,,,,
+1081,Messi,Elec ,,-1,J0hn,
+1082,,,480.66,,John,2024-01-01
+ORD1083,Messi,Elec ,186.05,9,john ,
+,Messi!!,Electronics,,1,john ,2024/13/01
+1085,,Elec ,,4,john ,
+,MESSI,sports,,,john ,
+,messi,sports,,10,john ,
+1088,,Sports,,,john ,2024-01-01
+, Messi ,,,,J0hn,2024/13/01
+,Messi,sports,,-1,J0hn,01/02/2024
+ORD1091,Messi,sports,unknown,7,JOHN,
+ORD1092,MESSI,,177.93,1,John,
+ORD1093,messi,Elec ,179.48,7,J0hn,
+,Messi!!,,unknown,,,2024-01-01
+,messi,,unknown,,John,
+1096,messi,,,5,john ,2024/13/01
+1097,MESSI,Elec ,,3,john ,2024-01-01
+,messi,Sports,unknown,,J0hn,
+,Messi,Electronics,,-1,JOHN,01/02/2024
+ORD1100,messi,Electronics,unknown,-1,john ,2024/13/01
+1101,Messi!!,,unknown,,,
+,MESSI,Elec ,,7,JOHN,
+,MESSI,Electronics,,-1,,2024-01-01
+1104,,,,-1,,
+,Messi!!,sports,unknown,,,
+,Messi,Electronics,,,,2024-01-01
+1107,Messi,Elec ,unknown,-1,,2024-01-01
+ORD1108,Messi,Electronics,,,John,01/02/2024
+ORD1109, Messi ,,unknown,4,John,2024/13/01
+ORD1110,Messi,Electronics,,,J0hn,2024-01-01
+1111, Messi ,Sports,unknown,,JOHN,2024/13/01
+, Messi ,Electronics,,,J0hn,01/02/2024
+,,,,1,JOHN,
+,Messi,Electronics,,8,,2024/13/01
+,,sports,318.14,-1,John,
+ORD1116,MESSI,Elec ,,-1,,
+1117,Messi,,344.71,,john ,
+,Messi,,,,john ,2024-01-01
+1119,,Elec ,,,john ,
+,,sports,unknown,,,
+ORD1121,MESSI,Sports,,,John,
+ORD1122,Messi!!,Elec ,,7,J0hn,01/02/2024
+1123,,Elec ,180.56,,JOHN,2024-01-01
+1124,MESSI,Electronics,106.31,,,
+,Messi!!,Electronics,,,JOHN,
+ORD1126,,Electronics,100.96,7,JOHN,2024-01-01
+ORD1127,,,unknown,,J0hn,01/02/2024
+ORD1128, Messi ,Sports,,,,
+ORD1129,,Elec ,,-1,J0hn,2024/13/01
+,MESSI,sports,,-1,,
+,messi,,,-1,,
+1132,MESSI,Sports,74.14,3,,2024/13/01
+,,,,,john ,01/02/2024
+, Messi ,sports,unknown,,John,2024-01-01
+,,,64.77,7,john ,
+,Messi!!,,,,JOHN,01/02/2024
+,MESSI,Electronics,unknown,3,,
+,messi,Elec ,unknown,-1,JOHN,
+1139,,,unknown,,,2024/13/01
+, Messi ,,,-1,JOHN,01/02/2024
+,Messi,Electronics,unknown,7,JOHN,
+1142,Messi!!,sports,,,john ,2024-01-01
+,Messi,Electronics,unknown,,,
+,MESSI,,unknown,,,
+,,Elec ,unknown,,John,01/02/2024
+, Messi ,Elec ,,,JOHN,
+ORD1147,MESSI,sports,,,,
+ORD1148, Messi ,Elec ,,-1,,2024/13/01
+ORD1149, Messi ,Sports,252.06,-1,,01/02/2024
+,messi,,,8,,
+,,,,2,,2024-01-01
+,Messi,Electronics,,,,
+,,Sports,unknown,5,JOHN,
+1154,MESSI,,unknown,,JOHN,2024-01-01
+, Messi ,Elec ,,,JOHN,01/02/2024
+ORD1156,MESSI,Electronics,,,J0hn,
+,,,142.11,-1,,01/02/2024
+,Messi!!,,343.63,,john ,
+ORD1159,MESSI,Sports,,,JOHN,
+,,,unknown,-1,John,
+,MESSI,,unknown,,John,2024-01-01
+1162,messi,,,,,2024/13/01
+ORD1163,,sports,,,JOHN,
+,Messi,Elec ,unknown,,J0hn,
+,,Elec ,489.16,,,
+,messi,Elec ,19.22,,,01/02/2024
+1167,messi,Sports,308.58,,J0hn,2024/13/01
+1168,Messi,Electronics,80.31,7,John,01/02/2024
+ORD1169, Messi ,Sports,301.54,-1,john ,01/02/2024
+1170,MESSI,Elec ,,,JOHN,
+, Messi ,Elec ,unknown,,J0hn,01/02/2024
+1172, Messi ,Sports,,10,J0hn,
+ORD1173,Messi,Elec ,unknown,4,J0hn,2024-01-01
+1174,Messi!!,Electronics,unknown,,JOHN,
+,,,unknown,,John,01/02/2024
+ORD1176,,Sports,,,john ,2024/13/01
+,,Sports,unknown,8,,2024-01-01
+, Messi ,sports,unknown,,John,
+,,,unknown,,J0hn,
+ORD1180,MESSI,Elec ,,-1,,
+ORD1181,Messi!!,Electronics,,,,2024-01-01
+,Messi!!,,409.96,,john ,01/02/2024
+,Messi!!,sports,unknown,,John,
+, Messi ,,,,,
+ORD1185,messi,,unknown,,J0hn,
+1186, Messi ,,,7,,
+,,sports,,2,JOHN,2024-01-01
+ORD1188,Messi!!,sports,unknown,,john ,01/02/2024
+,Messi,Elec ,,10,J0hn,01/02/2024
+,Messi!!,,,,,
+,Messi,,,,J0hn,2024-01-01
+1192,Messi,Elec ,289.86,10,JOHN,
+1193,Messi,,436.76,3,J0hn,2024/13/01
+1194,MESSI,sports,unknown,,John,2024-01-01
+ORD1195,MESSI,Electronics,,,john ,
+,Messi,sports,,,JOHN,01/02/2024
+1197,messi,Electronics,,-1,John,01/02/2024
+,,,,,,2024/13/01
+,messi,Electronics,18.46,,JOHN,
+1200,messi,sports,404.12,,,
+1201,Messi,,,9,JOHN,2024/13/01
+,,Sports,,2,,
+,Messi!!,,15.51,9,,
+,Messi,Electronics,295.73,10,J0hn,01/02/2024
+,Messi,,,,JOHN,
+,,Electronics,,,,
+,MESSI,Sports,unknown,,john ,2024-01-01
+,,Sports,,,,2024-01-01
+,messi,Electronics,unknown,,JOHN,2024-01-01
+, Messi ,,,4,,2024-01-01
+1211, Messi ,Sports,unknown,,J0hn,2024/13/01
+ORD1212, Messi ,,unknown,-1,,
+ORD1213,MESSI,sports,373.83,8,john ,01/02/2024
+,,Elec ,unknown,,,01/02/2024
+1215,,Electronics,312.3,-1,John,2024-01-01
+ORD1216,Messi,,201.07,-1,John,01/02/2024
+ORD1217,Messi,Elec ,unknown,9,,
+1218,MESSI,Elec ,,,John,
+, Messi ,Elec ,,,,2024-01-01
+, Messi ,,,-1,J0hn,2024/13/01
+,MESSI,,,5,,01/02/2024
+,messi,,,,John,2024-01-01
+1223,Messi,,unknown,,john ,01/02/2024
+ORD1224,Messi!!,Sports,284.2,7,,
+1225,Messi,sports,unknown,,J0hn,2024-01-01
+1226,Messi,,unknown,-1,J0hn,2024-01-01
+,messi,Electronics,402.94,4,J0hn,2024-01-01
+ORD1228,Messi!!,Sports,unknown,,,2024-01-01
+1229,MESSI,,460.36,8,J0hn,2024-01-01
+ORD1230,,,13.09,,,2024-01-01
+ORD1231,Messi!!,Electronics,179.05,-1,John,
+1232,,,114.84,,john ,
+1233, Messi ,Sports,unknown,5,J0hn,
+,messi,,,-1,,01/02/2024
+,MESSI,,unknown,,john ,2024-01-01
+ORD1236,,Elec ,476.85,-1,,2024/13/01
+,Messi!!,Electronics,unknown,2,john ,01/02/2024
+1238,MESSI,,unknown,-1,john ,01/02/2024
+1239,messi,sports,,-1,john ,01/02/2024
+1240,Messi!!,,37.25,-1,John,2024-01-01
+,messi,Electronics,,,J0hn,2024/13/01
+ORD1242, Messi ,,unknown,,,01/02/2024
+ORD1243,Messi,Electronics,unknown,,john ,2024/13/01
+,messi,Elec ,,1,John,2024/13/01
+ORD1245,,,,2,john ,2024/13/01
+,Messi!!,,unknown,,,01/02/2024
+1247,Messi!!,Sports,391.8,3,JOHN,2024-01-01
+1248,Messi!!,Electronics,unknown,-1,John,01/02/2024
+,Messi,sports,,,JOHN,01/02/2024
+,Messi!!,,120.37,6,,01/02/2024
+,,Elec ,,,,
+,messi,,,,JOHN,01/02/2024
+ORD1253,,Elec ,,8,JOHN,
+,Messi,Electronics,432.38,-1,J0hn,2024-01-01
+1255,,sports,427.42,5,,01/02/2024
+,MESSI,Elec ,,-1,,
+1257,,,89.48,8,JOHN,2024/13/01
+1258,messi,,unknown,,John,01/02/2024
+,MESSI,,219.61,-1,john ,2024-01-01
+,MESSI,,,5,john ,2024/13/01
+ORD1261,,sports,,,john ,01/02/2024
+, Messi ,,,,,
+,Messi,Elec ,,-1,J0hn,2024-01-01
+,MESSI,sports,,-1,,2024/13/01
+1265,,sports,366.84,-1,John,
+ORD1266,MESSI,,,,J0hn,
+,,,453.96,-1,john ,
+ORD1268,MESSI,Elec ,,-1,John,2024/13/01
+ORD1269,,,,4,,01/02/2024
+ORD1270,Messi,Sports,,-1,,
+,MESSI,,421.07,,John,2024-01-01
+,Messi!!,Electronics,,-1,,
+ORD1273, Messi ,Electronics,,,John,2024-01-01
+,MESSI,Sports,272.5,-1,J0hn,
+,,,449.53,-1,,01/02/2024
+ORD1276,messi,sports,,,JOHN,2024/13/01
+ORD1277, Messi ,,,,,2024-01-01
+ORD1278, Messi ,,,,john ,
+,,Sports,,,,
+1280,messi,,unknown,,john ,2024/13/01
+1281,MESSI,Elec ,,,J0hn,
+1282,messi,Elec ,,-1,,
+,,,,,John,2024/13/01
+, Messi ,sports,,,JOHN,
+,Messi!!,Electronics,unknown,3,john ,2024-01-01
+ORD1286,messi,Electronics,,,J0hn,
+,,Electronics,,,,
+ORD1288,,Sports,unknown,,JOHN,2024-01-01
+1289,MESSI,,unknown,-1,,2024/13/01
+1290,MESSI,Sports,383.27,-1,,2024-01-01
+,,Elec ,unknown,,john ,
+,Messi,,44.55,7,john ,2024-01-01
+,Messi!!,,unknown,-1,John,
+1294,,sports,unknown,7,J0hn,2024-01-01
+, Messi ,Electronics,,-1,J0hn,01/02/2024
+ORD1296,,,,4,,01/02/2024
+,messi,,,5,john ,2024-01-01
+,messi,Elec ,207.21,,John,2024/13/01
+,Messi,,,-1,John,01/02/2024
+ORD1300,MESSI,Sports,161.8,-1,J0hn,2024-01-01
+1301,,Sports,,9,,
+,Messi!!,sports,,,JOHN,
+1303,,sports,unknown,-1,,
+,Messi,,unknown,8,JOHN,
+,messi,,,9,JOHN,2024-01-01
+ORD1306,,,,1,J0hn,
+,MESSI,Elec ,,8,,01/02/2024
+1308,Messi!!,sports,,4,,
+, Messi ,Elec ,,-1,,2024/13/01
+,MESSI,Electronics,,6,,
+,,sports,unknown,4,John,2024-01-01
+,Messi!!,,,-1,,2024-01-01
+,messi,Elec ,,,,01/02/2024
+,,,,,john ,
+,Messi,sports,421.51,,John,
+,Messi,Elec ,,,john ,2024/13/01
+1317,messi,Elec ,131.22,,,2024/13/01
+ORD1318,MESSI,sports,,,J0hn,
+, Messi ,Elec ,,,J0hn,
+1320,,sports,,3,,01/02/2024
+,,Sports,,-1,,2024-01-01
+1322,,Elec ,,,,01/02/2024
+, Messi ,Electronics,unknown,-1,,
+, Messi ,Elec ,,,,2024-01-01
+1325, Messi ,sports,unknown,,J0hn,01/02/2024
+ORD1326,MESSI,,,7,John,
+,,sports,unknown,10,john ,
+ORD1328,Messi!!,,,,JOHN,2024-01-01
+ORD1329,,Elec ,,,J0hn,2024/13/01
+ORD1330,,Electronics,,,J0hn,2024/13/01
+1331,MESSI,Elec ,299.55,,,01/02/2024
+1332,messi,Sports,,9,JOHN,
+,,Sports,430.89,,,
+ORD1334,,Sports,295.63,,,2024-01-01
+,,Sports,unknown,,,01/02/2024
+,MESSI,Elec ,unknown,8,,2024-01-01
+ORD1337,,Sports,,,J0hn,
+1338,messi,Elec ,,,john ,01/02/2024
+,,,,,J0hn,2024-01-01
+ORD1340,messi,sports,unknown,,John,2024-01-01
+, Messi ,,419.18,6,,2024-01-01
+,MESSI,Elec ,unknown,5,JOHN,01/02/2024
+, Messi ,sports,308.18,,,
+1344,Messi!!,,unknown,-1,,
+1345,,,,3,J0hn,01/02/2024
+ORD1346,Messi!!,Electronics,,-1,,
+ORD1347,MESSI,Sports,unknown,,J0hn,2024-01-01
+,,sports,,,,
+,,Elec ,173.06,-1,JOHN,2024-01-01
+,messi,sports,unknown,7,,01/02/2024
+ORD1351,,sports,,-1,JOHN,01/02/2024
+,,sports,130.93,3,John,
+ORD1353,Messi,,unknown,1,J0hn,
+,,,,,john ,
+1355,messi,,unknown,,John,01/02/2024
+1356,,Sports,unknown,5,,2024-01-01
+,,,unknown,,J0hn,01/02/2024
+, Messi ,,276.37,,,01/02/2024
+,Messi,Sports,unknown,,J0hn,
+ORD1360,MESSI,Electronics,,2,,
+,MESSI,Elec ,,,john ,01/02/2024
+,Messi,,,3,John,2024-01-01
+ORD1363, Messi ,Elec ,,,John,2024/13/01
+,MESSI,Elec ,,3,,
+1365,messi,,unknown,,John,2024-01-01
+,Messi!!,Elec ,unknown,,J0hn,
+1367,,Sports,125.5,-1,john ,2024/13/01
+1368,Messi,,401.19,,,01/02/2024
+,Messi!!,,unknown,,john ,2024/13/01
+1370,Messi!!,Electronics,,-1,john ,
+, Messi ,Elec ,unknown,2,john ,2024-01-01
+ORD1372, Messi ,,unknown,-1,john ,2024/13/01
+,messi,Elec ,,,,
+,MESSI,Electronics,,-1,J0hn,2024-01-01
+, Messi ,Electronics,167.73,,john ,
+ORD1376,Messi,sports,159.41,,J0hn,2024-01-01
+1377,,,46.84,,J0hn,01/02/2024
+1378,Messi!!,Electronics,,8,,2024/13/01
+ORD1379,messi,Sports,unknown,6,J0hn,
+1380, Messi ,Electronics,,,J0hn,
+,,sports,110.1,-1,JOHN,2024-01-01
+1382,Messi,sports,207.31,,john ,01/02/2024
+,messi,Sports,79.49,-1,john ,
+,,sports,,4,John,2024-01-01
+,,,,-1,J0hn,2024-01-01
+,messi,,,,john ,2024-01-01
+,messi,,,-1,John,
+1388,Messi,,,,John,
+,,,,,JOHN,01/02/2024
+,messi,Elec ,279.19,7,,
+ORD1391,Messi,Sports,94.49,,John,
+,,Sports,,-1,,2024-01-01
+1393,,,471.93,,JOHN,
+,messi,Electronics,,,,
+,Messi,Electronics,,,J0hn,01/02/2024
+,,sports,120.97,-1,,01/02/2024
+1397,Messi!!,Elec ,,,JOHN,2024/13/01
+ORD1398, Messi ,sports,unknown,,,01/02/2024
+1399,,Elec ,,-1,,2024-01-01
+,,sports,unknown,,J0hn,
+,messi,,unknown,8,JOHN,01/02/2024
+1402,,Sports,,-1,JOHN,01/02/2024
+,Messi,Sports,110.49,,J0hn,2024-01-01
+ORD1404,messi,sports,,8,J0hn,
+,MESSI,Elec ,,,J0hn,2024/13/01
+ORD1406,Messi!!,Electronics,unknown,,john ,
+1407,,,,,,
+,Messi,Elec ,,,J0hn,2024/13/01
+ORD1409,MESSI,,unknown,2,john ,
+,,Electronics,67.58,-1,,
+1411,,Sports,150.07,,JOHN,2024-01-01
+,,,unknown,,,
+1413,messi,,,7,John,2024/13/01
+ORD1414,,,9.45,-1,JOHN,2024/13/01
+,Messi!!,sports,84.81,,John,2024-01-01
+ORD1416,Messi!!,Elec ,unknown,-1,J0hn,2024-01-01
+,Messi,Elec ,359.67,3,J0hn,2024-01-01
+,,Sports,243.66,5,J0hn,2024-01-01
+, Messi ,Electronics,,,JOHN,
+,messi,sports,,-1,,
+,Messi,Elec ,383.51,,,01/02/2024
+,Messi,sports,155.64,7,,2024-01-01
+,Messi!!,Sports,,,J0hn,
+1424,messi,,97.55,6,J0hn,
+1425,Messi,Elec ,,6,J0hn,01/02/2024
+,messi,Electronics,,,J0hn,
+1427,Messi,Sports,unknown,,,2024/13/01
+,MESSI,,,,JOHN,
+1429,Messi,Sports,,-1,John,01/02/2024
+,MESSI,,,,J0hn,
+1431,messi,,unknown,-1,J0hn,01/02/2024
+, Messi ,Elec ,,,JOHN,
+ORD1433,MESSI,,397.3,-1,,2024/13/01
+ORD1434, Messi ,sports,,2,JOHN,01/02/2024
+1435,messi,,268.94,,John,2024/13/01
+,messi,Elec ,29.94,1,,01/02/2024
+,Messi!!,Elec ,,,JOHN,2024/13/01
+1438,,Electronics,260.65,-1,John,01/02/2024
+,,,31.43,5,JOHN,2024/13/01
+,Messi,sports,,,,
+ORD1441, Messi ,sports,unknown,8,,2024-01-01
+1442,messi,,,-1,JOHN,
+,,,,,,
+ORD1444,,,472.4,-1,,2024-01-01
+,,,256.0,3,,2024-01-01
+,,Sports,,,J0hn,2024/13/01
+ORD1447,Messi!!,,,8,,
+,MESSI,Sports,,,J0hn,
+,,sports,unknown,,john ,2024/13/01
+,Messi!!,Elec ,,5,John,2024-01-01
+1451, Messi ,,,,john ,
+ORD1452,,Electronics,170.33,-1,john ,
+ORD1453,Messi!!,sports,109.4,-1,,
+,,,unknown,6,J0hn,01/02/2024
+1455,Messi!!,Sports,unknown,-1,,2024-01-01
+ORD1456, Messi ,Electronics,,-1,,
+,Messi!!,Sports,245.47,,JOHN,2024-01-01
+,messi,Sports,unknown,1,,2024/13/01
+,messi,Sports,,,JOHN,
+,,,,-1,john ,01/02/2024
+, Messi ,Sports,unknown,-1,,
+ORD1462,,sports,,,JOHN,01/02/2024
+ORD1463,,sports,unknown,,J0hn,2024/13/01
+ORD1464, Messi ,Sports,unknown,,,
+,,,,,JOHN,01/02/2024
+1466,messi,Elec ,,,,2024/13/01
+,Messi,Electronics,unknown,,JOHN,01/02/2024
+ORD1468,,,,,,2024/13/01
+,messi,,72.05,,,01/02/2024
+,Messi!!,Sports,,-1,JOHN,
+, Messi ,sports,192.17,7,,
+1472,Messi!!,Electronics,,9,J0hn,01/02/2024
+,Messi,sports,,,John,01/02/2024
+,MESSI,Elec ,unknown,,john ,
+,messi,Elec ,,-1,,2024-01-01
+ORD1476,,Sports,,,john ,2024-01-01
+1477,messi,Sports,,,,
+,MESSI,Elec ,unknown,,J0hn,2024/13/01
+ORD1479,MESSI,Electronics,325.25,-1,JOHN,01/02/2024
+1480,messi,Electronics,,4,JOHN,2024/13/01
+1481,,Elec ,unknown,,,
+,MESSI,Elec ,,,JOHN,01/02/2024
+1483,,,,1,john ,2024-01-01
+ORD1484,MESSI,,unknown,-1,,2024-01-01
+,,Elec ,,,,2024-01-01
+,Messi,,,,john ,01/02/2024
+, Messi ,Elec ,,-1,J0hn,
+1488,,,266.31,,John,
+,,,unknown,,,
+1490,,,unknown,5,john ,01/02/2024
+,messi,Elec ,41.37,,,2024-01-01
+1492,,Elec ,,,JOHN,
+,messi,Elec ,115.97,-1,,
+ORD1494,,sports,,7,John,
+ORD1495,,,unknown,-1,J0hn,
+,messi,Elec ,302.89,,,2024/13/01
+,MESSI,,,-1,,2024/13/01
+1498,messi,Electronics,,,john ,
+ORD1499,Messi,sports,,,john ,
+1500,,Sports,unknown,-1,JOHN,2024-01-01
+1501,Messi!!,,unknown,,John,2024/13/01
+ORD1502, Messi ,sports,433.8,1,,
+1503,Messi,Sports,unknown,,john ,2024/13/01
+1504,messi,Elec ,,2,JOHN,2024/13/01
+,,,unknown,,,
+,Messi,Electronics,,6,JOHN,01/02/2024
+1507,messi,Elec ,,1,John,2024-01-01
+ORD1508,,Electronics,unknown,-1,John,2024-01-01
+,,,,2,John,2024-01-01
+1510,,,,,,2024/13/01
+ORD1511,,,382.09,-1,JOHN,2024-01-01
+, Messi ,Electronics,,1,john ,2024/13/01
+, Messi ,Sports,,-1,JOHN,
+,,Electronics,229.37,-1,John,2024-01-01
+,Messi!!,sports,355.53,7,,2024-01-01
+ORD1516, Messi ,,unknown,,john ,2024-01-01
+ORD1517,Messi,Elec ,13.45,,John,01/02/2024
+ORD1518,messi,sports,335.46,1,john ,
+ORD1519, Messi ,,unknown,-1,J0hn,
+1520,Messi!!,sports,,,JOHN,
+,Messi!!,Sports,,,JOHN,2024-01-01
+,Messi!!,,,2,john ,2024/13/01
+1523,,Elec ,unknown,-1,,2024/13/01
+ORD1524,MESSI,,312.23,-1,J0hn,2024-01-01
+ORD1525,,sports,,,JOHN,
+ORD1526,,,74.86,-1,john ,
+1527,,,unknown,,,
+ORD1528,,,,1,,
+,,Sports,unknown,,John,
+1530,MESSI,,unknown,,John,2024-01-01
+ORD1531,messi,Sports,unknown,-1,john ,2024/13/01
+1532,messi,Elec ,unknown,4,J0hn,2024-01-01
+1533,,sports,unknown,2,JOHN,01/02/2024
+, Messi ,sports,275.75,-1,,
+,messi,sports,unknown,,John,2024-01-01
+,MESSI,,,,,2024-01-01
+,,sports,374.53,,,2024-01-01
+,messi,sports,,1,,2024/13/01
+ORD1539,MESSI,,,,,2024/13/01
+,,,289.01,7,JOHN,2024/13/01
+,messi,Sports,74.48,,J0hn,2024-01-01
+1542,MESSI,,,,JOHN,
+,Messi,Sports,,-1,,
+,,Electronics,,-1,JOHN,2024/13/01
+1545,,Elec ,unknown,10,J0hn,2024-01-01
+ORD1546,,sports,unknown,,,2024-01-01
+,,,,,John,01/02/2024
+ORD1548,,Elec ,262.76,10,,
+, Messi ,Elec ,unknown,,J0hn,2024-01-01
+,MESSI,sports,,,JOHN,2024-01-01
+,,,,,J0hn,2024-01-01
+1552,MESSI,Elec ,,7,J0hn,
+,,,365.82,,,2024-01-01
+ORD1554,MESSI,,255.24,,J0hn,
+,,,307.19,,John,2024-01-01
+ORD1556,messi,Elec ,,,,
+,,Electronics,,,JOHN,2024-01-01
+1558, Messi ,Sports,451.84,,J0hn,
+,Messi,Sports,475.31,-1,john ,2024/13/01
+1560,Messi!!,sports,,4,,2024/13/01
+,MESSI,,,4,John,
+ORD1562,MESSI,Sports,,,,2024/13/01
+,,,,,John,2024/13/01
+ORD1564,,sports,59.98,2,John,
+,,sports,,2,JOHN,01/02/2024
+ORD1566,messi,Elec ,115.02,,john ,
+,messi,sports,,7,JOHN,2024-01-01
+,messi,sports,87.85,,JOHN,
+1569,MESSI,,,,,01/02/2024
+ORD1570,Messi!!,sports,,,,
+ORD1571,,Elec ,,10,john ,01/02/2024
+,Messi!!,sports,203.95,,John,
+1573,MESSI,Electronics,,,,2024/13/01
+,Messi,Electronics,,3,,01/02/2024
+ORD1575,messi,,,,john ,2024/13/01
+, Messi ,Electronics,unknown,1,John,2024/13/01
+,Messi!!,Electronics,unknown,,J0hn,01/02/2024
+,messi,Elec ,unknown,,john ,
+,,Sports,unknown,,John,
+,MESSI,Electronics,,-1,John,
+,MESSI,Elec ,23.12,-1,J0hn,2024-01-01
+,Messi!!,,unknown,,J0hn,
+1583,Messi,sports,,5,JOHN,2024-01-01
+,MESSI,,,-1,J0hn,01/02/2024
+,MESSI,Sports,,,John,
+,messi,,,-1,,2024-01-01
+1587, Messi ,Elec ,unknown,-1,JOHN,2024-01-01
+1588,Messi,,,-1,,
+, Messi ,Electronics,unknown,-1,John,01/02/2024
+,Messi,Elec ,36.9,,J0hn,01/02/2024
+ORD1591,messi,Sports,,8,John,2024-01-01
+ORD1592,messi,Electronics,,,john ,2024-01-01
+,,,unknown,-1,JOHN,01/02/2024
+,Messi,Elec ,,,john ,2024/13/01
+,Messi,,unknown,-1,John,
+1596,,,248.42,-1,,2024/13/01
+ORD1597,Messi!!,sports,,,,2024-01-01
+,Messi,Elec ,unknown,,john ,
+1599,MESSI,Elec ,85.35,,JOHN,2024-01-01
+,,,,,JOHN,2024-01-01
+,messi,,,10,,01/02/2024
+,Messi!!,Elec ,442.08,,,
+1603,Messi,,,,JOHN,2024/13/01
+1604,Messi!!,Sports,,8,John,2024-01-01
+1605,Messi!!,Sports,unknown,,John,01/02/2024
+,Messi,Sports,,6,,
+,Messi,Electronics,257.41,,,
+1608,MESSI,Elec ,27.15,1,,2024/13/01
+ORD1609,,,,10,,2024-01-01
+, Messi ,Elec ,,-1,,01/02/2024
+, Messi ,sports,244.66,,john ,2024/13/01
+, Messi ,Elec ,,10,JOHN,
+,,Sports,442.66,-1,john ,
+1614,messi,Sports,unknown,,J0hn,01/02/2024
+,messi,Sports,unknown,,,2024/13/01
+,,Electronics,,-1,,
+1617,messi,Elec ,,-1,john ,2024/13/01
+ORD1618,Messi,Sports,,-1,J0hn,2024-01-01
+,Messi,,446.09,,J0hn,2024-01-01
+,Messi!!,,339.24,,John,
+,messi,Electronics,unknown,-1,,
+1622, Messi ,,,,J0hn,2024-01-01
+, Messi ,,472.54,,J0hn,
+1624,messi,,,-1,john ,
+1625,MESSI,Sports,69.91,,john ,
+,,,unknown,,John,01/02/2024
+,Messi!!,sports,unknown,,,2024-01-01
+1628,MESSI,sports,,,John,2024/13/01
+1629,,Electronics,,-1,john ,01/02/2024
+,Messi,Elec ,,-1,JOHN,2024-01-01
+,messi,Sports,,,,2024/13/01
+1632,Messi,Electronics,,-1,John,
+1633,Messi,Elec ,unknown,-1,J0hn,2024-01-01
+,messi,Elec ,,,john ,2024/13/01
+,,Sports,unknown,,,
+ORD1636,MESSI,,302.88,,john ,2024-01-01
+,,sports,,,john ,
+1638,Messi,,unknown,,,
+1639, Messi ,,,4,John,
+,,sports,,10,JOHN,
+,Messi,,,,john ,
+ORD1642,Messi,,,4,John,2024-01-01
+,,Sports,,-1,John,2024-01-01
+1644,MESSI,Electronics,268.37,,,01/02/2024
+1645,,Elec ,,,JOHN,01/02/2024
+ORD1646, Messi ,Elec ,unknown,,JOHN,2024-01-01
+,messi,Sports,unknown,,,01/02/2024
+ORD1648,MESSI,,,,,01/02/2024
+,,sports,,-1,,01/02/2024
+1650,,,,-1,john ,01/02/2024
+ORD1651,,,88.02,6,J0hn,01/02/2024
+, Messi ,,166.85,,,01/02/2024
+,Messi!!,sports,,7,,01/02/2024
+1654,Messi!!,Sports,180.23,-1,John,
+ORD1655,Messi,Elec ,,,,2024/13/01
+,MESSI,Sports,unknown,,,2024/13/01
+,Messi,sports,,-1,J0hn,2024-01-01
+ORD1658,Messi,Elec ,unknown,,,2024-01-01
+1659,messi,Electronics,,-1,John,2024/13/01
+1660, Messi ,Elec ,,8,J0hn,2024/13/01
+,messi,Electronics,,,john ,
+,Messi!!,Electronics,,,John,2024/13/01
+1663,,sports,unknown,,john ,
+1664,Messi,Electronics,55.65,,,01/02/2024
+1665,MESSI,,unknown,8,john ,2024/13/01
+1666,messi,,447.93,8,,2024/13/01
+1667, Messi ,Elec ,,5,john ,2024-01-01
+,Messi,Electronics,206.72,-1,John,
+,Messi,sports,,4,John,01/02/2024
+1670,Messi!!,sports,,-1,,01/02/2024
+ORD1671,Messi,Sports,,-1,john ,2024/13/01
+ORD1672,messi,,,7,JOHN,2024/13/01
+,,Electronics,108.33,5,john ,
+1674,Messi,sports,,-1,J0hn,01/02/2024
+1675,messi,,,4,,01/02/2024
+1676,,,,-1,John,2024/13/01
+,messi,,,2,John,2024/13/01
+,messi,Elec ,,1,JOHN,2024/13/01
+,,sports,,,,2024/13/01
+, Messi ,,90.05,-1,,01/02/2024
+1681, Messi ,Elec ,unknown,6,,
+ORD1682,Messi,,50.77,,,2024-01-01
+1683,Messi!!,Sports,47.29,-1,,
+,MESSI,sports,244.09,3,JOHN,2024/13/01
+1685,messi,Sports,,,john ,2024-01-01
+1686,Messi!!,sports,unknown,-1,,01/02/2024
+,,,78.62,,,
+,MESSI,,,-1,john ,01/02/2024
+ORD1689,,Electronics,,-1,,2024/13/01
+, Messi ,Electronics,150.4,-1,john ,2024/13/01
+1691,messi,sports,,,,2024/13/01
+ORD1692,,Elec ,unknown,-1,,2024/13/01
+ORD1693, Messi ,,,,john ,2024/13/01
+,,sports,,,J0hn,01/02/2024
+ORD1695,MESSI,,unknown,-1,john ,
+ORD1696,,Elec ,,,JOHN,
+1697,,Elec ,310.02,6,J0hn,2024/13/01
+1698,,Elec ,unknown,-1,JOHN,2024/13/01
+ORD1699,Messi,,118.39,,,
+,,,,8,,
+, Messi ,Elec ,,,,2024/13/01
+,,Electronics,,,John,2024/13/01
+ORD1703,messi,Electronics,,,John,2024-01-01
+1704,MESSI,Elec ,,3,,01/02/2024
+1705,,sports,,-1,John,
+, Messi ,Elec ,,,,2024/13/01
+ORD1707,Messi,sports,,,,
+,messi,Electronics,232.65,,John,01/02/2024
+, Messi ,,480.94,,JOHN,2024-01-01
+ORD1710,MESSI,Elec ,unknown,,john ,
+1711,messi,sports,,,JOHN,01/02/2024
+ORD1712,MESSI,,,,John,
+ORD1713,,,441.33,,J0hn,2024-01-01
+,,sports,,,john ,2024-01-01
+ORD1715,,Elec ,unknown,,JOHN,
+ORD1716,MESSI,sports,37.87,2,J0hn,01/02/2024
+ORD1717,messi,Elec ,,2,john ,
+1718,messi,Sports,unknown,,John,2024/13/01
+ORD1719, Messi ,Sports,,-1,,01/02/2024
+ORD1720,,,,,JOHN,2024-01-01
+,MESSI,Sports,203.09,-1,JOHN,2024-01-01
+,,,,-1,,
+1723,Messi!!,,,9,JOHN,01/02/2024
+ORD1724,MESSI,Elec ,unknown,-1,,
+1725,Messi,Sports,unknown,,John,2024-01-01
+,Messi,,,,,01/02/2024
+,messi,Electronics,unknown,,John,
+1728, Messi ,Elec ,,,,
+,MESSI,sports,,1,john ,
+ORD1730, Messi ,Elec ,261.41,-1,,2024/13/01
+ORD1731,messi,,,,john ,01/02/2024
+,messi,,,,john ,2024/13/01
+1733,,,347.76,4,JOHN,
+,Messi!!,,,,John,2024/13/01
+, Messi ,Sports,,,john ,2024/13/01
+,messi,Sports,unknown,10,JOHN,2024-01-01
+ORD1737, Messi ,,,,JOHN,2024-01-01
+1738,Messi!!,sports,100.73,4,,
+,MESSI,Electronics,,7,,01/02/2024
+,,,148.44,,John,
+ORD1741,MESSI,Electronics,unknown,6,JOHN,01/02/2024
+,,,467.21,,John,2024/13/01
+,Messi,,,,,2024-01-01
+, Messi ,sports,,,,2024/13/01
+,,Sports,unknown,,J0hn,2024/13/01
+,Messi,,unknown,-1,,
+1747,messi,,,,J0hn,
+1748,Messi,Elec ,,,,01/02/2024
+,,Sports,unknown,-1,,2024/13/01
+,MESSI,,,-1,JOHN,01/02/2024
+ORD1751,MESSI,Elec ,,-1,,
+,Messi,Elec ,,8,J0hn,2024-01-01
+,,Sports,unknown,3,,2024/13/01
+ORD1754, Messi ,sports,unknown,,john ,2024/13/01
+ORD1755, Messi ,Elec ,,,,
+ORD1756, Messi ,,unknown,,J0hn,01/02/2024
+,,,,9,john ,2024/13/01
+,Messi!!,Elec ,,,,
+,messi,,59.9,,,2024/13/01
+,,Sports,,,JOHN,
+,MESSI,Sports,314.63,7,J0hn,01/02/2024
+ORD1762, Messi ,Sports,unknown,10,,2024-01-01
+ORD1763,Messi,,380.26,-1,JOHN,
+1764,MESSI,,unknown,,JOHN,2024/13/01
+1765,Messi!!,Elec ,,-1,john ,2024-01-01
+1766,Messi!!,sports,unknown,,JOHN,2024-01-01
+ORD1767,Messi,Elec ,unknown,,,2024-01-01
+ORD1768,,Elec ,,-1,,
+ORD1769,Messi,Electronics,unknown,4,John,2024-01-01
+,messi,sports,,,john ,2024-01-01
+1771,,Elec ,unknown,,John,2024/13/01
+ORD1772,,sports,157.88,2,John,2024/13/01
+1773,,Elec ,unknown,-1,john ,2024/13/01
+,MESSI,Electronics,,,JOHN,2024/13/01
+ORD1775,Messi,sports,375.35,1,J0hn,01/02/2024
+,Messi,sports,unknown,-1,J0hn,
+1777,,Sports,,,john ,
+1778,Messi,Elec ,unknown,,J0hn,01/02/2024
+1779,Messi,Electronics,,-1,JOHN,
+,,Electronics,419.69,1,john ,2024-01-01
+,Messi,,151.6,,john ,01/02/2024
+,Messi!!,,,-1,J0hn,01/02/2024
+,,Elec ,,,john ,2024/13/01
+1784,Messi!!,sports,264.73,,John,
+,MESSI,Elec ,,8,,
+,,Sports,unknown,,,
+ORD1787,,Electronics,452.0,,,2024/13/01
+,,Electronics,297.12,8,JOHN,2024-01-01
+,messi,Elec ,,-1,J0hn,2024-01-01
+,Messi!!,Electronics,124.79,,,2024/13/01
+,MESSI,,unknown,,John,2024/13/01
+ORD1792, Messi ,Sports,unknown,4,J0hn,2024/13/01
+ORD1793,,,419.97,,J0hn,
+,,,27.53,-1,,2024-01-01
+,MESSI,,,,john ,2024-01-01
+ORD1796,Messi!!,Sports,204.77,-1,John,
+1797, Messi ,,unknown,,John,
+,,Electronics,unknown,6,john ,2024-01-01
+,messi,,,,JOHN,2024/13/01
+ORD1800, Messi ,,unknown,,J0hn,
+,Messi,Elec ,58.83,7,john ,2024-01-01
+,Messi!!,,unknown,-1,JOHN,2024/13/01
+,,,493.21,2,J0hn,01/02/2024
+ORD1804, Messi ,,,-1,JOHN,
+ORD1805,Messi,Elec ,46.13,-1,JOHN,
+,,,311.4,-1,,
+1807,,Electronics,unknown,-1,John,01/02/2024
+1808,MESSI,Elec ,,,John,
+,Messi,Elec ,unknown,,,
+1810,MESSI,Elec ,418.1,-1,,2024-01-01
+ORD1811, Messi ,,489.99,2,John,2024/13/01
+,MESSI,sports,,8,J0hn,2024/13/01
+ORD1813,Messi!!,,,-1,JOHN,01/02/2024
+,Messi!!,,,3,,
+ORD1815, Messi ,sports,173.22,10,,
+1816,MESSI,Electronics,,,,
+,Messi!!,sports,,,John,
+,,Elec ,,,john ,2024/13/01
+1819,Messi!!,Sports,unknown,,JOHN,
+ORD1820, Messi ,,unknown,,,2024-01-01
+,MESSI,,unknown,-1,,2024-01-01
+1822,,Sports,unknown,,John,
+,messi,Elec ,99.88,,john ,2024-01-01
+,Messi!!,,,,J0hn,
+,Messi!!,Sports,,1,,
+,,sports,unknown,-1,john ,01/02/2024
+,Messi,,,3,,
+,,Elec ,,4,,01/02/2024
+1829,messi,sports,,,John,
+ORD1830,messi,,87.72,,,
+ORD1831,messi,Elec ,,,john ,2024/13/01
+1832,MESSI,Elec ,,3,,
+,messi,Electronics,,,john ,2024-01-01
+,Messi!!,Elec ,unknown,,,01/02/2024
+,MESSI,sports,,8,JOHN,
+ORD1836, Messi ,Sports,,-1,JOHN,
+ORD1837,messi,,,-1,john ,2024-01-01
+1838,Messi,,456.95,,John,2024/13/01
+,,,unknown,,john ,
+1840,Messi!!,Elec ,32.21,,J0hn,
+1841,messi,,unknown,10,John,2024-01-01
+,messi,,,,,01/02/2024
+, Messi ,Electronics,unknown,,John,
+1844, Messi ,Electronics,,2,J0hn,01/02/2024
+1845,Messi!!,,unknown,,JOHN,
+,Messi!!,sports,,-1,,01/02/2024
+,Messi,sports,206.37,5,J0hn,01/02/2024
+,,sports,,-1,john ,01/02/2024
+,Messi,,,-1,JOHN,2024-01-01
+,MESSI,sports,306.56,-1,J0hn,2024/13/01
+, Messi ,Sports,216.67,10,john ,2024-01-01
+,messi,Elec ,,,,01/02/2024
+,MESSI,sports,,,JOHN,2024/13/01
+,Messi!!,sports,unknown,8,J0hn,2024/13/01
+ORD1855,Messi,Elec ,,-1,JOHN,2024/13/01
+, Messi ,sports,unknown,-1,,01/02/2024
+1857,,,356.54,8,John,01/02/2024
+,,sports,unknown,-1,J0hn,2024-01-01
+ORD1859,Messi!!,Sports,,,John,2024-01-01
+,Messi!!,Elec ,,9,john ,
+ORD1861,Messi,Electronics,269.27,8,John,2024/13/01
+1862, Messi ,Sports,,,,01/02/2024
+, Messi ,,,-1,J0hn,2024-01-01
+ORD1864,Messi,,unknown,-1,JOHN,2024-01-01
+,,Electronics,,-1,JOHN,2024/13/01
+,messi,Electronics,,,john ,2024/13/01
+,Messi!!,sports,,10,john ,01/02/2024
+,messi,Elec ,154.39,,JOHN,2024/13/01
+,,,,7,,
+1870,,,,,JOHN,2024/13/01
+,Messi!!,Sports,unknown,,John,01/02/2024
+ORD1872,,Electronics,unknown,,john ,2024/13/01
+1873,Messi,,unknown,,,2024/13/01
+ORD1874,messi,,,,J0hn,2024-01-01
+,MESSI,,64.58,,J0hn,01/02/2024
+ORD1876, Messi ,,,,JOHN,
+ORD1877,messi,Electronics,,1,,01/02/2024
+ORD1878,Messi,sports,295.57,1,J0hn,01/02/2024
+ORD1879,,sports,33.94,,john ,2024/13/01
+1880, Messi ,,,,JOHN,
+,MESSI,Elec ,,,John,2024-01-01
+,Messi,,14.75,3,john ,2024/13/01
+ORD1883,Messi!!,sports,,,,
+,,Elec ,167.68,,JOHN,
+ORD1885,MESSI,Electronics,unknown,-1,JOHN,
+,messi,sports,185.72,,J0hn,
+ORD1887,MESSI,Elec ,,-1,J0hn,2024-01-01
+1888, Messi ,Sports,,-1,J0hn,2024-01-01
+, Messi ,Electronics,72.34,-1,J0hn,01/02/2024
+,,sports,unknown,10,JOHN,2024-01-01
+ORD1891,Messi!!,Elec ,,,JOHN,01/02/2024
+1892,,,,2,J0hn,
+,Messi!!,Sports,,,JOHN,2024/13/01
+ORD1894,Messi,,unknown,7,John,
+,MESSI,sports,,-1,,01/02/2024
+ORD1896,,,,-1,J0hn,01/02/2024
+ORD1897,,Sports,,1,JOHN,2024-01-01
+1898,MESSI,,,,J0hn,2024-01-01
+1899,Messi,Elec ,,,John,
+, Messi ,,,,,
+1901,Messi,,,,john ,2024/13/01
+,Messi!!,sports,,-1,john ,2024-01-01
+1903,MESSI,sports,,,JOHN,
+,MESSI,Electronics,,,,01/02/2024
+, Messi ,,unknown,,,
+,Messi!!,,369.2,2,john ,2024/13/01
+1907,MESSI,sports,230.05,,J0hn,2024/13/01
+1908,,,unknown,2,john ,2024-01-01
+,messi,,,,J0hn,
+1910,MESSI,,,,,
+1911,MESSI,,,,J0hn,
+,MESSI,,270.66,,JOHN,
+,Messi,,,3,John,2024-01-01
+,messi,Electronics,unknown,-1,John,
+1915,Messi!!,,441.24,,,2024-01-01
+1916,MESSI,Elec ,,,john ,
+ORD1917,Messi,,,7,,01/02/2024
+,Messi,,,-1,,2024/13/01
+ORD1919,,Electronics,,-1,John,
+,Messi!!,,,8,,
+,,Electronics,,,,
+,messi,Electronics,,,John,
+,messi,Elec ,,-1,J0hn,
+1924,,Elec ,,-1,john ,2024-01-01
+,Messi!!,Electronics,415.42,6,John,
+, Messi ,Elec ,unknown,3,John,01/02/2024
+,messi,Electronics,,-1,,
+ORD1928,,,166.66,-1,john ,
+,MESSI,Elec ,,,John,2024/13/01
+,messi,Elec ,,,,2024-01-01
+1931,,Electronics,unknown,9,john ,01/02/2024
+ORD1932,Messi!!,Electronics,unknown,,John,2024/13/01
+ORD1933,messi,,421.17,9,John,2024-01-01
+1934,MESSI,Elec ,,,JOHN,01/02/2024
+ORD1935,,Elec ,,-1,JOHN,01/02/2024
+,Messi,Sports,,-1,J0hn,2024/13/01
+,messi,,unknown,-1,john ,01/02/2024
+ORD1938,,,309.45,,,
+ORD1939,Messi,Electronics,243.79,,J0hn,2024/13/01
+1940, Messi ,Sports,,,,2024/13/01
+,,,,-1,,2024/13/01
+ORD1942,Messi,Elec ,,,,2024-01-01
+ORD1943,MESSI,,,,J0hn,
+1944,Messi,,,,J0hn,
+1945,,Sports,unknown,,,
+ORD1946, Messi ,Electronics,,1,J0hn,
+,messi,sports,,,JOHN,2024/13/01
+1948, Messi ,Elec ,291.28,,john ,2024-01-01
+1949,Messi,Elec ,,,,01/02/2024
+1950,Messi!!,,unknown,4,JOHN,
+1951,MESSI,Sports,unknown,7,,2024-01-01
+ORD1952,MESSI,Elec ,,8,,01/02/2024
+1953,messi,Electronics,,9,,2024/13/01
+,,,,,,
+ORD1955,messi,sports,493.52,,John,2024-01-01
+ORD1956,,Sports,301.15,,john ,01/02/2024
+1957,,,,10,,
+1958,,Electronics,58.91,,,2024/13/01
+1959,,sports,unknown,6,,01/02/2024
+,Messi,Elec ,177.32,,john ,
+,,sports,,,JOHN,2024/13/01
+, Messi ,Elec ,,-1,,2024-01-01
+,messi,Sports,unknown,-1,J0hn,01/02/2024
+,,Electronics,,,,
+ORD1965,Messi!!,,,-1,,
+,messi,Sports,,,John,2024-01-01
+,MESSI,Elec ,133.06,5,,
+1968,Messi,,,1,J0hn,2024-01-01
+, Messi ,Electronics,unknown,,,01/02/2024
+,Messi,,unknown,-1,JOHN,2024-01-01
+,MESSI,Electronics,,8,,
+,,sports,153.95,10,J0hn,01/02/2024
+ORD1973, Messi ,sports,unknown,,,2024/13/01
+1974,MESSI,Sports,,,JOHN,01/02/2024
+,,sports,unknown,-1,J0hn,
+ORD1976,,,470.29,,JOHN,2024/13/01
+1977,,,,-1,JOHN,
+, Messi ,,332.05,,J0hn,2024/13/01
+ORD1979,Messi!!,,193.12,-1,,01/02/2024
+, Messi ,Electronics,262.67,5,,
+1981,Messi!!,,unknown,,john ,2024-01-01
+,,,,,,
+,Messi!!,Electronics,,,,
+,MESSI,Electronics,unknown,,john ,01/02/2024
+,Messi,,,,,
+1986,messi,Sports,,6,J0hn,01/02/2024
+,,Sports,265.76,,John,2024/13/01
+ORD1988,MESSI,Sports,unknown,,J0hn,2024/13/01
+1989,Messi!!,Sports,,,John,
+,MESSI,Electronics,,,John,
+1991,Messi,Sports,,4,John,
+, Messi ,sports,409.02,,J0hn,01/02/2024
+, Messi ,Sports,483.69,,john ,2024/13/01
+,,,unknown,6,J0hn,2024-01-01
+,Messi,Electronics,238.69,,,01/02/2024
+,Messi,Sports,unknown,,,
+ORD1997,Messi,sports,,-1,john ,2024/13/01
+,,Electronics,unknown,6,,2024-01-01
+,MESSI,sports,381.84,,J0hn,
+,MESSI,Elec ,,-1,John,
+,MESSI,,,-1,J0hn,
+, Messi ,Elec ,170.89,-1,JOHN,2024-01-01
+2003, Messi ,,258.01,10,JOHN,
+2004,MESSI,,unknown,,J0hn,
+2005,,Electronics,unknown,,J0hn,2024-01-01
+,,Electronics,,,JOHN,2024/13/01
+ORD2007,,Elec ,,,john ,2024-01-01
+ORD2008,messi,Elec ,79.63,,JOHN,
+ORD2009,Messi!!,sports,,,JOHN,
+,Messi!!,sports,,1,john ,2024/13/01
+,Messi!!,Electronics,,,,01/02/2024
+2012,Messi,Elec ,unknown,,,
+2013,Messi,Electronics,,-1,John,01/02/2024
+2014,,,unknown,,J0hn,
+2015,Messi,Sports,116.85,,,
+,Messi!!,Sports,98.19,,,
+,Messi!!,,,,,
+ORD2018,,Elec ,325.73,5,JOHN,2024-01-01
+, Messi ,Elec ,,,,
+,Messi,Electronics,unknown,-1,John,2024/13/01
+,Messi,sports,,,john ,2024/13/01
+2022,,,,,,2024-01-01
+,Messi!!,sports,unknown,4,john ,
+ORD2024,messi,Electronics,,,J0hn,
+,messi,sports,,,,2024-01-01
+,,sports,263.13,-1,J0hn,2024/13/01
+,,sports,,-1,J0hn,01/02/2024
+2028,MESSI,Sports,,,john ,2024/13/01
+2029,,sports,unknown,1,,2024/13/01
+2030,messi,sports,unknown,,,2024/13/01
+ORD2031,Messi!!,Electronics,109.29,-1,,01/02/2024
+,,,unknown,-1,J0hn,
+,Messi!!,,unknown,5,JOHN,01/02/2024
+,,sports,unknown,,,2024/13/01
+2035,,,unknown,-1,john ,
+, Messi ,Electronics,379.44,3,John,2024-01-01
+,Messi,Sports,,10,JOHN,2024-01-01
+2038,,sports,unknown,,J0hn,
+ORD2039,MESSI,Sports,unknown,,JOHN,2024/13/01
+,messi,sports,unknown,,,2024/13/01
+2041, Messi ,Sports,,-1,,2024-01-01
+ORD2042,,Elec ,,,,
+ORD2043,MESSI,sports,177.51,,,2024/13/01
+, Messi ,sports,340.74,,john ,01/02/2024
+,MESSI,Electronics,,-1,,01/02/2024
+,messi,sports,226.42,,,2024-01-01
+2047,MESSI,Sports,,,J0hn,2024/13/01
+2048,,,357.95,9,John,
+,Messi,Electronics,unknown,10,John,2024-01-01
+ORD2050,Messi,,,8,,
+ORD2051,Messi!!,Sports,,,,
+,,,369.14,2,,2024/13/01
+2053,Messi!!,,39.67,,JOHN,2024/13/01
+2054,Messi!!,,unknown,-1,,01/02/2024
+2055,Messi,sports,,,,01/02/2024
+, Messi ,Elec ,,-1,JOHN,01/02/2024
+, Messi ,sports,,-1,JOHN,01/02/2024
+,,Elec ,139.02,,JOHN,2024/13/01
+2059,,Electronics,482.76,,,2024/13/01
+2060,,sports,,,john ,
+,,Electronics,145.93,,,01/02/2024
+,,Elec ,unknown,,J0hn,
+ORD2063,,,120.47,-1,,
+,MESSI,,unknown,2,,
+,Messi,,241.78,,,
+,Messi,Elec ,,3,JOHN,2024-01-01
+2067,,Elec ,unknown,6,,2024-01-01
+2068,Messi!!,Sports,,,J0hn,2024/13/01
+,MESSI,Sports,,4,john ,2024/13/01
+, Messi ,,246.39,,JOHN,
+,Messi!!,,276.85,-1,,
+ORD2072,,,unknown,1,,
+2073,MESSI,,unknown,-1,,01/02/2024
+, Messi ,Sports,,,John,01/02/2024
+,Messi,,206.99,8,JOHN,2024/13/01
+,messi,,325.43,,john ,01/02/2024
+ORD2077,messi,sports,,-1,john ,2024-01-01
+,,Elec ,,2,,2024/13/01
+ORD2079,,Sports,unknown,,J0hn,2024/13/01
+,MESSI,Elec ,437.65,-1,john ,2024-01-01
+ORD2081,Messi,Electronics,,4,John,2024-01-01
+,Messi,,,1,John,2024/13/01
+ORD2083,messi,,,-1,john ,
+,,Electronics,426.26,-1,JOHN,2024/13/01
+ORD2085,MESSI,sports,,6,JOHN,2024-01-01
+2086,messi,sports,68.76,8,,2024/13/01
+,,,,-1,John,
+,,Sports,,,john ,2024/13/01
+,MESSI,Elec ,402.36,-1,JOHN,2024-01-01
+, Messi ,,,-1,,
+ORD2091,,,,-1,john ,01/02/2024
+,MESSI,sports,unknown,5,J0hn,2024/13/01
+ORD2093,MESSI,Elec ,unknown,9,John,01/02/2024
+, Messi ,Elec ,263.27,,John,
+,MESSI,Sports,,4,,2024-01-01
+ORD2096,Messi!!,Sports,,6,,01/02/2024
+,Messi,,342.21,,JOHN,
+2098,,Elec ,133.46,,john ,2024-01-01
+,messi,sports,370.49,,John,
+2100, Messi ,,461.7,,John,2024-01-01
+ORD2101,messi,Sports,,10,John,
+,,Elec ,,9,JOHN,
+2103,,,149.97,,,
+,,Sports,236.4,,,
+,,,,,J0hn,2024/13/01
+ORD2106,Messi!!,sports,46.66,,JOHN,
+,Messi!!,Electronics,,5,john ,
+2108,Messi!!,Sports,,8,John,
+,,Elec ,416.57,,,
+,Messi,Sports,,,John,2024-01-01
+ORD2111,MESSI,Elec ,,-1,,01/02/2024
+,,sports,unknown,,JOHN,
+, Messi ,Elec ,unknown,,john ,
+2114,Messi!!,sports,134.03,,john ,
+,Messi!!,,,5,john ,
+2116,messi,Sports,,-1,JOHN,2024-01-01
+2117,,,182.92,,JOHN,
+2118,messi,sports,,,,2024/13/01
+,MESSI,sports,135.56,,,
+,,Sports,,,John,2024/13/01
+, Messi ,,132.17,7,john ,
+,,Electronics,unknown,3,john ,2024-01-01
+,,,,4,,01/02/2024
+,,,,,John,2024-01-01
+ORD2125,MESSI,,,7,JOHN,
+,,,,-1,,2024-01-01
+ORD2127,,,,-1,John,01/02/2024
+ORD2128, Messi ,Elec ,,,J0hn,01/02/2024
+,Messi,,84.71,,john ,
+,,Electronics,,10,John,
+ORD2131,,,,,,2024-01-01
+ORD2132,Messi,Elec ,unknown,,john ,2024/13/01
+ORD2133,Messi!!,,,2,JOHN,
+2134,messi,Sports,,,JOHN,
+ORD2135,,Electronics,,,J0hn,
+,messi,,256.43,,,2024/13/01
+,,Electronics,,5,,
+2138,MESSI,,,,,01/02/2024
+2139,MESSI,Elec ,241.01,7,john ,
+,Messi,Elec ,,9,john ,2024-01-01
+,,,unknown,6,J0hn,
+ORD2142,Messi,Sports,,-1,J0hn,01/02/2024
+,Messi,,,,,
+ORD2144,Messi!!,Sports,,,John,2024-01-01
+ORD2145,,Sports,59.21,,john ,01/02/2024
+2146,MESSI,Sports,,,JOHN,01/02/2024
+ORD2147,,,336.77,,John,
+,messi,Elec ,454.33,,,2024-01-01
+,,,,-1,JOHN,
+,messi,,,,,01/02/2024
+,messi,,,,,
+,messi,Sports,,,,
+2153,messi,Sports,,,JOHN,01/02/2024
+,,sports,,,john ,
+2155, Messi ,Elec ,,,,
+2156,,Electronics,unknown,,,
+2157,,,unknown,,John,2024/13/01
+,Messi!!,,,-1,,2024-01-01
+2159,MESSI,Elec ,unknown,3,,
+ORD2160,Messi,,,,John,2024/13/01
+,,,,,J0hn,
+ORD2162,Messi!!,,,,J0hn,01/02/2024
+,messi,Elec ,,,,01/02/2024
+,,Sports,417.4,,john ,2024/13/01
+2165,messi,Electronics,,4,,2024/13/01
+,Messi,Sports,,,John,
+2167, Messi ,Elec ,,,,2024/13/01
+2168,messi,sports,unknown,1,,
+, Messi ,sports,,,john ,
+ORD2170,messi,Sports,,10,John,2024/13/01
+, Messi ,,unknown,9,john ,
+2172,,Elec ,,-1,,
+2173, Messi ,,,,John,
+,Messi!!,sports,unknown,,JOHN,2024/13/01
+ORD2175,Messi,,,,,
+,,Electronics,,-1,John,2024-01-01
+ORD2177,messi,Elec ,228.91,,,
+,,,,,,
+2179,,Electronics,,,,
+2180,Messi!!,,,-1,,
+,,sports,,,john ,2024/13/01
+2182, Messi ,Electronics,,,John,01/02/2024
+ORD2183, Messi ,Elec ,,,John,
+,MESSI,Sports,,,JOHN,
+2185,messi,Sports,150.47,5,John,2024/13/01
+ORD2186,Messi,,,6,,01/02/2024
+2187,,Elec ,337.14,,,2024-01-01
+ORD2188,,sports,unknown,,,
+,messi,sports,unknown,1,John,2024/13/01
+,,,395.38,,JOHN,
+,,sports,unknown,,JOHN,
+,MESSI,Sports,unknown,,,2024/13/01
+ORD2193,MESSI,Elec ,347.16,,John,2024-01-01
+ORD2194,Messi!!,sports,unknown,,John,2024/13/01
+2195,messi,Electronics,,3,John,
+,Messi,Electronics,unknown,,JOHN,2024/13/01
+2197,Messi!!,,,,john ,
+2198,MESSI,Elec ,,8,J0hn,2024/13/01
+ORD2199,Messi,Sports,,,J0hn,2024/13/01
+,,Elec ,unknown,,JOHN,
+,Messi,,unknown,,,
+2202,messi,Elec ,463.51,,,01/02/2024
+2203,,Elec ,,-1,john ,2024-01-01
+2204,,Electronics,,,,
+,messi,,unknown,-1,J0hn,2024-01-01
+ORD2206,Messi,,,5,,
+ORD2207,messi,,unknown,,,2024/13/01
+ORD2208,MESSI,Elec ,,2,,
+,messi,Sports,,,J0hn,
+,Messi,Electronics,,,J0hn,
+,MESSI,,88.69,,,
+,,sports,unknown,,John,2024/13/01
+ORD2213,MESSI,,,,JOHN,
+ORD2214,,Elec ,unknown,,,2024-01-01
+,Messi!!,Electronics,,,J0hn,2024/13/01
+ORD2216,MESSI,Elec ,unknown,,john ,01/02/2024
+ORD2217,,Elec ,unknown,2,JOHN,2024-01-01
+2218, Messi ,sports,unknown,-1,,2024/13/01
+,messi,sports,unknown,10,JOHN,01/02/2024
+,messi,,,-1,JOHN,
+ORD2221,MESSI,Elec ,310.16,8,,2024/13/01
+,messi,Electronics,,-1,JOHN,2024/13/01
+,MESSI,sports,202.57,-1,john ,2024-01-01
+2224,messi,,unknown,10,,2024/13/01
+,,Electronics,,-1,JOHN,
+,,,,,J0hn,01/02/2024
+2227,,Sports,495.92,,,2024-01-01
+,,Sports,42.03,-1,,2024-01-01
+, Messi ,,unknown,-1,john ,
+,messi,Sports,,-1,,
+,,,,,,
+2232,,,,,john ,
+2233,messi,,,,,
+ORD2234,messi,Elec ,unknown,,John,2024-01-01
+ORD2235,Messi!!,Sports,,,JOHN,2024/13/01
+2236,messi,,,,JOHN,2024/13/01
+,messi,,,,,2024/13/01
+,,sports,177.44,8,john ,2024/13/01
+ORD2239,,,,,,2024-01-01
+2240,messi,Electronics,,3,J0hn,2024-01-01
+,messi,,,-1,john ,01/02/2024
+2242,MESSI,Elec ,275.88,,,01/02/2024
+, Messi ,Sports,,8,J0hn,01/02/2024
+,Messi!!,Electronics,,,JOHN,2024-01-01
+ORD2245,,Sports,,-1,,2024-01-01
+ORD2246,Messi!!,sports,unknown,1,,2024/13/01
+,Messi!!,,unknown,-1,JOHN,
+ORD2248,,,,-1,,
+2249,messi,Electronics,397.17,,J0hn,
+,,sports,unknown,-1,JOHN,2024/13/01
+ORD2251,,Sports,,,J0hn,2024-01-01
+, Messi ,Sports,unknown,-1,John,2024/13/01
+,Messi,Sports,86.55,-1,JOHN,
+ORD2254,Messi!!,Electronics,,,,2024/13/01
+ORD2255,,sports,,,john ,2024/13/01
+, Messi ,,,,,01/02/2024
+ORD2257,,,,,,2024-01-01
+2258,,,,,JOHN,01/02/2024
+,,,,6,,2024-01-01
+ORD2260,Messi!!,Electronics,476.03,,,2024-01-01
+2261,,sports,,5,,
+,,Elec ,,10,John,
+,,sports,,6,,2024-01-01
+,Messi!!,,,10,JOHN,2024-01-01
+ORD2265,MESSI,,unknown,,JOHN,
+2266,,,,3,John,
+,Messi,Elec ,,1,john ,
+2268,messi,Sports,494.18,-1,,2024/13/01
+,messi,Electronics,164.29,,John,
+,,Sports,267.96,,JOHN,2024-01-01
+2271, Messi ,Electronics,,,,
+ORD2272,Messi!!,Elec ,,,,
+ORD2273,,Sports,unknown,,john ,2024-01-01
+,,Electronics,,8,,2024-01-01
+2275,Messi!!,,,1,,2024-01-01
+,Messi!!,Elec ,unknown,3,,01/02/2024
+,messi,Sports,38.24,,John,
+,Messi,,,,J0hn,
+ORD2279,messi,Sports,411.78,8,John,01/02/2024
+,Messi!!,sports,,,J0hn,2024-01-01
+,,,82.36,5,john ,01/02/2024
+,messi,,unknown,-1,J0hn,
+ORD2283,,,unknown,9,john ,2024-01-01
+,MESSI,Elec ,228.31,,john ,01/02/2024
+,,,,-1,john ,2024-01-01
+2286,Messi,sports,unknown,,,
+,,,unknown,3,,01/02/2024
+,Messi,Elec ,,,JOHN,
+2289,,Electronics,191.79,,,2024-01-01
+,messi,Electronics,unknown,5,,2024/13/01
+ORD2291,Messi!!,,329.35,,John,01/02/2024
+,,Sports,,-1,,
+,Messi!!,Elec ,unknown,,J0hn,
+, Messi ,sports,243.12,-1,john ,2024-01-01
+,Messi!!,Sports,unknown,-1,john ,
+ORD2296, Messi ,sports,,,,2024/13/01
+ORD2297,MESSI,,,10,J0hn,01/02/2024
+2298, Messi ,Elec ,,-1,,01/02/2024
+,messi,Electronics,405.08,,JOHN,2024-01-01
+ORD2300,Messi!!,Sports,,5,John,
+ORD2301, Messi ,,443.05,,John,2024/13/01
+2302, Messi ,Electronics,unknown,,john ,2024-01-01
+,Messi,Sports,unknown,,,2024/13/01
+ORD2304,Messi!!,,unknown,2,John,
+,,Sports,unknown,,John,2024/13/01
+2306, Messi ,Sports,,10,J0hn,2024-01-01
+,,Electronics,unknown,,,2024/13/01
+2308,Messi,sports,366.0,7,john ,2024/13/01
+,,,unknown,10,john ,
+2310,,,159.54,,J0hn,2024-01-01
+2311, Messi ,Electronics,,2,,2024-01-01
+2312,MESSI,Electronics,,6,john ,2024/13/01
+ORD2313,Messi,Sports,unknown,7,J0hn,01/02/2024
+ORD2314,,Elec ,,,,
+,,Sports,175.42,,,2024-01-01
+,,Sports,340.85,,,2024-01-01
+, Messi ,Elec ,,8,,01/02/2024
+, Messi ,sports,,,,
+,,,173.44,,,
+,MESSI,Electronics,346.48,1,,2024-01-01
+2321,,Elec ,,,,
+ORD2322,Messi,Elec ,unknown,7,JOHN,2024/13/01
+,MESSI,Sports,,,,
+2324,,sports,,,John,2024/13/01
+2325,Messi!!,Electronics,,10,john ,2024-01-01
+2326, Messi ,,,,JOHN,2024-01-01
+,,sports,,-1,john ,2024/13/01
+2328,MESSI,,unknown,-1,,01/02/2024
+ORD2329,messi,,unknown,1,J0hn,2024/13/01
+,MESSI,,,-1,J0hn,2024-01-01
+2331,MESSI,Electronics,,,J0hn,
+,Messi,Elec ,257.32,-1,John,
+2333,messi,,unknown,3,John,01/02/2024
+,,Electronics,unknown,-1,,2024/13/01
+,Messi!!,,unknown,,JOHN,2024/13/01
+,MESSI,Sports,unknown,-1,,
+ORD2337,,Electronics,,2,john ,2024-01-01
+2338,MESSI,,unknown,-1,John,2024/13/01
+,,Elec ,,,JOHN,01/02/2024
+ORD2340,Messi!!,,,-1,,2024-01-01
+,messi,Elec ,unknown,-1,J0hn,2024-01-01
+2342,MESSI,Sports,,,john ,
+,Messi,sports,unknown,,,2024-01-01
+2344,,,299.42,1,,2024/13/01
+2345,Messi,sports,152.57,,J0hn,
+2346,Messi!!,sports,,,J0hn,2024-01-01
+,,Electronics,328.39,,john ,2024-01-01
+2348,MESSI,Electronics,,,J0hn,2024/13/01
+ORD2349,,Sports,unknown,,john ,2024-01-01
+,Messi!!,Electronics,,-1,JOHN,2024-01-01
+,messi,sports,,-1,,
+2352,,Electronics,,9,john ,2024-01-01
+2353,,Sports,,,john ,
+ORD2354,,sports,41.63,,john ,
+ORD2355,,Elec ,304.08,,John,2024/13/01
+ORD2356,messi,Electronics,26.33,,john ,2024/13/01
+ORD2357,,Sports,,,J0hn,2024-01-01
+, Messi ,Sports,59.76,,,2024-01-01
+2359,MESSI,,,,,2024/13/01
+,,Elec ,496.76,4,John,
+,Messi!!,,445.58,2,,
+ORD2362,messi,,244.3,7,JOHN,
+ORD2363,,Electronics,277.1,,JOHN,2024-01-01
+2364,messi,Electronics,,2,,
+ORD2365,,Electronics,,,J0hn,2024-01-01
+ORD2366,messi,Elec ,,,,01/02/2024
+,,sports,,-1,J0hn,2024-01-01
+,MESSI,sports,267.9,-1,J0hn,01/02/2024
+2369,,sports,,-1,john ,
+, Messi ,Sports,,,,
+ORD2371,,sports,,,John,2024-01-01
+,,,unknown,,,01/02/2024
+2373,MESSI,Elec ,,-1,,2024-01-01
+2374,messi,,461.8,,,
+,MESSI,Sports,50.52,,john ,
+2376,Messi,Electronics,unknown,3,John,2024-01-01
+2377,Messi!!,Elec ,unknown,-1,JOHN,
+2378,MESSI,,unknown,,john ,
+,Messi!!,Elec ,,9,JOHN,2024-01-01
+ORD2380,,Sports,,2,,2024-01-01
+2381,,,58.34,,john ,2024-01-01
+ORD2382, Messi ,sports,102.94,4,JOHN,01/02/2024
+ORD2383,,sports,146.34,-1,,01/02/2024
+,MESSI,Elec ,,4,JOHN,2024-01-01
+,MESSI,Elec ,,7,JOHN,
+ORD2386,,Electronics,,2,John,2024-01-01
+ORD2387,Messi!!,,,,JOHN,2024-01-01
+ORD2388,messi,,45.86,-1,,
+, Messi ,sports,357.63,-1,,2024-01-01
+,MESSI,sports,139.59,-1,,
+,MESSI,Electronics,unknown,,,
+2392,,,unknown,-1,,2024/13/01
+ORD2393,messi,sports,unknown,,,2024/13/01
+2394,MESSI,,unknown,,,2024-01-01
+,,Electronics,,,J0hn,01/02/2024
+,Messi,,299.93,-1,John,01/02/2024
+ORD2397,messi,,,,John,
+,messi,,unknown,-1,john ,2024-01-01
+ORD2399,MESSI,Sports,,-1,,2024-01-01
+ORD2400, Messi ,,125.16,-1,,01/02/2024
+,,Electronics,73.32,,JOHN,
+,Messi!!,,372.73,,,2024/13/01
+,MESSI,sports,unknown,-1,,
+ORD2404,Messi!!,,,-1,John,2024-01-01
+,messi,Sports,262.87,-1,John,
+ORD2406,Messi,sports,446.83,-1,,2024-01-01
+,,Electronics,231.93,,,2024-01-01
+, Messi ,Elec ,,,,2024/13/01
+ORD2409,messi,Electronics,115.65,3,John,2024-01-01
+ORD2410,,sports,313.43,-1,,
+2411,MESSI,,unknown,,JOHN,
+, Messi ,Elec ,,,J0hn,2024/13/01
+ORD2413,messi,Elec ,,,,01/02/2024
+ORD2414,Messi!!,sports,330.51,,JOHN,2024/13/01
+,Messi!!,sports,409.22,,,2024/13/01
+2416,MESSI,Electronics,268.41,-1,J0hn,2024/13/01
+ORD2417,,,,5,J0hn,
+ORD2418,MESSI,sports,unknown,,,
+2419,Messi!!,,unknown,-1,,2024/13/01
+2420,,Elec ,,,John,01/02/2024
+,messi,Electronics,unknown,-1,JOHN,
+ORD2422,Messi!!,sports,,2,,01/02/2024
+,Messi,Sports,unknown,-1,John,2024/13/01
+2424,Messi,,,-1,,2024/13/01
+,messi,Sports,375.21,,John,
+ORD2426, Messi ,Sports,unknown,,J0hn,2024-01-01
+, Messi ,,unknown,-1,JOHN,
+,,Electronics,unknown,,john ,
+, Messi ,sports,unknown,,john ,2024/13/01
+ORD2430,,sports,,,John,
+ORD2431,Messi,,unknown,3,John,
+,,Electronics,unknown,-1,john ,2024/13/01
+2433,,Electronics,486.01,7,JOHN,
+2434,Messi,,,,J0hn,2024/13/01
+ORD2435,Messi!!,Sports,unknown,7,J0hn,
+2436,,Sports,370.67,,John,
+ORD2437, Messi ,,unknown,-1,,01/02/2024
+ORD2438,MESSI,sports,,,J0hn,
+2439,Messi!!,sports,,4,J0hn,01/02/2024
+,Messi!!,Sports,331.47,,JOHN,
+2441,,,80.47,5,,
+2442,MESSI,Sports,274.99,,JOHN,01/02/2024
+,,Electronics,118.98,-1,JOHN,
+,,,unknown,,J0hn,2024/13/01
+,,,,8,JOHN,
+,,Sports,310.09,1,,
+2447,Messi,,487.69,-1,,2024-01-01
+, Messi ,Electronics,unknown,,J0hn,01/02/2024
+ORD2449,MESSI,sports,,,J0hn,01/02/2024
+2450,,Elec ,unknown,-1,,
+ORD2451, Messi ,Sports,,,,
+2452,Messi,Sports,unknown,2,J0hn,
+ORD2453,MESSI,Electronics,83.65,5,John,2024/13/01
+,,,407.15,,,2024/13/01
+2455,messi,Electronics,,-1,john ,2024-01-01
+2456,MESSI,,299.26,-1,JOHN,2024-01-01
+ORD2457,messi,Elec ,,-1,J0hn,
+, Messi ,Electronics,483.14,,,2024-01-01
+ORD2459,Messi!!,,unknown,,JOHN,2024/13/01
+,,sports,,,JOHN,2024-01-01
+ORD2461,MESSI,Sports,,,J0hn,2024-01-01
+,Messi!!,,,-1,J0hn,2024-01-01
+2463,messi,Electronics,,,J0hn,01/02/2024
+,Messi!!,sports,198.37,-1,John,2024-01-01
+ORD2465,MESSI,sports,358.31,1,john ,
+ORD2466,Messi!!,Sports,,-1,,
+, Messi ,Elec ,203.23,5,,
+2468,,Sports,142.52,7,,2024-01-01
+2469,Messi!!,Sports,,,john ,
+2470,Messi,,,-1,JOHN,
+,,sports,unknown,,,2024-01-01
+2472,Messi!!,,,-1,,01/02/2024
+,MESSI,Electronics,,,john ,2024-01-01
+,messi,sports,,,john ,
+ORD2475, Messi ,,,-1,JOHN,
+,,Electronics,360.71,,,
+,,Sports,356.02,,,
+ORD2478,Messi,Electronics,,-1,JOHN,2024-01-01
+,,Electronics,,,john ,2024/13/01
+,MESSI,Elec ,,,,01/02/2024
+,,,,,,2024/13/01
+2482,Messi!!,Sports,,3,,2024/13/01
+2483,messi,,,-1,John,
+2484,Messi!!,Sports,unknown,5,John,
+2485,messi,,,-1,JOHN,01/02/2024
+,MESSI,,,,,
+,Messi,Elec ,unknown,-1,,01/02/2024
+ORD2488,messi,,223.52,-1,John,01/02/2024
+2489,,,,,,2024-01-01
+2490,Messi!!,Sports,375.92,10,,01/02/2024
+,MESSI,,,,,
+,,,,,john ,
+,Messi!!,Sports,,-1,JOHN,
+2494,MESSI,sports,,,JOHN,
+,Messi,Sports,,,J0hn,2024-01-01
+2496,Messi,Sports,unknown,6,john ,2024/13/01
+,Messi!!,Electronics,unknown,-1,J0hn,
+ORD2498,messi,,unknown,2,john ,01/02/2024
+, Messi ,Sports,unknown,,John,2024/13/01
+ORD2500,,,,-1,john ,2024/13/01
+,,sports,396.39,-1,John,01/02/2024
+, Messi ,,439.75,,John,2024/13/01
+,,sports,,-1,John,
+,Messi,sports,,,J0hn,2024-01-01
+ORD2505,,Sports,498.24,5,John,2024/13/01
+,,Elec ,,-1,john ,
+ORD2507,messi,sports,265.32,,john ,
+2508,MESSI,Sports,,9,,
+, Messi ,Electronics,,,,
+,,Sports,,6,JOHN,01/02/2024
+,,Elec ,,,,01/02/2024
+, Messi ,sports,,-1,John,
+,messi,Sports,,,,01/02/2024
+,MESSI,Elec ,unknown,,J0hn,2024-01-01
+,messi,sports,unknown,1,John,2024/13/01
+,,,,,,
+,Messi,Electronics,unknown,,,01/02/2024
+,,Electronics,15.69,3,,
+,,sports,,-1,,
+,,Elec ,,1,JOHN,2024-01-01
+2521,Messi!!,sports,,,,
+2522,,,unknown,,,
+, Messi ,,unknown,,,2024-01-01
+2524,MESSI,Elec ,,,,2024-01-01
+ORD2525,Messi,Elec ,,4,John,
+,messi,Elec ,310.89,,,01/02/2024
+,messi,,64.38,,john ,2024-01-01
+2528, Messi ,,unknown,-1,John,
+,MESSI,Sports,363.85,,,01/02/2024
+,,Sports,,,,
+2531,messi,,,,JOHN,2024-01-01
+2532,Messi,,208.87,-1,,01/02/2024
+,Messi,,,,J0hn,01/02/2024
+2534,Messi!!,Elec ,334.73,-1,JOHN,
+,MESSI,Electronics,,,JOHN,2024-01-01
+2536,messi,Sports,,4,,
+2537,Messi!!,Elec ,376.01,-1,John,01/02/2024
+,,sports,,4,JOHN,2024/13/01
+ORD2539,MESSI,Electronics,unknown,8,J0hn,
+,messi,Elec ,,-1,JOHN,
+,Messi!!,Sports,unknown,7,J0hn,2024-01-01
+,,Electronics,unknown,7,John,2024/13/01
+, Messi ,sports,,,JOHN,2024-01-01
+,Messi,Electronics,unknown,1,john ,
+,Messi!!,,,5,,
+,,Sports,,,john ,2024-01-01
+,Messi,Elec ,unknown,,,2024-01-01
+,MESSI,Elec ,,,,
+,,Electronics,,,JOHN,2024-01-01
+,Messi,Sports,unknown,,JOHN,01/02/2024
+,Messi!!,sports,,6,John,01/02/2024
+2552,MESSI,,,,john ,
+2553,MESSI,sports,,-1,,01/02/2024
+2554,,Elec ,,6,,2024/13/01
+,Messi,Elec ,,9,JOHN,2024/13/01
+ORD2556,Messi,Elec ,,-1,JOHN,01/02/2024
+,,Electronics,,,JOHN,2024-01-01
+,Messi,sports,31.97,4,,01/02/2024
+2559, Messi ,Electronics,,-1,JOHN,01/02/2024
+,MESSI,,unknown,8,john ,01/02/2024
+ORD2561,messi,Elec ,466.66,,john ,01/02/2024
+2562,Messi!!,Sports,,-1,John,
+2563,MESSI,Electronics,,7,,
+,,Sports,,4,J0hn,
+,Messi!!,Sports,,,John,
+,,Elec ,84.8,,JOHN,
+ORD2567,messi,,,6,,
+,,,268.56,4,,2024-01-01
+ORD2569, Messi ,,unknown,7,John,01/02/2024
+ORD2570, Messi ,Sports,153.6,-1,John,
+2571,messi,sports,unknown,6,,2024-01-01
+,,Electronics,376.75,4,,2024-01-01
+2573, Messi ,,unknown,,,01/02/2024
+,MESSI,sports,unknown,4,J0hn,
+2575,,Electronics,,-1,JOHN,2024-01-01
+2576,Messi,Elec ,unknown,,John,
+,messi,Elec ,,,JOHN,2024/13/01
+2578,MESSI,Electronics,439.22,,,01/02/2024
+,,,,,John,2024/13/01
+2580,Messi,,310.83,,john ,
+2581,messi,,,,J0hn,
+,MESSI,,99.06,,,01/02/2024
+2583,,Elec ,,2,JOHN,
+,messi,Sports,,-1,,
+2585,Messi!!,Electronics,unknown,,John,
+,Messi,,,-1,john ,
+,,,,,John,2024-01-01
+,Messi,,,,JOHN,
+, Messi ,,52.53,,John,2024/13/01
+,,sports,,,J0hn,2024/13/01
+2591,,Electronics,unknown,,JOHN,
+2592,messi,,,7,,01/02/2024
+,MESSI,,135.32,10,,2024-01-01
+,MESSI,Elec ,,-1,John,2024/13/01
+,Messi,sports,,,,01/02/2024
+,,Electronics,,9,John,
+2597,messi,,unknown,,J0hn,2024/13/01
+,,sports,unknown,2,,2024-01-01
+ORD2599,,sports,,,John,
+,,,117.54,-1,J0hn,
+,Messi,Elec ,,,JOHN,2024/13/01
+,,,,-1,JOHN,
+2603,,Elec ,98.15,-1,john ,01/02/2024
+,MESSI,,130.87,-1,,
+ORD2605,Messi,,,,,2024/13/01
+ORD2606,Messi!!,Electronics,,7,,2024-01-01
+,Messi,Sports,171.7,-1,,
+2608,messi,Elec ,44.82,8,John,01/02/2024
+,Messi,sports,unknown,-1,,01/02/2024
+,,Elec ,unknown,8,,2024-01-01
+ORD2611, Messi ,Sports,unknown,,,2024/13/01
+ORD2612,Messi!!,sports,228.62,-1,john ,
+,messi,,,,J0hn,
+,,,unknown,,John,2024/13/01
+2615,,sports,unknown,3,,
+, Messi ,Sports,275.08,2,J0hn,
+2617,,Electronics,unknown,,john ,2024/13/01
+ORD2618,,Elec ,,,,01/02/2024
+2619,,sports,unknown,-1,J0hn,
+,MESSI,Sports,202.14,7,,
+ORD2621, Messi ,Elec ,398.34,,john ,
+,messi,Elec ,,-1,,2024-01-01
+,,Electronics,,,john ,
+2624,,,,,JOHN,2024/13/01
+ORD2625,,sports,,,,2024/13/01
+2626, Messi ,Elec ,unknown,5,John,01/02/2024
+2627,Messi!!,,,8,john ,2024/13/01
+2628,messi,Sports,,,,
+2629,,Sports,,,,
+,messi,Elec ,unknown,5,,
+, Messi ,Elec ,unknown,,,01/02/2024
+,,Elec ,unknown,,,
+2633,Messi!!,sports,155.48,,john ,2024/13/01
+ORD2634,,,unknown,,,2024-01-01
+,MESSI,Electronics,unknown,,JOHN,
+2636,,Sports,unknown,,,
+,Messi!!,Electronics,,,JOHN,
+,Messi,,,,,2024-01-01
+ORD2639, Messi ,Electronics,489.37,,JOHN,2024-01-01
+,MESSI,sports,unknown,-1,,
+ORD2641,messi,,unknown,,JOHN,2024/13/01
+ORD2642,,Electronics,,,JOHN,
+,Messi!!,Electronics,,9,,2024-01-01
+,messi,Sports,,,J0hn,
+,MESSI,Elec ,349.55,8,John,2024/13/01
+ORD2646,Messi!!,,,-1,John,
+,MESSI,Electronics,,-1,J0hn,2024-01-01
+,Messi!!,Elec ,,,john ,
+2649,MESSI,Sports,440.13,-1,JOHN,
+, Messi ,sports,,,john ,2024-01-01
+,,,,-1,JOHN,2024-01-01
+,,Sports,,,John,2024-01-01
+2653,Messi,,248.36,,J0hn,2024-01-01
+, Messi ,sports,,-1,,01/02/2024
+2655,,sports,81.12,6,john ,01/02/2024
+2656,MESSI,Electronics,,5,,2024/13/01
+ORD2657,Messi!!,Elec ,unknown,3,JOHN,2024/13/01
+,Messi!!,Elec ,169.72,3,,2024-01-01
+2659,Messi,Sports,11.44,-1,,2024-01-01
+, Messi ,Sports,,,John,01/02/2024
+2661,Messi,Elec ,,,John,2024/13/01
+ORD2662,Messi,,,-1,,2024-01-01
+,,Sports,unknown,,John,
+,,,297.71,,john ,
+,,Sports,406.12,,,
+,Messi,sports,,,John,
+,MESSI,Elec ,,,J0hn,
+ORD2668,,Elec ,,-1,JOHN,
+2669,,Sports,unknown,5,,
+,,,unknown,-1,,
+2671,MESSI,Electronics,,,John,2024/13/01
+2672,Messi,Sports,,,JOHN,01/02/2024
+ORD2673,Messi!!,Electronics,unknown,,JOHN,2024-01-01
+ORD2674,,sports,,,,2024-01-01
+,MESSI,sports,,,,01/02/2024
+ORD2676,messi,sports,unknown,,,01/02/2024
+ORD2677,,Sports,433.88,,john ,
+,,Elec ,,,,2024/13/01
+,MESSI,,unknown,,J0hn,01/02/2024
+ORD2680,MESSI,,486.76,,john ,2024-01-01
+2681,,Sports,,1,john ,
+,Messi,Electronics,336.87,,John,01/02/2024
+ORD2683, Messi ,Elec ,unknown,4,John,
+,Messi,Sports,,-1,J0hn,
+ORD2685,Messi,Electronics,,,john ,
+2686,,sports,unknown,,John,01/02/2024
+,Messi,,,,John,
+2688, Messi ,,,-1,JOHN,2024/13/01
+ORD2689,Messi,,unknown,,,
+,Messi,,,,JOHN,2024-01-01
+,Messi,Sports,,-1,J0hn,
+ORD2692,messi,sports,,,john ,2024-01-01
+,messi,Sports,unknown,3,,
+,Messi,Electronics,,-1,JOHN,
+,Messi!!,sports,476.5,,,
+,Messi!!,Sports,,6,JOHN,
+2697, Messi ,,,,JOHN,
+ORD2698,MESSI,,,,John,
+,,Elec ,,4,,
+,,,unknown,,john ,2024/13/01
+2701,Messi,,,-1,,2024-01-01
+,,Electronics,,6,JOHN,
+ORD2703,messi,,unknown,,,
+ORD2704,Messi,Elec ,,-1,john ,2024/13/01
+ORD2705,messi,Elec ,unknown,6,John,2024-01-01
+ORD2706,messi,sports,,-1,JOHN,01/02/2024
+2707,,Electronics,,,john ,2024-01-01
+,MESSI,Electronics,unknown,1,john ,
+2709,MESSI,,447.62,,John,01/02/2024
+,,sports,24.12,3,,
+,MESSI,sports,unknown,6,,
+ORD2712,Messi!!,Electronics,unknown,,JOHN,2024-01-01
+,,Sports,unknown,,,01/02/2024
+ORD2714,,,,,john ,2024/13/01
+2715,MESSI,Electronics,unknown,-1,J0hn,
+,Messi!!,,,,John,2024/13/01
+2717, Messi ,,,,John,01/02/2024
+, Messi ,Elec ,,,J0hn,2024/13/01
+2719,,Sports,unknown,-1,John,2024/13/01
+2720,,Elec ,unknown,6,J0hn,
+ORD2721,,,384.01,1,john ,2024/13/01
+,messi,,105.74,,John,
+ORD2723,MESSI,,258.83,5,JOHN,2024/13/01
+,Messi!!,,,3,John,
+ORD2725,Messi,,,,JOHN,
+,Messi,Electronics,unknown,,,2024-01-01
+,messi,Elec ,,,JOHN,
+,Messi,Electronics,unknown,-1,john ,2024-01-01
+,Messi,Sports,485.05,,JOHN,01/02/2024
+2730,MESSI,Elec ,,,,2024-01-01
+ORD2731,messi,Sports,,6,John,2024/13/01
+,MESSI,Sports,136.27,,john ,
+,Messi!!,,27.27,,JOHN,
+,Messi!!,,,,,2024/13/01
+ORD2735,Messi,Sports,,-1,,
+,,Electronics,unknown,,JOHN,
+,MESSI,,,,,01/02/2024
+ORD2738,Messi,Elec ,,,John,01/02/2024
+ORD2739,,Elec ,unknown,10,,01/02/2024
+,,,unknown,1,John,
+2741,Messi,Elec ,435.34,,John,
+ORD2742,,Sports,,-1,,2024/13/01
+ORD2743,Messi,Electronics,,,J0hn,2024-01-01
+, Messi ,Elec ,,,,
+2745,Messi,,,,john ,
+ORD2746, Messi ,Elec ,,,John,2024/13/01
+,,Sports,,-1,J0hn,2024/13/01
+, Messi ,sports,unknown,,JOHN,
+,,,unknown,,,2024/13/01
+ORD2750,messi,sports,unknown,,,01/02/2024
+,Messi!!,,,-1,J0hn,01/02/2024
+ORD2752,Messi,sports,301.31,3,,
+,Messi!!,Electronics,,,,2024-01-01
+,,Sports,,,John,
+ORD2755,,,,,john ,
+ORD2756,MESSI,Sports,21.14,,,2024/13/01
+2757,messi,Elec ,unknown,-1,john ,2024-01-01
+,Messi!!,Sports,,-1,John,
+,messi,Sports,,-1,J0hn,
+, Messi ,Sports,unknown,,,
+,MESSI,Electronics,,,,2024/13/01
+ORD2762,Messi,,,,J0hn,
+ORD2763,MESSI,,403.03,3,JOHN,01/02/2024
+, Messi ,sports,,,John,
+2765, Messi ,Elec ,unknown,,john ,2024-01-01
+,MESSI,Sports,unknown,9,John,2024/13/01
+,MESSI,Electronics,435.66,-1,,2024/13/01
+ORD2768,,Electronics,,-1,JOHN,2024-01-01
+ORD2769,,sports,,,,01/02/2024
+ORD2770,Messi!!,Elec ,,,John,2024/13/01
+,Messi,Elec ,97.69,,,01/02/2024
+,messi,,133.45,,John,01/02/2024
+,messi,Sports,337.01,-1,john ,
+2774,messi,,unknown,-1,john ,
+,messi,Electronics,481.55,,JOHN,2024-01-01
+ORD2776,MESSI,Electronics,,,John,01/02/2024
+,Messi!!,,9.31,-1,,2024/13/01
+ORD2778,Messi,Sports,424.21,,,
+ORD2779,Messi,,unknown,,J0hn,
+2780,Messi!!,Electronics,unknown,8,JOHN,2024/13/01
+2781,messi,sports,,-1,John,2024/13/01
+,MESSI,Electronics,unknown,-1,,
+ORD2783, Messi ,,19.11,,,2024/13/01
+2784,,,145.03,-1,,01/02/2024
+,messi,Elec ,375.4,,J0hn,2024-01-01
+, Messi ,Elec ,73.76,,John,2024/13/01
+ORD2787,,,unknown,,,2024/13/01
+2788,messi,Elec ,unknown,2,john ,2024/13/01
+,Messi,Elec ,,-1,J0hn,2024-01-01
+2790,Messi!!,Elec ,,4,,
+2791, Messi ,Elec ,,,,01/02/2024
+,,,,3,,2024-01-01
+2793,Messi,,404.27,,J0hn,2024-01-01
+,,Electronics,,,,2024-01-01
+2795,,Elec ,324.48,,john ,
+, Messi ,Electronics,68.44,,,
+2797,,Sports,unknown,8,john ,
+,MESSI,sports,,-1,,
+,messi,Elec ,,,John,
+,,,450.65,-1,JOHN,
+, Messi ,,,-1,,2024-01-01
+2802,Messi!!,Elec ,,2,,01/02/2024
+,MESSI,Elec ,,,,
+ORD2804,messi,Sports,,,,2024/13/01
+2805,Messi,sports,,,,
+,MESSI,sports,,,,01/02/2024
+2807,,,unknown,7,,01/02/2024
+,Messi,Elec ,120.31,-1,John,2024/13/01
+,Messi,,unknown,,,01/02/2024
+,,,unknown,-1,,
+,Messi!!,,,,J0hn,2024-01-01
+, Messi ,,unknown,,john ,2024-01-01
+,Messi,sports,,-1,J0hn,
+ORD2814,Messi,Electronics,unknown,,john ,
+,,sports,59.6,-1,,2024-01-01
+2816,,Electronics,,-1,JOHN,01/02/2024
+ORD2817,MESSI,sports,unknown,,john ,2024/13/01
+,Messi,Elec ,,,john ,
+ORD2819,messi,Sports,,-1,john ,
+2820,Messi,Sports,,-1,john ,
+,MESSI,,,2,John,
+2822,Messi,,,,John,2024/13/01
+,messi,Electronics,unknown,,john ,01/02/2024
+2824,,Electronics,,7,John,01/02/2024
+ORD2825,,,,,J0hn,2024/13/01
+2826,,Electronics,442.16,,John,01/02/2024
+,Messi,Electronics,,,JOHN,
+2828,,,220.71,,John,
+,MESSI,,404.68,8,,
+,Messi,Sports,,,J0hn,01/02/2024
+2831, Messi ,Elec ,unknown,3,,
+,messi,,,,John,2024/13/01
+2833,MESSI,Sports,unknown,,,
+ORD2834,,,,,John,2024-01-01
+ORD2835,MESSI,Electronics,unknown,,John,
+ORD2836,,Elec ,unknown,,John,2024/13/01
+, Messi ,Elec ,unknown,-1,,2024/13/01
+2838,,,,-1,J0hn,2024/13/01
+,,,,,JOHN,2024/13/01
+,Messi,Electronics,,-1,John,2024/13/01
+2841,Messi,,unknown,,john ,
+,,,185.45,-1,,01/02/2024
+, Messi ,,357.74,2,JOHN,01/02/2024
+,messi,Sports,,3,JOHN,2024/13/01
+, Messi ,,unknown,,john ,2024/13/01
+ORD2846,,,unknown,,,01/02/2024
+,Messi!!,Elec ,,,john ,01/02/2024
+, Messi ,,,4,,01/02/2024
+,messi,Elec ,444.61,,,01/02/2024
+,MESSI,sports,,9,,01/02/2024
+,,Sports,,-1,,2024-01-01
+,,Sports,,,,01/02/2024
+2853,messi,Electronics,unknown,2,,
+, Messi ,,,2,john ,2024-01-01
+,,sports,,2,J0hn,
+,,,,-1,john ,2024-01-01
+2857, Messi ,Electronics,63.53,,John,2024-01-01
+2858,messi,sports,,,john ,2024-01-01
+,messi,,290.91,,,
+,messi,,142.44,7,,
+, Messi ,Electronics,,3,JOHN,2024/13/01
+,Messi!!,,317.36,,JOHN,
+,,Electronics,unknown,7,John,2024/13/01
+,,Electronics,unknown,9,john ,2024/13/01
+ORD2865,,Sports,75.31,8,john ,2024/13/01
+2866,,sports,340.39,6,John,2024/13/01
+, Messi ,Sports,87.3,-1,,
+,messi,Sports,,,John,2024/13/01
+,messi,,,-1,J0hn,2024-01-01
+ORD2870,Messi,,unknown,-1,JOHN,2024-01-01
+,Messi,Elec ,,2,JOHN,
+ORD2872,,Elec ,,10,,01/02/2024
+2873,,,,,John,01/02/2024
+,MESSI,sports,,,John,2024/13/01
+,Messi!!,Elec ,unknown,,,
+,Messi!!,,unknown,5,J0hn,
+,,,,-1,,2024/13/01
+2878,Messi!!,,273.25,,J0hn,
+ORD2879,,Sports,,-1,John,01/02/2024
+2880, Messi ,Elec ,unknown,,john ,2024-01-01
+2881,,Elec ,59.07,-1,J0hn,
+ORD2882,messi,,unknown,,J0hn,2024-01-01
+,,Elec ,224.86,,J0hn,01/02/2024
+,Messi,Elec ,,,john ,2024-01-01
+2885,Messi,,unknown,,,
+ORD2886, Messi ,,,-1,,
+ORD2887,,,378.45,-1,,2024/13/01
+,Messi,,229.24,,J0hn,01/02/2024
+,,Elec ,94.71,-1,JOHN,2024/13/01
+,,sports,,,JOHN,
+ORD2891,,sports,14.41,,,2024-01-01
+2892,messi,Electronics,24.71,10,John,
+,,Sports,unknown,,,2024/13/01
+ORD2894,,,unknown,7,John,01/02/2024
+,MESSI,Electronics,,-1,john ,2024-01-01
+,MESSI,Electronics,,,JOHN,
+2897,MESSI,,,,,2024/13/01
+,Messi!!,Electronics,,-1,John,01/02/2024
+ORD2899,Messi!!,Electronics,,,John,
+, Messi ,,,7,JOHN,2024-01-01
+ORD2901,messi,Elec ,21.68,8,,
+,,,,,JOHN,
+, Messi ,,,,J0hn,2024/13/01
+ORD2904,Messi,sports,,9,,2024-01-01
+,,Sports,361.6,,J0hn,2024-01-01
+ORD2906,Messi,,487.14,,J0hn,2024/13/01
+,messi,Electronics,21.97,,J0hn,2024-01-01
+ORD2908,MESSI,Elec ,,7,J0hn,2024-01-01
+ORD2909,Messi!!,,197.76,,,2024-01-01
+,,Elec ,448.95,4,J0hn,
+,Messi!!,Elec ,250.54,,JOHN,01/02/2024
+2912,Messi,Sports,494.61,,,2024/13/01
+ORD2913,MESSI,,,-1,,2024/13/01
+,messi,,unknown,,,2024/13/01
+,MESSI,,,10,,01/02/2024
+2916,MESSI,,unknown,-1,JOHN,
+ORD2917,MESSI,sports,158.07,5,,01/02/2024
+2918,Messi!!,Elec ,185.4,,,
+2919,MESSI,,346.71,,,2024-01-01
+2920, Messi ,,,2,john ,
+ORD2921,Messi,sports,unknown,-1,John,
+,messi,,,,,
+,messi,Electronics,,-1,,
+,messi,Sports,,-1,JOHN,2024/13/01
+,,,,-1,JOHN,
+, Messi ,Sports,,-1,john ,
+,,Sports,183.44,,John,
+,Messi,sports,,-1,,
+,Messi!!,,,,J0hn,2024/13/01
+ORD2930,,,unknown,4,john ,01/02/2024
+,,,,,,01/02/2024
+,MESSI,,,6,J0hn,
+ORD2933,Messi,,,,john ,2024-01-01
+ORD2934,Messi,sports,unknown,9,,
+,Messi!!,,239.26,-1,,
+,Messi,Elec ,,1,John,2024/13/01
+,MESSI,Sports,6.99,1,J0hn,01/02/2024
+,messi,sports,37.46,,J0hn,
+,MESSI,Sports,unknown,,J0hn,01/02/2024
+,Messi!!,Sports,,-1,john ,2024/13/01
+ORD2941, Messi ,Elec ,,5,John,
+ORD2942,,,,-1,J0hn,2024/13/01
+ORD2943,,,unknown,,JOHN,2024/13/01
+,MESSI,sports,94.82,9,,2024/13/01
+ORD2945,MESSI,,325.67,,John,2024/13/01
+2946,Messi,Elec ,unknown,-1,John,2024/13/01
+,Messi!!,sports,,,JOHN,
+,,sports,,6,JOHN,01/02/2024
+2949,MESSI,sports,274.25,,John,2024/13/01
+,Messi!!,,72.42,,,2024/13/01
+2951,Messi!!,,211.88,3,J0hn,01/02/2024
+2952,messi,sports,,,J0hn,01/02/2024
+2953, Messi ,Elec ,,,,2024-01-01
+ORD2954,Messi!!,Electronics,unknown,,J0hn,
+2955,,,unknown,-1,JOHN,2024-01-01
+2956,Messi,Sports,unknown,,john ,2024-01-01
+ORD2957,MESSI,Electronics,324.21,,John,01/02/2024
+2958, Messi ,,428.71,,,01/02/2024
+,messi,Electronics,87.35,,JOHN,2024/13/01
+ORD2960,Messi,,,6,John,2024-01-01
+,messi,sports,,,John,2024-01-01
+2962,,sports,,,john ,2024-01-01
+ORD2963,,Electronics,312.78,-1,john ,01/02/2024
+ORD2964,messi,,318.29,,J0hn,
+ORD2965,messi,,unknown,,john ,2024-01-01
+,messi,Sports,,-1,J0hn,
+,Messi,sports,442.36,-1,john ,2024/13/01
+ORD2968,Messi!!,,,7,JOHN,
+2969,,Electronics,,5,John,
+2970, Messi ,,unknown,,,01/02/2024
+,,sports,unknown,,john ,
+,,Sports,275.08,,J0hn,
+,Messi!!,Sports,,3,JOHN,01/02/2024
+2974,Messi!!,Electronics,253.28,-1,JOHN,
+2975,MESSI,sports,,-1,john ,01/02/2024
+2976,Messi!!,sports,,-1,John,
+ORD2977,MESSI,Sports,147.2,4,John,
+2978,messi,Electronics,,,John,2024-01-01
+ORD2979,messi,Electronics,,,,01/02/2024
+, Messi ,,unknown,4,John,
+,MESSI,sports,,,,
+2982,Messi!!,Sports,,,J0hn,01/02/2024
+,,sports,,,John,2024/13/01
+ORD2984,messi,Sports,,,,
+,MESSI,,,,J0hn,01/02/2024
+ORD2986,MESSI,,unknown,8,JOHN,01/02/2024
+,,Electronics,unknown,2,,2024-01-01
+2988,,Sports,218.42,-1,John,
+,Messi,sports,unknown,,,
+, Messi ,sports,,,John,
+2991,MESSI,Sports,,,,2024/13/01
+, Messi ,,unknown,-1,,
+,MESSI,,unknown,,John,01/02/2024
+ORD2994,Messi!!,,,,JOHN,
+2995,messi,,273.5,4,JOHN,2024/13/01
+ORD2996,Messi!!,Elec ,unknown,1,,
+,MESSI,sports,,-1,,2024-01-01
+,Messi,sports,463.86,3,John,
+,Messi,Electronics,unknown,-1,John,01/02/2024
+,Messi,sports,,8,,2024-01-01
+ORD3001,Messi,,unknown,,john ,
+ORD3002,messi,Elec ,,,J0hn,
+,,Sports,,,john ,
+,Messi!!,,,-1,JOHN,
+,Messi,Electronics,,,john ,
+ORD3006,MESSI,,,,JOHN,01/02/2024
+ORD3007,Messi!!,,,,,
+,MESSI,Elec ,unknown,,JOHN,
+3009,,Sports,unknown,,J0hn,2024-01-01
+,,Elec ,,-1,john ,
+3011,,,21.37,8,J0hn,
+, Messi ,Electronics,56.89,-1,John,2024-01-01
+,Messi!!,sports,unknown,-1,J0hn,2024/13/01
+3014,,Elec ,unknown,4,,2024-01-01
+, Messi ,sports,421.72,,john ,2024-01-01
+,Messi!!,sports,,-1,J0hn,2024/13/01
+,,,244.51,,JOHN,2024/13/01
+,Messi!!,sports,131.38,1,john ,2024-01-01
+,messi,,unknown,2,John,
+ORD3020,Messi,,,,,2024/13/01
+, Messi ,,277.06,,,
+ORD3022,messi,Electronics,36.06,-1,J0hn,01/02/2024
+,messi,Sports,,-1,,2024/13/01
+, Messi ,,246.0,,,2024/13/01
+3025,Messi!!,sports,244.75,,John,01/02/2024
+,,,,-1,J0hn,
+ORD3027,Messi,Sports,,-1,john ,2024/13/01
+,Messi!!,,unknown,-1,J0hn,
+ORD3029,messi,Elec ,231.58,3,J0hn,01/02/2024
+,,Sports,,-1,JOHN,
+ORD3031,Messi,,,,JOHN,
+3032,,,456.27,,,01/02/2024
+3033,messi,,,,,2024/13/01
+3034, Messi ,,,,J0hn,
+,Messi!!,,,,john ,
+3036, Messi ,sports,164.74,9,John,01/02/2024
+,Messi!!,,,-1,,2024/13/01
+3038,,Sports,,-1,John,01/02/2024
+3039,MESSI,Electronics,,,JOHN,01/02/2024
+3040,,Electronics,unknown,,,01/02/2024
+ORD3041, Messi ,Sports,,7,,01/02/2024
+,Messi,Electronics,,-1,JOHN,01/02/2024
+3043,Messi!!,Elec ,,7,John,01/02/2024
+3044, Messi ,Elec ,174.28,,John,01/02/2024
+ORD3045,,Electronics,unknown,,,2024/13/01
+,MESSI,,13.67,,John,2024/13/01
+3047,Messi,,,-1,john ,
+,messi,Sports,,,,2024/13/01
+,Messi,Sports,,3,JOHN,01/02/2024
+,,Elec ,,5,john ,2024-01-01
+3051,,sports,unknown,-1,john ,
+,Messi,sports,293.89,3,JOHN,2024/13/01
+,messi,Electronics,,2,john ,2024-01-01
+ORD3054, Messi ,Elec ,,5,John,
+,,Electronics,,,,
+ORD3056,MESSI,Elec ,164.07,,JOHN,2024/13/01
+,Messi,Electronics,unknown,9,J0hn,
+,,,,,J0hn,2024-01-01
+,Messi,,,,,
+ORD3060, Messi ,sports,,7,J0hn,
+,,,,-1,john ,2024/13/01
+ORD3062,MESSI,sports,,,J0hn,
+ORD3063, Messi ,sports,,-1,john ,
+,,,unknown,,john ,2024-01-01
+ORD3065,MESSI,Sports,,-1,JOHN,01/02/2024
+3066, Messi ,Sports,223.73,-1,J0hn,2024-01-01
+ORD3067,Messi,,unknown,,J0hn,2024-01-01
+,messi,sports,,,John,2024-01-01
+ORD3069,MESSI,,89.04,,,2024/13/01
+3070,MESSI,Electronics,427.91,,J0hn,
+,MESSI,Elec ,428.93,8,,2024/13/01
+,,Electronics,,7,,
+,,,283.67,-1,,
+3074,Messi!!,,50.01,,,
+,,Electronics,141.32,-1,,
+ORD3076, Messi ,sports,,,JOHN,2024-01-01
+3077,messi,Electronics,unknown,9,john ,
+,Messi,Sports,unknown,,JOHN,2024-01-01
+3079, Messi ,sports,unknown,,,
+,MESSI,Elec ,,7,John,2024-01-01
+ORD3081,,Electronics,,4,john ,
+,Messi,sports,,,John,01/02/2024
+,,,unknown,,J0hn,
+,Messi,Electronics,400.25,,,2024/13/01
+,Messi,,,,John,01/02/2024
+,,,241.22,10,John,2024-01-01
+ORD3087,MESSI,Sports,,-1,JOHN,
+,MESSI,Sports,unknown,10,John,
+ORD3089, Messi ,,,-1,,2024/13/01
+,MESSI,,327.32,1,JOHN,
+,messi,,unknown,,,
+,messi,sports,456.09,-1,john ,
+ORD3093, Messi ,,202.67,,,2024-01-01
+,,,,1,,
+3095,,Electronics,,,JOHN,2024/13/01
+,Messi!!,Elec ,299.96,,,
+ORD3097,MESSI,,unknown,,JOHN,2024/13/01
+,Messi!!,Electronics,,4,JOHN,01/02/2024
+,MESSI,Electronics,202.63,,John,
+ORD3100,,,,,,
+3101,,,,-1,JOHN,
+, Messi ,sports,,1,john ,2024-01-01
+,MESSI,Sports,,,john ,2024/13/01
+,Messi!!,Elec ,unknown,1,JOHN,01/02/2024
+,Messi!!,,393.71,2,,01/02/2024
+,MESSI,sports,,-1,john ,2024/13/01
+,messi,,,4,,01/02/2024
+,Messi,Elec ,unknown,,JOHN,2024/13/01
+3109,,,315.84,,john ,2024-01-01
+ORD3110,,sports,,-1,JOHN,01/02/2024
+3111,Messi!!,Electronics,unknown,,,
+3112,,,135.55,4,JOHN,2024-01-01
+,Messi!!,Elec ,,,J0hn,
+,Messi,Sports,unknown,,,2024-01-01
+ORD3115,MESSI,sports,,,,01/02/2024
+ORD3116,Messi,sports,101.24,,J0hn,2024/13/01
+ORD3117,,Electronics,,,john ,2024-01-01
+,MESSI,,unknown,8,J0hn,
+, Messi ,Electronics,,,john ,
+,Messi!!,Elec ,,-1,John,2024/13/01
+ORD3121,MESSI,sports,unknown,4,john ,01/02/2024
+,,,unknown,,John,2024/13/01
+,,,,-1,john ,
+3124,,,,,,
+ORD3125,Messi!!,,,,JOHN,2024-01-01
+3126,,Elec ,,,J0hn,2024/13/01
+, Messi ,,unknown,,J0hn,
+ORD3128,,,,7,,2024-01-01
+,,Sports,,,,
+,Messi!!,,,,,
+,,,66.7,,,01/02/2024
+3132,Messi,sports,187.24,,J0hn,
+ORD3133,Messi,Electronics,22.82,,john ,01/02/2024
+3134,,Sports,,3,,2024/13/01
+3135,Messi!!,,427.94,,,
+,messi,,,-1,JOHN,2024/13/01
+3137,,Electronics,unknown,-1,John,
+,Messi,Elec ,276.18,9,JOHN,
+,,,477.77,-1,,01/02/2024
+ORD3140,,,483.5,-1,J0hn,2024/13/01
+,,Electronics,unknown,,John,01/02/2024
+3142,messi,Electronics,335.76,10,JOHN,01/02/2024
+, Messi ,,unknown,,J0hn,2024-01-01
+,,,unknown,8,J0hn,01/02/2024
+ORD3145,Messi!!,Electronics,141.98,10,,2024-01-01
+ORD3146,,Sports,286.33,,JOHN,2024-01-01
+,Messi,sports,,,,
+,,Electronics,,1,JOHN,2024/13/01
+ORD3149, Messi ,Electronics,142.92,,,
+,,sports,unknown,3,john ,
+3151,MESSI,Sports,,-1,J0hn,
+3152,messi,Elec ,277.43,1,,
+,Messi!!,,,,John,01/02/2024
+,Messi,,,,JOHN,01/02/2024
+ORD3155, Messi ,sports,,,JOHN,2024-01-01
+ORD3156,,Sports,,,JOHN,
+ORD3157,MESSI,sports,,4,JOHN,
+3158,Messi,sports,192.22,,,2024/13/01
+3159, Messi ,,,-1,J0hn,
+,,Elec ,466.6,,john ,2024-01-01
+,Messi!!,Sports,,1,JOHN,2024/13/01
+,Messi!!,sports,,,,
+ORD3163,Messi!!,Sports,268.58,,,01/02/2024
+ORD3164,Messi,Sports,,5,J0hn,2024/13/01
+,,Elec ,,,,2024/13/01
+3166,Messi,,unknown,,JOHN,2024-01-01
+ORD3167,Messi,,,,,
+3168,,Sports,,,J0hn,01/02/2024
+3169, Messi ,Electronics,,1,J0hn,
+ORD3170,,Electronics,,10,john ,
+ORD3171, Messi ,Electronics,unknown,,,01/02/2024
+3172,messi,Elec ,,10,J0hn,
+,,Elec ,,,john ,01/02/2024
+3174,,sports,,4,john ,01/02/2024
+,,sports,26.72,,john ,2024/13/01
+3176,,Sports,unknown,-1,John,
+, Messi ,,260.39,8,JOHN,
+, Messi ,Elec ,,,,2024/13/01
+ORD3179,Messi!!,Electronics,342.79,4,john ,2024-01-01
+3180, Messi ,,310.19,-1,J0hn,
+3181,MESSI,,unknown,,,2024/13/01
+,messi,Sports,unknown,-1,J0hn,2024-01-01
+,,,166.08,-1,,2024-01-01
+,,sports,,,J0hn,2024-01-01
+,,,unknown,,JOHN,2024-01-01
+,Messi,Electronics,unknown,,,
+3187,Messi!!,,,3,john ,01/02/2024
+,,,,8,John,
+ORD3189,Messi!!,Elec ,,-1,JOHN,
+,,sports,,9,,
+3191,messi,,423.17,,John,2024-01-01
+3192,,sports,unknown,-1,JOHN,
+ORD3193, Messi ,sports,,,J0hn,
+,,sports,,,john ,
+3195,,Sports,,-1,JOHN,2024-01-01
+ORD3196,Messi!!,Electronics,148.39,-1,John,
+,Messi,Electronics,,-1,,
+3198,MESSI,,67.93,,john ,2024/13/01
+3199, Messi ,,,,,2024/13/01
+3200,Messi,,unknown,,,
+,Messi,Sports,261.26,4,John,
+,MESSI,,unknown,-1,John,
+,Messi,Elec ,139.99,-1,,2024/13/01
+,MESSI,Sports,147.63,,,2024-01-01
+,,,,1,J0hn,2024-01-01
+, Messi ,sports,194.07,-1,John,2024/13/01
+,messi,Elec ,313.66,-1,john ,
+, Messi ,Electronics,,,J0hn,2024-01-01
+ORD3209,messi,Sports,unknown,3,JOHN,
+, Messi ,,,,,01/02/2024
+,MESSI,Electronics,,5,,
+,,sports,unknown,,,
+, Messi ,,,,J0hn,
+3214, Messi ,Electronics,,-1,J0hn,2024-01-01
+ORD3215,Messi,Sports,317.27,,,2024/13/01
+ORD3216,MESSI,sports,,-1,john ,2024/13/01
+,,Electronics,,6,J0hn,01/02/2024
+ORD3218,,Sports,unknown,,JOHN,01/02/2024
+,messi,Electronics,unknown,,John,
+3220,,Electronics,unknown,8,J0hn,2024-01-01
+,Messi!!,sports,,-1,J0hn,01/02/2024
+,Messi,sports,,2,,2024-01-01
+3223,Messi,Electronics,,,J0hn,
+,Messi!!,Sports,,,John,
+3225, Messi ,Sports,,,John,
+,messi,Sports,,-1,J0hn,2024/13/01
+ORD3227, Messi ,,,,john ,
+,MESSI,,24.16,,JOHN,01/02/2024
+,MESSI,,,-1,,01/02/2024
+ORD3230,Messi,sports,,,J0hn,
+,MESSI,,,-1,john ,01/02/2024
+,Messi,Elec ,,,,2024-01-01
+ORD3233,Messi!!,sports,,-1,,2024-01-01
+, Messi ,,,,John,
+,Messi!!,,,10,,01/02/2024
+, Messi ,sports,,8,john ,
+3237, Messi ,Elec ,unknown,,John,2024/13/01
+,Messi,Sports,unknown,10,John,2024/13/01
+, Messi ,Elec ,,-1,J0hn,
+3240, Messi ,Electronics,122.19,4,,2024-01-01
+,,sports,,,,2024/13/01
+,,Sports,,,,
+,,Sports,,-1,,2024/13/01
+ORD3244, Messi ,Elec ,,,John,
+ORD3245,MESSI,Sports,unknown,2,J0hn,2024/13/01
+ORD3246,Messi!!,Electronics,,8,JOHN,2024-01-01
+,Messi!!,,325.82,-1,JOHN,01/02/2024
+,Messi,Electronics,,,john ,2024-01-01
+ORD3249,MESSI,Sports,153.95,-1,john ,2024/13/01
+3250,Messi!!,Sports,,-1,john ,
+ORD3251,MESSI,Elec ,239.71,10,,01/02/2024
+,messi,sports,unknown,,,01/02/2024
+ORD3253,Messi!!,Sports,,,john ,2024-01-01
+,MESSI,Sports,486.85,8,JOHN,01/02/2024
+,Messi!!,,447.55,,John,2024/13/01
+3256,Messi,Elec ,unknown,,,2024-01-01
+,Messi,Electronics,unknown,,john ,2024-01-01
+ORD3258,messi,Electronics,,-1,,2024/13/01
+,Messi!!,Sports,,-1,,
+,,,,-1,,2024-01-01
+,,Elec ,unknown,7,,
+,Messi!!,Elec ,,,john ,
+ORD3263, Messi ,Elec ,,,J0hn,01/02/2024
+ORD3264,Messi!!,sports,,,John,01/02/2024
+ORD3265,MESSI,Elec ,80.57,-1,J0hn,
+3266,Messi,Sports,119.34,5,J0hn,
+, Messi ,,,-1,J0hn,2024/13/01
+,,Elec ,unknown,,,
+ORD3269,Messi!!,Sports,,-1,,2024-01-01
+3270,Messi!!,,,,J0hn,01/02/2024
+, Messi ,,unknown,3,JOHN,2024/13/01
+,,sports,,,,01/02/2024
+ORD3273,MESSI,,69.86,,J0hn,
+,messi,Electronics,131.17,,JOHN,
+,,Electronics,,,,2024/13/01
+ORD3276,Messi,Sports,20.8,,john ,01/02/2024
+ORD3277,Messi,sports,395.51,,JOHN,2024/13/01
+,Messi,,408.38,,john ,01/02/2024
+ORD3279,messi,,,-1,,01/02/2024
+,,sports,241.78,6,JOHN,2024-01-01
+, Messi ,sports,,,JOHN,01/02/2024
+,,,,-1,,01/02/2024
+,Messi,,104.11,,,
+ORD3284,,sports,unknown,-1,,
+, Messi ,sports,,,,
+3286,Messi,,,5,JOHN,01/02/2024
+ORD3287,messi,Sports,213.99,-1,,
+3288,Messi!!,Sports,,10,,2024/13/01
+,,Electronics,unknown,-1,J0hn,2024-01-01
+3290,messi,Electronics,unknown,-1,john ,
+3291,Messi!!,,9.18,-1,J0hn,2024-01-01
+ORD3292,Messi!!,sports,unknown,-1,,01/02/2024
+ORD3293,,sports,248.38,,JOHN,01/02/2024
+,Messi,,unknown,-1,JOHN,2024-01-01
+,messi,Elec ,,,,
+3296,,Electronics,,,john ,2024/13/01
+,messi,sports,,,,01/02/2024
+ORD3298,Messi,Elec ,unknown,-1,john ,
+3299,messi,,unknown,-1,John,
+,,,,-1,JOHN,2024/13/01
+,,,,-1,John,01/02/2024
+,Messi,Sports,307.47,7,JOHN,2024-01-01
+,messi,Elec ,484.24,,,
+,Messi,Electronics,,,,
+ORD3305, Messi ,Sports,unknown,,,2024-01-01
+,Messi,,,9,john ,01/02/2024
+,MESSI,,unknown,-1,John,2024-01-01
+,messi,Electronics,285.91,,,2024-01-01
+3309, Messi ,,,,John,
+,,Elec ,,,John,
+,,sports,,,,
+, Messi ,Electronics,,,John,
+,,Elec ,298.18,9,john ,01/02/2024
+3314,messi,,,4,John,01/02/2024
+3315,MESSI,,unknown,,,
+ORD3316, Messi ,Electronics,193.83,4,J0hn,2024-01-01
+ORD3317,messi,,,,,01/02/2024
+ORD3318,messi,,unknown,5,J0hn,
+,MESSI,,,,,2024/13/01
+3320,Messi,,,,john ,01/02/2024
+,MESSI,Electronics,76.05,-1,,
+ORD3322,MESSI,Elec ,,7,John,2024/13/01
+,messi,Sports,,,JOHN,
+,,,398.48,,,01/02/2024
+3325,Messi,Sports,,2,,2024-01-01
+3326,MESSI,,,10,JOHN,01/02/2024
+,MESSI,,318.57,,J0hn,2024-01-01
+,Messi!!,Sports,,,,2024/13/01
+ORD3329,messi,Elec ,,,JOHN,2024-01-01
+,MESSI,,,4,john ,01/02/2024
+ORD3331,Messi,sports,212.64,,John,01/02/2024
+3332,messi,Elec ,unknown,,john ,
+3333,,,178.25,5,J0hn,
+ORD3334,,Electronics,486.76,,JOHN,
+,MESSI,,,,,01/02/2024
+3336,Messi,Electronics,,,JOHN,
+,MESSI,,,,John,
+,,,129.24,-1,JOHN,
+ORD3339,Messi,sports,unknown,,JOHN,
+, Messi ,,,10,J0hn,
+,MESSI,sports,,6,,01/02/2024
+,Messi,Sports,unknown,,,2024-01-01
+,messi,Electronics,unknown,2,,
+3344,,Electronics,,,,
+ORD3345,,Elec ,,,J0hn,01/02/2024
+,,Elec ,unknown,,J0hn,2024-01-01
+3347,,Electronics,unknown,,J0hn,2024-01-01
+3348,Messi!!,sports,unknown,,J0hn,2024/13/01
+3349, Messi ,sports,unknown,,J0hn,01/02/2024
+ORD3350,Messi,sports,239.58,7,,01/02/2024
+3351,messi,Electronics,386.2,-1,john ,
+3352,MESSI,Electronics,410.12,,JOHN,
+ORD3353,,Electronics,,,J0hn,
+3354,,Electronics,,-1,,2024-01-01
+3355,MESSI,Elec ,,1,john ,01/02/2024
+ORD3356,,sports,,,,2024/13/01
+ORD3357,messi,Sports,168.84,,John,2024/13/01
+ORD3358,,Sports,,2,John,01/02/2024
+,,,,,JOHN,2024/13/01
+ORD3360,messi,sports,,-1,john ,2024-01-01
+, Messi ,sports,unknown,,john ,2024-01-01
+,Messi!!,Sports,,4,J0hn,2024/13/01
+,,,,,J0hn,
+,Messi,,,,john ,2024-01-01
+,,,318.24,8,john ,2024-01-01
+3366, Messi ,,,3,J0hn,
+3367,Messi!!,Electronics,,,J0hn,2024/13/01
+,,,unknown,-1,J0hn,
+3369, Messi ,Electronics,,,,
+3370,messi,Sports,186.12,,J0hn,01/02/2024
+,Messi!!,Elec ,unknown,,JOHN,2024/13/01
+ORD3372,,Electronics,,5,,2024-01-01
+ORD3373,Messi!!,Electronics,unknown,7,,
+,MESSI,,unknown,-1,john ,01/02/2024
+ORD3375,Messi,Electronics,203.08,,,
+3376,Messi!!,Elec ,,9,john ,
+3377,,Elec ,398.55,-1,john ,2024-01-01
+ORD3378,messi,,,,,
+ORD3379, Messi ,,,6,J0hn,
+ORD3380,Messi!!,Sports,,10,John,01/02/2024
+3381,,Elec ,,,,
+ORD3382,Messi!!,sports,320.15,,,
+,Messi!!,,48.45,1,john ,
+ORD3384,Messi,Sports,unknown,-1,J0hn,
+3385,MESSI,sports,unknown,,J0hn,2024/13/01
+3386,,Sports,37.83,,,
+, Messi ,Sports,,-1,JOHN,2024-01-01
+ORD3388,messi,Elec ,unknown,,JOHN,
+3389,Messi!!,Elec ,428.37,-1,,2024/13/01
+,messi,Elec ,unknown,2,john ,2024/13/01
+,Messi,Sports,,,,2024/13/01
+3392,Messi,,75.23,,,01/02/2024
+,,,,9,,01/02/2024
+,Messi!!,,472.49,,J0hn,2024/13/01
+3395,messi,,407.79,7,JOHN,
+3396, Messi ,sports,248.4,,john ,01/02/2024
+ORD3397,MESSI,sports,399.99,-1,JOHN,2024/13/01
+,,,27.87,1,J0hn,2024-01-01
+,messi,sports,unknown,6,,
+,MESSI,Elec ,,-1,,2024-01-01
+,Messi!!,,unknown,7,JOHN,2024/13/01
+, Messi ,,unknown,3,J0hn,
+3403,MESSI,Elec ,unknown,,john ,
+3404,Messi!!,,unknown,-1,JOHN,2024-01-01
+,Messi!!,Electronics,,5,,
+ORD3406,MESSI,,406.95,-1,John,
+3407,MESSI,Elec ,,,,
+3408, Messi ,sports,,-1,john ,2024-01-01
+,Messi,Sports,,,John,2024/13/01
+ORD3410,,sports,unknown,,John,2024-01-01
+,messi,Sports,,1,,
+,,Electronics,unknown,,JOHN,2024-01-01
+ORD3413,,Elec ,,,,2024/13/01
+,MESSI,Sports,,,John,
+ORD3415,Messi,sports,,-1,john ,
+3416, Messi ,Electronics,,,,
+3417,Messi!!,Electronics,299.66,3,,
+,Messi,Sports,399.22,5,JOHN,2024/13/01
+ORD3419,,,unknown,,John,01/02/2024
+3420,Messi!!,,163.78,,JOHN,2024-01-01
+3421,Messi,sports,,,John,2024/13/01
+,messi,,155.5,,John,01/02/2024
+, Messi ,sports,,10,john ,2024-01-01
+3424,Messi,,unknown,,,2024-01-01
+ORD3425,messi,Elec ,327.08,6,JOHN,2024/13/01
+,,Elec ,,8,JOHN,
+3427,messi,Sports,321.29,,john ,2024-01-01
+,messi,,unknown,6,john ,2024-01-01
+,messi,,unknown,,john ,2024-01-01
+ORD3430,MESSI,,unknown,-1,John,
+,messi,,,,,2024/13/01
+ORD3432,MESSI,,unknown,,,2024-01-01
+ORD3433,MESSI,Electronics,unknown,-1,john ,
+,,Electronics,,-1,,
+3435,,sports,,,john ,
+,MESSI,Electronics,,,,2024-01-01
+3437,,sports,unknown,6,JOHN,01/02/2024
+,Messi,Electronics,499.79,,,2024/13/01
+ORD3439,,Electronics,,-1,john ,01/02/2024
+3440,messi,,,-1,john ,2024-01-01
+,Messi,Sports,,,JOHN,01/02/2024
+ORD3442,Messi!!,Elec ,,10,,2024-01-01
+ORD3443,,Electronics,401.29,,,
+,,,,,JOHN,
+,Messi!!,sports,unknown,,J0hn,
+,Messi,sports,132.88,,JOHN,
+ORD3447,Messi,Electronics,122.37,4,J0hn,2024-01-01
+ORD3448,Messi,,unknown,-1,,2024-01-01
+,,Electronics,unknown,,,2024/13/01
+3450,,Elec ,437.1,,John,
+, Messi ,,,,J0hn,2024/13/01
+3452,Messi!!,Electronics,,,John,01/02/2024
+,Messi!!,sports,,,J0hn,01/02/2024
+ORD3454, Messi ,,unknown,5,,2024-01-01
+ORD3455,messi,sports,unknown,-1,J0hn,01/02/2024
+ORD3456,MESSI,,,9,JOHN,2024-01-01
+, Messi ,,,,John,
+,,Elec ,475.99,5,J0hn,
+,Messi!!,Electronics,,10,,01/02/2024
+, Messi ,Electronics,unknown,,,2024-01-01
+,Messi!!,Electronics,356.78,-1,john ,
+,Messi!!,,,,,2024-01-01
+,Messi,Electronics,202.7,,J0hn,01/02/2024
+,,Sports,310.51,,John,2024-01-01
+,Messi,sports,,3,John,
+, Messi ,Sports,,-1,J0hn,2024/13/01
+,,sports,unknown,,john ,01/02/2024
+,,Elec ,,,John,01/02/2024
+,,sports,,,J0hn,
+,,Elec ,,10,J0hn,01/02/2024
+,Messi,,,-1,John,
+ORD3472,Messi,Elec ,,6,JOHN,2024/13/01
+ORD3473,Messi,,,1,,2024-01-01
+,Messi!!,Elec ,213.5,3,John,2024-01-01
+ORD3475,messi,,,,J0hn,
+,Messi!!,,unknown,,,
+,messi,,224.16,5,JOHN,01/02/2024
+ORD3478,MESSI,Elec ,,-1,JOHN,2024-01-01
+ORD3479,messi,sports,,3,John,
+, Messi ,,35.73,2,J0hn,2024/13/01
+,,sports,255.88,,john ,2024/13/01
+,messi,,unknown,,john ,2024/13/01
+,,sports,367.61,,john ,2024/13/01
+3484,MESSI,Electronics,,2,J0hn,2024/13/01
+,,Sports,,,John,2024/13/01
+ORD3486,Messi!!,Electronics,284.92,-1,,2024/13/01
+3487,,sports,,,john ,2024/13/01
+,messi,Electronics,unknown,,JOHN,01/02/2024
+ORD3489,Messi!!,sports,unknown,,John,
+,Messi!!,Electronics,74.79,,JOHN,01/02/2024
+, Messi ,sports,,,J0hn,
+,,Elec ,unknown,1,JOHN,
+3493, Messi ,,unknown,,,2024/13/01
+,Messi,,unknown,9,,
+, Messi ,Electronics,,2,John,2024-01-01
+3496,Messi,Elec ,235.27,4,,2024/13/01
+,,Elec ,,-1,J0hn,
+3498,messi,Elec ,,,john ,
+ORD3499,MESSI,Sports,,,JOHN,
+,MESSI,Sports,,,,01/02/2024
+3501,,,,,,
+ORD3502,Messi,Sports,unknown,-1,john ,
+,Messi,Electronics,167.8,-1,,2024/13/01
+,Messi,sports,,,,2024-01-01
+ORD3505,,Electronics,246.42,,,2024-01-01
+3506,Messi,Sports,,8,,01/02/2024
+3507,MESSI,Elec ,275.96,,,
+,,Electronics,441.69,,john ,01/02/2024
+3509,Messi,sports,,-1,,01/02/2024
+,,Sports,278.61,,JOHN,
+,,sports,unknown,-1,J0hn,2024-01-01
+,MESSI,sports,,2,,2024-01-01
+,,Sports,,-1,J0hn,
+,Messi,Sports,,,J0hn,01/02/2024
+3515,,Elec ,unknown,8,J0hn,01/02/2024
+,,,,2,JOHN,2024/13/01
+,Messi!!,Sports,497.3,7,J0hn,2024-01-01
+,Messi!!,,,-1,,2024-01-01
+,,Sports,unknown,-1,J0hn,
+3520,MESSI,,unknown,,JOHN,
+3521,messi,Elec ,107.89,,J0hn,01/02/2024
+ORD3522,,Sports,unknown,4,john ,2024/13/01
+3523, Messi ,Elec ,unknown,,J0hn,2024-01-01
+3524,messi,,208.41,4,,2024/13/01
+3525, Messi ,sports,unknown,-1,john ,01/02/2024
+ORD3526,,Electronics,unknown,,,01/02/2024
+,MESSI,,,4,john ,2024/13/01
+,MESSI,,unknown,-1,,2024-01-01
+3529,MESSI,Sports,unknown,-1,john ,
+3530,Messi!!,Electronics,,,,2024/13/01
+,,Electronics,,,john ,
+3532, Messi ,,,7,,
+,MESSI,,unknown,,,
+3534, Messi ,Electronics,384.66,,J0hn,2024-01-01
+,MESSI,,,,J0hn,2024-01-01
+,messi,Elec ,unknown,,,2024-01-01
+,,Sports,unknown,2,JOHN,
+,MESSI,sports,320.86,,,2024/13/01
+,,sports,unknown,2,,2024/13/01
+ORD3540,Messi,Elec ,433.07,10,JOHN,2024/13/01
+,,Sports,unknown,,john ,
+3542,messi,Elec ,128.23,-1,,2024/13/01
+3543,,,,5,,
+3544,,,unknown,,JOHN,
+3545,Messi,,unknown,,JOHN,2024/13/01
+,MESSI,,86.59,-1,john ,01/02/2024
+,,Sports,,-1,John,
+3548,,,,,JOHN,
+,messi,,,1,JOHN,
+ORD3550,,Sports,,5,John,2024/13/01
+ORD3551,,Sports,384.3,1,John,2024-01-01
+,messi,,463.05,,john ,
+,MESSI,,,,John,
+3554,Messi,sports,,,J0hn,2024-01-01
+, Messi ,,,,,2024-01-01
+3556,messi,,,,john ,01/02/2024
+,,Electronics,,2,,2024-01-01
+,MESSI,Elec ,,-1,J0hn,01/02/2024
+3559,,Elec ,205.76,,,2024-01-01
+3560,,Elec ,unknown,2,john ,2024-01-01
+,,sports,unknown,-1,JOHN,2024-01-01
+3562, Messi ,sports,unknown,-1,john ,
+,Messi,Elec ,,-1,,2024/13/01
+ORD3564,Messi,Sports,50.77,,john ,2024-01-01
+,,Electronics,unknown,,john ,2024-01-01
+,MESSI,,unknown,,J0hn,01/02/2024
+, Messi ,sports,,,J0hn,01/02/2024
+,,Elec ,,-1,J0hn,2024-01-01
+3569,,,328.13,-1,JOHN,2024/13/01
+,,Elec ,,,,2024-01-01
+3571,MESSI,Electronics,,3,J0hn,2024-01-01
+,,Sports,,,,2024/13/01
+,Messi!!,sports,,,,2024/13/01
+3574,Messi!!,,,,J0hn,01/02/2024
+ORD3575,MESSI,,,-1,,01/02/2024
+3576,messi,,183.57,,john ,01/02/2024
+,,sports,unknown,,,01/02/2024
+,Messi!!,Sports,,1,john ,2024-01-01
+ORD3579,Messi,Sports,,2,J0hn,2024/13/01
+ORD3580,MESSI,sports,,-1,John,
+3581, Messi ,Electronics,495.19,,John,2024/13/01
+,Messi!!,,,,J0hn,
+, Messi ,Elec ,,,,2024/13/01
+ORD3584, Messi ,,unknown,-1,,01/02/2024
+ORD3585,Messi,,175.34,1,,2024/13/01
+,Messi,sports,unknown,,JOHN,2024-01-01
+3587,MESSI,Sports,,5,,
+ORD3588,messi,,unknown,9,John,2024/13/01
+,Messi,sports,123.92,-1,,2024/13/01
+,MESSI,Elec ,213.52,,john ,01/02/2024
+ORD3591,,,,,,
+,Messi,sports,,,,
+,messi,,,-1,JOHN,01/02/2024
+3594,MESSI,,,,John,2024-01-01
+ORD3595,,Elec ,,,JOHN,
+ORD3596,Messi!!,Sports,,2,,
+,,Sports,unknown,3,,2024-01-01
+,,sports,191.85,,,2024-01-01
+,,Electronics,,,JOHN,
+,messi,sports,,,,01/02/2024
+ORD3601, Messi ,Sports,,,John,2024/13/01
+,Messi!!,sports,62.79,-1,J0hn,
+ORD3603,,Electronics,22.57,6,J0hn,
+,Messi,Sports,,,John,
+,,Elec ,unknown,9,john ,2024/13/01
+,MESSI,,280.21,,J0hn,2024/13/01
+3607,Messi!!,sports,215.78,,J0hn,01/02/2024
+ORD3608,,sports,,5,john ,2024/13/01
+, Messi ,Electronics,139.52,-1,J0hn,2024/13/01
+ORD3610, Messi ,sports,320.13,7,,01/02/2024
+ORD3611,Messi,Elec ,unknown,,,
+ORD3612,,,,-1,john ,01/02/2024
+ORD3613,messi,Sports,,,,2024-01-01
+,,Elec ,,,,2024/13/01
+,messi,Sports,,5,J0hn,01/02/2024
+,Messi!!,,,3,JOHN,
+,Messi,,219.65,-1,,2024-01-01
+,,,unknown,,J0hn,2024-01-01
+,Messi,,,5,john ,
+ORD3620,Messi,sports,,-1,,
+3621,MESSI,Sports,,,,2024-01-01
+ORD3622,MESSI,,unknown,3,JOHN,01/02/2024
+,MESSI,Sports,,-1,john ,
+3624,MESSI,,unknown,9,john ,
+,MESSI,,unknown,,J0hn,2024/13/01
+,MESSI,sports,,,J0hn,2024-01-01
+ORD3627, Messi ,,262.19,-1,J0hn,
+, Messi ,,unknown,,,2024-01-01
+,Messi,sports,188.82,2,,
+3630,MESSI,Elec ,434.92,9,,2024/13/01
+,,,unknown,,JOHN,
+ORD3632,,,339.67,,john ,
+ORD3633,MESSI,Electronics,unknown,,,
+ORD3634,Messi!!,,unknown,,,01/02/2024
+,,Elec ,unknown,,,2024/13/01
+3636,messi,Sports,,,John,2024/13/01
+ORD3637,messi,sports,,,JOHN,2024-01-01
+ORD3638,,,485.83,,john ,
+,Messi!!,Sports,67.46,,john ,
+ORD3640, Messi ,Electronics,11.09,,john ,
+ORD3641,Messi,Sports,478.86,-1,John,
+,MESSI,sports,,,JOHN,2024-01-01
+,,Sports,unknown,,john ,01/02/2024
+,,Electronics,329.02,1,,
+ORD3645,messi,,unknown,,,01/02/2024
+3646,Messi!!,,unknown,7,,2024-01-01
+,Messi,,unknown,,john ,2024-01-01
+,Messi!!,,,-1,,2024/13/01
+, Messi ,Electronics,unknown,,John,01/02/2024
+,messi,Sports,unknown,2,john ,01/02/2024
+,messi,Sports,320.76,,JOHN,01/02/2024
+,Messi!!,Sports,159.07,-1,John,2024/13/01
+,,Sports,,8,J0hn,
+,Messi!!,Electronics,,3,,
+,messi,Electronics,unknown,,,
+,Messi,,unknown,-1,,01/02/2024
+,Messi,,,-1,JOHN,01/02/2024
+,,,,8,,2024/13/01
+, Messi ,Sports,,,john ,2024/13/01
+3660, Messi ,,,,JOHN,01/02/2024
+,Messi,Sports,356.26,,J0hn,
+ORD3662, Messi ,Sports,unknown,,John,01/02/2024
+3663,messi,,283.18,-1,,2024/13/01
+,,,,4,,
+,,,,9,,01/02/2024
+,MESSI,Sports,unknown,,,2024-01-01
+ORD3667,Messi!!,Sports,unknown,,john ,2024-01-01
+ORD3668,Messi!!,Electronics,unknown,-1,,
+3669, Messi ,,,3,john ,01/02/2024
+, Messi ,sports,,,JOHN,
+,messi,,,1,JOHN,
+3672,messi,Elec ,,5,,2024-01-01
+3673,Messi,Sports,369.16,6,,2024-01-01
+3674,Messi,sports,,,JOHN,
+,Messi!!,sports,unknown,-1,,
+3676,Messi,Sports,,1,,
+,Messi,,,,John,2024-01-01
+3678,,Electronics,,8,,2024-01-01
+3679,Messi!!,Elec ,,,john ,01/02/2024
+3680,Messi,,,4,,
+,,,,,JOHN,2024/13/01
+3682,messi,,,,,2024-01-01
+ORD3683,Messi,Elec ,,,,
+,,Sports,unknown,,John,2024-01-01
+,messi,Elec ,,-1,,01/02/2024
+,MESSI,Sports,unknown,7,john ,
+,MESSI,Sports,,,JOHN,2024-01-01
+,messi,Elec ,,,,01/02/2024
+,MESSI,,unknown,,John,2024-01-01
+, Messi ,,unknown,-1,,2024-01-01
+ORD3691, Messi ,Sports,unknown,,John,2024-01-01
+ORD3692,messi,Elec ,,,,01/02/2024
+,MESSI,,unknown,,,01/02/2024
+ORD3694,MESSI,Sports,427.13,,,01/02/2024
+,Messi!!,Electronics,,3,,
+3696,Messi,sports,,,John,2024-01-01
+,MESSI,Elec ,495.3,,john ,
+3698,Messi,sports,,4,,
+,messi,sports,334.27,,,01/02/2024
+,,,unknown,6,JOHN,01/02/2024
+3701,,,,10,J0hn,
+3702,Messi!!,Sports,,6,John,
+3703,,,unknown,,John,2024/13/01
+, Messi ,Elec ,,-1,J0hn,01/02/2024
+, Messi ,,,2,,2024-01-01
+,messi,sports,,,,
+,,Elec ,,-1,J0hn,
+,messi,sports,362.01,4,,
+ORD3709,,sports,,,,01/02/2024
+,Messi,,179.8,,J0hn,
+, Messi ,sports,143.21,,,
+,Messi,Elec ,,,,2024/13/01
+3713,MESSI,Electronics,95.36,,,2024-01-01
+3714,,Electronics,unknown,,J0hn,
+,,,unknown,-1,,
+3716,Messi,,,,john ,01/02/2024
+3717, Messi ,,,,JOHN,
+,Messi!!,,unknown,-1,,2024-01-01
+,,sports,,,,01/02/2024
+,MESSI,,unknown,5,,2024/13/01
+3721,,sports,,,J0hn,01/02/2024
+ORD3722,Messi!!,Electronics,366.57,,,
+ORD3723,Messi!!,Sports,259.73,-1,J0hn,
+,Messi!!,Electronics,,10,john ,2024-01-01
+,,sports,,-1,John,01/02/2024
+,,sports,,,John,
+,messi,Electronics,358.02,,J0hn,01/02/2024
+3728, Messi ,Sports,207.33,2,John,
+,messi,Electronics,,,John,2024-01-01
+, Messi ,sports,,-1,john ,2024-01-01
+ORD3731,messi,Elec ,,6,J0hn,
+3732,MESSI,sports,376.23,,john ,2024-01-01
+,Messi,sports,,-1,john ,
+ORD3734,,Sports,,1,,2024/13/01
+ORD3735,Messi!!,Elec ,230.07,,J0hn,2024/13/01
+,,sports,unknown,,,
+ORD3737,,,unknown,8,john ,2024/13/01
+ORD3738,,,unknown,,JOHN,2024-01-01
+3739,messi,,,-1,JOHN,2024-01-01
+,,Elec ,115.29,,,2024-01-01
+,,,,3,J0hn,
+,Messi,Sports,,1,J0hn,2024/13/01
+ORD3743,,Elec ,,7,,
+,,,313.55,2,J0hn,2024-01-01
+,,Elec ,,-1,,
+,Messi,Elec ,,-1,,2024/13/01
+ORD3747,messi,,unknown,4,John,2024-01-01
+ORD3748,Messi!!,,unknown,,JOHN,2024-01-01
+,Messi,Elec ,242.44,,J0hn,
+,Messi!!,,,,JOHN,2024/13/01
+,,Electronics,,-1,,
+ORD3752,Messi,,436.4,-1,,
+3753,Messi!!,Sports,,,JOHN,01/02/2024
+ORD3754,,,unknown,7,John,
+,MESSI,sports,83.0,,,2024-01-01
+, Messi ,sports,,-1,,
+ORD3757,Messi,Electronics,,-1,J0hn,2024/13/01
+ORD3758,messi,,unknown,-1,,
+,,Electronics,,-1,,2024/13/01
+,MESSI,Elec ,,10,,2024-01-01
+ORD3761,Messi,sports,unknown,4,J0hn,2024-01-01
+3762, Messi ,sports,,,JOHN,
+3763,,Electronics,unknown,,,2024/13/01
+,Messi,Sports,,7,JOHN,
+3765, Messi ,,,9,JOHN,
+3766,messi,sports,unknown,8,john ,
+3767,messi,Electronics,,-1,J0hn,
+ORD3768,MESSI,sports,,,John,2024-01-01
+,Messi,,427.52,-1,J0hn,
+,,,145.49,,JOHN,2024-01-01
+,,,,,john ,2024/13/01
+ORD3772,MESSI,,unknown,,,01/02/2024
+,,Sports,,,john ,01/02/2024
+3774,messi,sports,215.81,,John,01/02/2024
+,,,,,,01/02/2024
+3776, Messi ,Elec ,415.43,,J0hn,
+3777,,Electronics,unknown,,J0hn,2024/13/01
+, Messi ,Sports,unknown,8,john ,
+,,Elec ,unknown,-1,,2024/13/01
+3780,,sports,unknown,,,2024-01-01
+,Messi!!,,unknown,-1,JOHN,
+,messi,Elec ,125.13,,,
+,Messi,Electronics,,-1,JOHN,
+,Messi!!,,,-1,john ,01/02/2024
+, Messi ,,,,john ,
+ORD3786,Messi,Sports,187.51,,J0hn,2024/13/01
+,,,unknown,-1,,2024-01-01
+3788,,,229.0,10,john ,01/02/2024
+ORD3789,MESSI,,99.85,,J0hn,2024/13/01
+3790,,,unknown,,,
+,,Elec ,,-1,john ,
+,messi,,490.52,9,,
+3793, Messi ,Electronics,,,,2024/13/01
+3794,messi,,,2,,
+,Messi!!,Sports,404.67,,,2024-01-01
+, Messi ,Electronics,unknown,,John,2024/13/01
+ORD3797,Messi!!,,,9,John,01/02/2024
+,,,,9,,01/02/2024
+,messi,,,,,2024/13/01
+, Messi ,,179.94,,J0hn,
+3801,Messi,,,-1,john ,2024/13/01
+3802,,Electronics,8.54,-1,JOHN,01/02/2024
+, Messi ,Elec ,,,,2024-01-01
+3804,,Electronics,,7,J0hn,
+,Messi!!,,,,J0hn,
+3806,messi,Elec ,208.23,-1,J0hn,
+ORD3807,,,,-1,,2024/13/01
+ORD3808,Messi!!,,,,,2024-01-01
+,Messi!!,sports,unknown,-1,,01/02/2024
+ORD3810,Messi,sports,,,,01/02/2024
+,Messi!!,Electronics,unknown,,john ,01/02/2024
+ORD3812,,sports,,,JOHN,
+3813, Messi ,Sports,135.72,-1,J0hn,
+,Messi!!,sports,349.6,7,,2024-01-01
+ORD3815,,Electronics,,,J0hn,
+3816,Messi!!,Sports,,8,JOHN,
+ORD3817,,,unknown,10,john ,
+,,Electronics,,,john ,2024-01-01
+, Messi ,Sports,36.32,,JOHN,
+ORD3820, Messi ,sports,,,J0hn,
+,,,,,JOHN,
+,Messi!!,,,5,,
+,messi,Sports,,-1,,2024/13/01
+,MESSI,sports,430.0,-1,JOHN,2024/13/01
+, Messi ,sports,,,,01/02/2024
+3826,messi,Electronics,unknown,-1,john ,
+,Messi,Elec ,,-1,john ,2024-01-01
+ORD3828,,sports,184.44,7,JOHN,2024-01-01
+3829,Messi!!,sports,417.31,-1,JOHN,2024-01-01
+,Messi!!,Electronics,unknown,,J0hn,
+ORD3831,messi,sports,,,John,2024/13/01
+3832,,Elec ,,6,john ,01/02/2024
+,messi,,unknown,,J0hn,2024/13/01
+ORD3834,Messi!!,Elec ,300.63,9,J0hn,2024-01-01
+,Messi!!,Sports,unknown,,J0hn,
+ORD3836,MESSI,Elec ,267.53,-1,john ,01/02/2024
+,Messi,Sports,,3,,2024/13/01
+ORD3838,messi,,441.12,,J0hn,2024/13/01
+3839,Messi!!,sports,unknown,,,2024/13/01
+3840,MESSI,Electronics,,-1,JOHN,
+ORD3841,MESSI,sports,,-1,,01/02/2024
+, Messi ,,343.21,5,J0hn,
+ORD3843,Messi,,,,J0hn,2024-01-01
+ORD3844, Messi ,Sports,unknown,-1,,01/02/2024
+3845,MESSI,Sports,,,,01/02/2024
+,Messi,Elec ,,-1,john ,2024/13/01
+,messi,sports,unknown,,,2024/13/01
+ORD3848,,,,6,JOHN,
+3849,,Electronics,,-1,,01/02/2024
+,Messi!!,Electronics,398.5,,J0hn,2024-01-01
+,,Elec ,,9,,
+, Messi ,sports,unknown,,,
+3853,,,unknown,6,JOHN,01/02/2024
+3854, Messi ,Sports,449.62,6,John,2024/13/01
+3855,,Elec ,29.33,,JOHN,
+,Messi,sports,,,,01/02/2024
+3857,MESSI,Sports,unknown,-1,JOHN,2024-01-01
+,Messi!!,,,3,JOHN,2024/13/01
+,messi,sports,unknown,-1,John,01/02/2024
+,MESSI,sports,113.59,7,john ,01/02/2024
+,,,423.78,-1,,
+3862,Messi!!,sports,,-1,,01/02/2024
+,Messi,Electronics,216.47,9,john ,2024/13/01
+ORD3864,,Elec ,unknown,,john ,2024-01-01
+,MESSI,Sports,,10,John,2024-01-01
+ORD3866,,sports,,-1,,2024/13/01
+,MESSI,Electronics,unknown,,J0hn,2024/13/01
+,,,102.63,7,JOHN,
+,messi,,459.82,,John,
+3870,Messi,sports,unknown,,,2024/13/01
+3871,messi,,,,,
+ORD3872,Messi!!,Electronics,unknown,-1,J0hn,
+ORD3873,messi,,,-1,John,01/02/2024
+,Messi!!,Electronics,,,JOHN,2024-01-01
+,,,,-1,,2024/13/01
+,MESSI,Electronics,,-1,J0hn,
+ORD3877,Messi!!,sports,,-1,john ,2024/13/01
+ORD3878,messi,,399.31,,J0hn,
+ORD3879,messi,Sports,unknown,,John,2024-01-01
+,,sports,unknown,5,john ,
+3881,MESSI,Electronics,,10,John,01/02/2024
+,Messi!!,sports,unknown,,john ,
+,MESSI,,93.26,-1,John,2024/13/01
+3884,Messi,,,,john ,2024-01-01
+3885,,,,2,john ,
+3886,,,207.08,,J0hn,
+,messi,Elec ,,-1,J0hn,
+,,sports,,,,2024-01-01
+,Messi!!,,,,,01/02/2024
+ORD3890,,Elec ,22.31,7,john ,
+ORD3891,,Sports,unknown,,JOHN,2024/13/01
+3892,MESSI,,,,john ,2024-01-01
+, Messi ,,,3,john ,2024-01-01
+,Messi!!,Electronics,,-1,,01/02/2024
+ORD3895,MESSI,,,-1,JOHN,
+,,Electronics,,6,,2024/13/01
+, Messi ,Sports,29.27,2,J0hn,01/02/2024
+,Messi,Sports,unknown,-1,John,2024/13/01
+ORD3899,messi,Elec ,,2,JOHN,
+ORD3900,Messi!!,Sports,unknown,5,john ,2024-01-01
+ORD3901,,Electronics,unknown,2,JOHN,
+ORD3902,Messi,Electronics,unknown,,,01/02/2024
+,messi,Elec ,unknown,-1,JOHN,01/02/2024
+,Messi!!,,,1,J0hn,
+,,sports,,4,JOHN,2024-01-01
+ORD3906,,,31.93,,J0hn,2024-01-01
+ORD3907,,Elec ,334.78,,,2024/13/01
+,MESSI,Elec ,,,J0hn,
+,MESSI,,,,john ,2024/13/01
+ORD3910,MESSI,Electronics,295.15,,john ,2024-01-01
+,messi,Electronics,,,john ,
+ORD3912, Messi ,sports,154.77,,J0hn,2024/13/01
+,Messi,,,1,J0hn,2024/13/01
+,,sports,unknown,,,2024-01-01
+ORD3915,Messi,,,,J0hn,2024-01-01
+ORD3916,Messi,sports,470.7,,,2024-01-01
+,,Sports,,-1,JOHN,
+ORD3918,messi,Elec ,,2,,01/02/2024
+ORD3919,Messi!!,,466.5,-1,JOHN,
+,,Elec ,,-1,,
+ORD3921, Messi ,Sports,unknown,,J0hn,
+,MESSI,Sports,479.17,,John,2024/13/01
+ORD3923,Messi!!,sports,unknown,,john ,2024-01-01
+3924,Messi!!,,unknown,9,john ,
+,Messi,Sports,unknown,,,2024-01-01
+,messi,,,-1,,2024/13/01
+ORD3927,,,448.47,4,,
+,messi,Elec ,32.52,-1,john ,01/02/2024
+,messi,,473.29,-1,J0hn,2024-01-01
+ORD3930,Messi,,,3,J0hn,2024/13/01
+,Messi!!,,,,J0hn,2024-01-01
+,MESSI,Sports,,-1,John,2024/13/01
+,MESSI,sports,,-1,,
+,,Electronics,183.05,,JOHN,2024-01-01
+ORD3935,messi,Electronics,,10,john ,01/02/2024
+,,,,,John,2024-01-01
+,,,,,JOHN,
+3938,Messi,sports,,4,,2024-01-01
+ORD3939,,Elec ,294.75,,JOHN,
+3940,,Electronics,unknown,,,2024-01-01
+, Messi ,,unknown,-1,J0hn,
+ORD3942,MESSI,Sports,,-1,,
+, Messi ,Sports,405.35,2,John,01/02/2024
+ORD3944,messi,Elec ,,,John,2024-01-01
+, Messi ,Elec ,,6,john ,01/02/2024
+, Messi ,Elec ,,,,
+,messi,Elec ,35.09,,JOHN,2024/13/01
+,MESSI,sports,203.45,,john ,2024-01-01
+ORD3949,,Elec ,,-1,JOHN,
+,,Electronics,,5,John,
+,MESSI,Electronics,,,john ,
+,,,,3,,
+3953,Messi,sports,unknown,-1,J0hn,
+,,Electronics,unknown,,,2024/13/01
+,messi,Sports,unknown,,,
+3956,Messi,Electronics,,,,2024/13/01
+ORD3957,MESSI,,,-1,,
+,Messi,,7.45,-1,,01/02/2024
+3959, Messi ,Electronics,,7,John,01/02/2024
+3960,messi,Elec ,394.82,-1,J0hn,2024/13/01
+ORD3961,,,234.78,,J0hn,
+,,sports,,-1,,01/02/2024
+ORD3963, Messi ,Electronics,,,John,
+, Messi ,,,,,
+, Messi ,sports,487.11,,JOHN,
+,messi,Electronics,,2,john ,2024/13/01
+,Messi!!,sports,unknown,-1,J0hn,
+ORD3968,Messi,sports,,-1,J0hn,2024-01-01
+,messi,Sports,unknown,8,J0hn,01/02/2024
+3970,,Sports,309.32,,John,
+,messi,Electronics,410.45,-1,J0hn,2024/13/01
+ORD3972,Messi,Sports,,-1,john ,
+ORD3973,Messi,Sports,unknown,,John,
+3974,Messi!!,,unknown,,John,2024/13/01
+,,sports,,-1,John,2024-01-01
+ORD3976,,,278.49,2,,
+,Messi!!,sports,,-1,JOHN,2024-01-01
+,MESSI,Elec ,,,john ,
+,Messi,Sports,,,John,2024/13/01
+,,,,-1,JOHN,2024-01-01
+,Messi,,unknown,10,john ,
+, Messi ,Sports,unknown,,,
+3983, Messi ,,,,john ,01/02/2024
+,MESSI,Elec ,,-1,,
+,MESSI,,,4,John,2024/13/01
+ORD3986,,Sports,194.43,,JOHN,
+, Messi ,Sports,,-1,JOHN,
+,Messi!!,Sports,477.3,-1,J0hn,01/02/2024
+3989,,Sports,,,J0hn,2024-01-01
+,messi,Sports,325.93,,John,
+3991,MESSI,sports,,,john ,01/02/2024
+,messi,Sports,,,J0hn,
+,messi,Elec ,unknown,,john ,2024/13/01
+3994,,Electronics,unknown,,John,01/02/2024
+ORD3995,messi,,,,,
+3996,,,300.04,,JOHN,2024-01-01
+,MESSI,,unknown,,,2024/13/01
+ORD3998,MESSI,Electronics,,,John,2024-01-01
+,MESSI,sports,,-1,J0hn,2024-01-01
+ORD4000,messi,Sports,,-1,,
+4001,MESSI,,,8,JOHN,2024-01-01
+ORD4002, Messi ,,,,J0hn,
+4003,Messi,Sports,,,John,01/02/2024
+,Messi!!,,453.21,,John,
+ORD4005,Messi!!,Electronics,,,,2024-01-01
+4006,,,,,,01/02/2024
+,,Sports,,,John,
+,,Electronics,,3,John,
+, Messi ,,,,John,2024-01-01
+ORD4010, Messi ,sports,450.53,3,J0hn,2024-01-01
+,MESSI,Elec ,414.28,,J0hn,01/02/2024
+,MESSI,,unknown,3,J0hn,
+ORD4013,,Sports,unknown,4,,
+,MESSI,sports,428.77,,J0hn,
+,MESSI,Sports,unknown,1,J0hn,2024/13/01
+,,sports,420.97,,,01/02/2024
+,MESSI,Sports,unknown,,John,2024/13/01
+ORD4018,messi,sports,,,J0hn,2024/13/01
+,Messi,,unknown,,,
+,Messi,Sports,,,john ,
+4021,Messi,Elec ,,2,,
+,Messi!!,Electronics,,,John,2024/13/01
+4023,,,unknown,5,,01/02/2024
+ORD4024,Messi,Electronics,unknown,8,JOHN,2024/13/01
+4025,,Electronics,301.72,-1,J0hn,
+ORD4026,Messi,Elec ,unknown,,,
+ORD4027, Messi ,Elec ,422.03,,,
+4028, Messi ,Electronics,,9,,
+,Messi,,unknown,,John,
+,MESSI,Electronics,,3,JOHN,2024-01-01
+,,sports,,-1,john ,
+4032,,,45.99,,,2024-01-01
+4033, Messi ,,,,J0hn,
+ORD4034,Messi!!,sports,,,,
+4035,MESSI,Sports,,,john ,
+,messi,,unknown,,,2024/13/01
+,Messi!!,,,-1,JOHN,
+4038,MESSI,,unknown,-1,,
+,,sports,,7,,2024-01-01
+ORD4040, Messi ,Elec ,,-1,John,01/02/2024
+4041,,Sports,409.29,,,
+,MESSI,,,-1,John,
+ORD4043,messi,,419.63,7,john ,01/02/2024
+, Messi ,Sports,,10,,
+,MESSI,sports,unknown,8,,2024/13/01
+,Messi,,,4,J0hn,
+,,Sports,,8,JOHN,2024/13/01
+4048,Messi!!,sports,,-1,JOHN,
+,messi,Elec ,unknown,3,john ,2024-01-01
+,,,,6,JOHN,
+ORD4051,messi,Elec ,498.68,,John,2024/13/01
+,MESSI,Electronics,unknown,-1,John,2024/13/01
+,messi,,unknown,,john ,01/02/2024
+4054,,Elec ,,-1,,2024/13/01
+,messi,Sports,,-1,J0hn,01/02/2024
+,Messi!!,,,-1,,
+4057,MESSI,Electronics,143.29,,john ,01/02/2024
+ORD4058,,Elec ,,,JOHN,01/02/2024
+,Messi!!,,,6,John,01/02/2024
+,,,,-1,john ,2024/13/01
+, Messi ,Sports,34.23,3,john ,
+ORD4062,MESSI,Electronics,unknown,-1,john ,
+,,,473.6,-1,,2024/13/01
+4064, Messi ,Sports,130.82,-1,,2024-01-01
+4065,,,,5,,
+,Messi,,,-1,john ,01/02/2024
+,,Elec ,,,john ,2024/13/01
+4068,MESSI,Sports,,-1,,2024-01-01
+,,,unknown,6,JOHN,2024-01-01
+4070,MESSI,Electronics,,,JOHN,2024-01-01
+ORD4071,,,unknown,,,2024-01-01
+ORD4072,,,,,,2024-01-01
+4073,Messi,Sports,unknown,-1,JOHN,
+,Messi,Electronics,unknown,,john ,2024/13/01
+ORD4075,Messi,Elec ,468.77,,JOHN,2024-01-01
+4076, Messi ,Electronics,,-1,John,
+,,Electronics,unknown,8,,
+,Messi,Elec ,433.52,,John,2024-01-01
+,Messi!!,,,-1,,2024-01-01
+ORD4080,MESSI,sports,,,J0hn,
+4081,,Elec ,unknown,,,01/02/2024
+,,sports,286.12,,,2024-01-01
+, Messi ,Elec ,unknown,3,,
+,Messi,Elec ,,-1,john ,2024-01-01
+, Messi ,sports,,,John,2024-01-01
+ORD4086,messi,Elec ,342.24,-1,john ,01/02/2024
+ORD4087,messi,,,-1,JOHN,
+,Messi!!,,unknown,,,2024/13/01
+ORD4089,messi,Elec ,,,,2024-01-01
+4090,Messi,,unknown,,John,2024-01-01
+, Messi ,Elec ,,,john ,
+4092, Messi ,,,,,
+4093,Messi,Electronics,422.06,,J0hn,
+,MESSI,sports,,,J0hn,
+,MESSI,,unknown,,J0hn,
+4096,Messi!!,,,,J0hn,
+4097,Messi!!,Sports,unknown,,JOHN,2024/13/01
+ORD4098, Messi ,,,,,2024-01-01
+4099,MESSI,Elec ,unknown,-1,,
+,MESSI,,,8,JOHN,01/02/2024
+,Messi!!,Electronics,,4,,01/02/2024
+, Messi ,,,8,,01/02/2024
+,,Sports,,,J0hn,2024/13/01
+ORD4104,,Sports,unknown,10,J0hn,2024/13/01
+,,Sports,,6,JOHN,01/02/2024
+, Messi ,sports,,9,J0hn,
+ORD4107,,Sports,,,John,2024-01-01
+4108, Messi ,Electronics,,,John,
+4109,Messi,Elec ,unknown,-1,John,2024/13/01
+4110, Messi ,Electronics,,-1,JOHN,2024/13/01
+,MESSI,Elec ,unknown,,J0hn,
+,messi,,,,,2024-01-01
+,messi,Sports,unknown,,JOHN,
+ORD4114,messi,Sports,476.64,,,
+,,sports,unknown,,John,
+, Messi ,Elec ,346.37,,,
+4117,Messi,,144.11,,J0hn,2024-01-01
+ORD4118,Messi,Elec ,unknown,,JOHN,2024/13/01
+,,Electronics,unknown,,John,01/02/2024
+ORD4120,messi,,217.68,2,J0hn,
+,Messi!!,Electronics,,-1,,
+,,sports,unknown,-1,,
+ORD4123,messi,sports,,,JOHN,
+ORD4124,,sports,411.12,,John,01/02/2024
+,MESSI,,unknown,5,J0hn,01/02/2024
+ORD4126,,sports,163.29,8,,
+,,sports,unknown,,,
+4128,,Elec ,,,John,
+ORD4129,Messi,Electronics,427.43,-1,J0hn,
+4130,messi,,,,JOHN,2024-01-01
+,Messi!!,Elec ,402.3,-1,john ,01/02/2024
+4132,,Elec ,unknown,,JOHN,01/02/2024
+ORD4133,Messi,Elec ,,-1,,2024-01-01
+,Messi,,unknown,-1,,
+,,,,6,JOHN,2024-01-01
+4136,,,,,JOHN,
+, Messi ,,unknown,,john ,
+,Messi,Sports,,-1,John,
+,Messi!!,sports,137.9,,,01/02/2024
+,Messi,Electronics,,,,2024/13/01
+,messi,,unknown,,,
+ORD4142, Messi ,Electronics,107.28,,,
+ORD4143,MESSI,,,,John,
+, Messi ,sports,,8,John,2024/13/01
+ORD4145, Messi ,Elec ,,,,01/02/2024
+4146, Messi ,Elec ,,,JOHN,
+ORD4147,messi,Elec ,,-1,,
+,MESSI,Sports,,,john ,2024-01-01
+,MESSI,,290.77,,john ,
+ORD4150, Messi ,Sports,,,J0hn,
+4151,messi,Sports,,,John,2024-01-01
+ORD4152,MESSI,Electronics,unknown,-1,John,01/02/2024
+ORD4153,Messi,,,4,john ,2024/13/01
+,,sports,unknown,8,,2024-01-01
+,,Elec ,unknown,,JOHN,2024/13/01
+4156,,Electronics,unknown,6,,01/02/2024
+, Messi ,Sports,,-1,,2024/13/01
+,,Electronics,109.29,1,JOHN,
+ORD4159,Messi!!,,unknown,,john ,01/02/2024
+4160,messi,sports,unknown,,J0hn,2024-01-01
+4161,messi,Sports,,2,J0hn,01/02/2024
+4162,,Electronics,,-1,J0hn,
+,Messi!!,,,6,J0hn,
+ORD4164,MESSI,Electronics,,,john ,2024/13/01
+,MESSI,,,,J0hn,
+,Messi!!,,,-1,,01/02/2024
+4167,MESSI,Elec ,80.68,-1,JOHN,
+,messi,,114.28,,JOHN,
+,messi,,,-1,,
+,Messi,sports,,9,,2024/13/01
+4171,Messi,Elec ,,,john ,
+4172,,,406.95,-1,John,
+,,Elec ,,,John,
+4174,,,,3,J0hn,
+ORD4175, Messi ,,,9,john ,2024/13/01
+ORD4176, Messi ,Sports,141.16,-1,john ,01/02/2024
+,,,,6,,2024-01-01
+4178,Messi!!,Sports,unknown,-1,,
+ORD4179,Messi!!,,321.47,,,2024/13/01
+,MESSI,Electronics,,,J0hn,
+,,,,,JOHN,2024/13/01
+4182,messi,Sports,,-1,,
+, Messi ,,468.12,,john ,
+, Messi ,sports,343.47,5,JOHN,01/02/2024
+4185,Messi,,,,JOHN,2024-01-01
+4186,,Electronics,,,J0hn,2024-01-01
+ORD4187,Messi!!,,,,john ,2024/13/01
+ORD4188, Messi ,Sports,,-1,,2024/13/01
+ORD4189, Messi ,,unknown,-1,,
+,messi,sports,unknown,,john ,2024/13/01
+,Messi!!,,,5,john ,
+,,,491.55,,JOHN,01/02/2024
+,messi,sports,unknown,,,2024/13/01
+, Messi ,sports,235.98,6,,
+ORD4195,messi,,unknown,,john ,
+4196,,sports,,,J0hn,01/02/2024
+4197,MESSI,,,-1,john ,2024-01-01
+ORD4198,Messi!!,Sports,88.9,,john ,2024-01-01
+ORD4199, Messi ,,,,john ,2024-01-01
+4200,,Sports,unknown,6,John,
+ORD4201,messi,Elec ,,,John,2024/13/01
+4202,,Sports,,-1,JOHN,
+,MESSI,,unknown,,john ,2024-01-01
+ORD4204,Messi!!,Electronics,,,J0hn,01/02/2024
+ORD4205,Messi,sports,unknown,10,john ,01/02/2024
+,Messi,,,6,,
+4207,messi,Sports,,-1,,
+, Messi ,,177.22,3,john ,2024/13/01
+4209,,,,,JOHN,
+,messi,sports,24.22,,J0hn,01/02/2024
+ORD4211,Messi,,unknown,,john ,2024/13/01
+,Messi!!,,unknown,2,JOHN,
+4213,Messi,Electronics,399.73,,JOHN,
+ORD4214, Messi ,,unknown,-1,John,2024-01-01
+ORD4215,Messi,,,-1,,2024/13/01
+ORD4216,Messi!!,Sports,,,John,01/02/2024
+,messi,,,,john ,
+,messi,Elec ,,6,J0hn,2024-01-01
+,MESSI,Elec ,,,,
+, Messi ,,230.86,-1,J0hn,
+4221,messi,,,3,J0hn,2024-01-01
+,,,291.59,,J0hn,
+ORD4223,,Elec ,unknown,-1,J0hn,
+,,Sports,376.35,,,2024/13/01
+,,,93.86,10,J0hn,
+4226,Messi,Sports,,,,2024-01-01
+4227,Messi,Elec ,,-1,J0hn,
+ORD4228,,,,,,
+ORD4229,Messi!!,Electronics,126.42,,john ,
+4230,Messi!!,,35.09,1,,
+4231,messi,,224.77,,john ,01/02/2024
+ORD4232,messi,,,,john ,01/02/2024
+,,Sports,,8,John,2024/13/01
+ORD4234,messi,Electronics,,,JOHN,01/02/2024
+,Messi!!,Electronics,,,John,
+ORD4236,Messi!!,Electronics,unknown,,,
+4237,messi,sports,,,J0hn,
+,Messi!!,Sports,103.66,-1,,2024/13/01
+4239,MESSI,,,-1,john ,2024/13/01
+4240,Messi,,,,J0hn,2024-01-01
+,messi,sports,215.51,,john ,2024-01-01
+, Messi ,Elec ,unknown,,John,2024-01-01
+ORD4243,messi,,unknown,,J0hn,
+ORD4244,messi,,66.28,,John,2024-01-01
+4245,Messi!!,sports,,,,01/02/2024
+4246,,Sports,,3,john ,01/02/2024
+ORD4247,Messi!!,sports,,,,
+4248, Messi ,,unknown,7,,01/02/2024
+, Messi ,Sports,,,John,2024-01-01
+,messi,Electronics,,,John,2024/13/01
+ORD4251,Messi,,,10,J0hn,
+ORD4252,Messi!!,Electronics,311.93,-1,J0hn,2024-01-01
+,messi,sports,unknown,-1,John,
+,messi,sports,unknown,-1,,2024/13/01
+ORD4255,MESSI,,,-1,JOHN,01/02/2024
+,,,,-1,,
+ORD4257,MESSI,Electronics,unknown,,JOHN,2024/13/01
+ORD4258, Messi ,Electronics,,9,,2024/13/01
+ORD4259,messi,Sports,unknown,,J0hn,01/02/2024
+ORD4260,messi,Electronics,,,J0hn,2024-01-01
+,MESSI,Sports,,-1,,2024/13/01
+,Messi,Sports,unknown,10,J0hn,2024/13/01
+ORD4263,,Sports,,-1,JOHN,
+ORD4264,,,unknown,10,JOHN,
+4265,messi,Electronics,140.83,-1,,
+, Messi ,,96.37,-1,,2024-01-01
+ORD4267,Messi!!,,,,JOHN,01/02/2024
+,Messi,,138.31,-1,,
+,MESSI,Elec ,,1,J0hn,01/02/2024
+ORD4270,Messi!!,Electronics,unknown,,john ,2024-01-01
+4271,,sports,,-1,J0hn,01/02/2024
+,Messi,Elec ,,,,
+,messi,Electronics,,7,John,
+,messi,,unknown,,John,01/02/2024
+4275,MESSI,sports,409.88,,,
+,,Electronics,,,JOHN,2024/13/01
+,messi,Electronics,91.28,,John,
+4278,Messi,Elec ,337.53,3,,2024-01-01
+,,sports,,,JOHN,2024/13/01
+ORD4280,,Electronics,,9,,2024/13/01
+4281, Messi ,sports,,-1,,
+,,Electronics,,,,
+ORD4283,MESSI,,177.33,-1,,01/02/2024
+ORD4284,Messi!!,Sports,,,john ,
+,messi,Electronics,,10,john ,
+, Messi ,,,,John,
+ORD4287,MESSI,,,3,,2024/13/01
+ORD4288,MESSI,sports,,,JOHN,01/02/2024
+4289,messi,sports,unknown,10,JOHN,2024-01-01
+,,Electronics,294.23,1,J0hn,2024/13/01
+ORD4291,Messi!!,Elec ,unknown,,john ,2024-01-01
+ORD4292,messi,,104.22,2,J0hn,
+,MESSI,Elec ,unknown,-1,JOHN,
+ORD4294,,Electronics,,,JOHN,01/02/2024
+,,sports,,,,
+,messi,Elec ,391.4,,J0hn,01/02/2024
+,Messi!!,,245.86,,,
+, Messi ,Electronics,,,,
+,Messi!!,sports,465.05,,,01/02/2024
+,MESSI,Electronics,,9,john ,01/02/2024
+,,,317.48,,John,2024-01-01
+4302,,Sports,346.45,10,John,01/02/2024
+,,Electronics,455.83,,,01/02/2024
+,Messi,Electronics,256.75,,John,
+ORD4305,Messi!!,Elec ,,,JOHN,
+ORD4306,Messi,sports,,,J0hn,01/02/2024
+,MESSI,,,4,JOHN,01/02/2024
+4308,Messi,Electronics,,-1,John,
+,,Sports,,4,J0hn,
+,,Electronics,499.68,8,,
+,MESSI,,,-1,,
+4312,Messi,,unknown,,J0hn,
+4313,messi,Elec ,unknown,,,
+,,sports,unknown,,John,
+ORD4315,,,unknown,-1,,2024/13/01
+, Messi ,Elec ,432.55,,,
+ORD4317,,sports,266.05,7,J0hn,2024/13/01
+,MESSI,Electronics,,8,J0hn,2024-01-01
+,Messi,sports,,-1,john ,
+4320,,,unknown,,,01/02/2024
+,,Elec ,,-1,,
+ORD4322,,,131.43,,,01/02/2024
+4323, Messi ,,unknown,,J0hn,01/02/2024
+ORD4324,MESSI,,333.42,4,,01/02/2024
+ORD4325,Messi!!,,unknown,2,John,2024/13/01
+4326,Messi!!,,unknown,-1,john ,01/02/2024
+4327,Messi!!,Elec ,,8,J0hn,
+,messi,Electronics,,,John,01/02/2024
+4329,,,,-1,,01/02/2024
+4330,Messi,Sports,,,John,
+4331,messi,,unknown,-1,,
+4332,Messi!!,Electronics,,,,
+4333,messi,sports,,,,
+ORD4334,Messi,,,-1,J0hn,2024-01-01
+ORD4335,messi,Sports,,5,,01/02/2024
+,MESSI,Elec ,,,JOHN,2024-01-01
+,Messi,Sports,,5,JOHN,
+,messi,Elec ,unknown,9,JOHN,
+,,Elec ,297.36,-1,john ,2024/13/01
+4340,MESSI,Electronics,,,john ,
+,Messi!!,Sports,347.17,,,2024-01-01
+ORD4342,MESSI,Elec ,347.49,,john ,2024-01-01
+ORD4343,MESSI,Sports,186.88,9,JOHN,2024/13/01
+,MESSI,,300.54,,JOHN,
+, Messi ,Electronics,,-1,,01/02/2024
+ORD4346,Messi!!,Elec ,unknown,,John,
+4347,,,,-1,J0hn,2024-01-01
+, Messi ,Sports,,2,JOHN,2024/13/01
+,,sports,,5,,01/02/2024
+,Messi!!,sports,325.69,5,John,
+,messi,sports,unknown,,,2024-01-01
+ORD4352,Messi,,,7,,2024-01-01
+ORD4353,MESSI,Elec ,,-1,J0hn,
+4354,,Electronics,,-1,,
+ORD4355,messi,Electronics,,5,,01/02/2024
+,Messi,,unknown,,,01/02/2024
+,,,unknown,,John,2024-01-01
+,messi,,,,,
+4359,,Electronics,unknown,,J0hn,2024/13/01
+4360,Messi,sports,,10,JOHN,2024/13/01
+,MESSI,,unknown,,,2024-01-01
+ORD4362, Messi ,sports,,,J0hn,
+,MESSI,Sports,,,J0hn,2024/13/01
+4364,,sports,190.72,,John,
+, Messi ,,,,,2024/13/01
+ORD4366,,,,8,,01/02/2024
+ORD4367,,sports,351.89,,J0hn,2024/13/01
+,,Elec ,304.44,,,2024-01-01
+ORD4369,Messi,,,7,,2024-01-01
+4370,messi,Electronics,unknown,1,J0hn,01/02/2024
+ORD4371,messi,Elec ,469.1,,J0hn,
+,messi,Elec ,277.74,,,
+4373,Messi!!,,unknown,,,
+, Messi ,Sports,,,john ,01/02/2024
+,messi,Electronics,26.7,,J0hn,
+ORD4376,,Sports,228.17,,,
+ORD4377,Messi!!,Electronics,,,John,
+4378,Messi,,62.88,,,
+,Messi,Sports,unknown,-1,john ,2024/13/01
+4380,Messi!!,,184.38,,JOHN,2024-01-01
+4381,Messi,,,9,J0hn,01/02/2024
+ORD4382,Messi,Electronics,,6,John,2024/13/01
+4383,,Elec ,,4,john ,
+,Messi,sports,,,john ,
+,MESSI,sports,,,JOHN,2024-01-01
+,MESSI,,,-1,,01/02/2024
+4387,messi,Elec ,unknown,2,John,01/02/2024
+,Messi,Sports,,,J0hn,01/02/2024
+ORD4389,,,174.39,-1,,
+,,Elec ,,9,,
+,Messi,sports,unknown,,,
+,Messi!!,,,,john ,2024-01-01
+4393, Messi ,,137.2,,john ,
+4394,messi,Electronics,,-1,,2024-01-01
+,MESSI,,,,,2024-01-01
+,Messi,Electronics,,,JOHN,01/02/2024
+, Messi ,Elec ,,7,John,
+,messi,Electronics,,6,J0hn,
+ORD4399,MESSI,,216.69,,JOHN,2024/13/01
+, Messi ,Electronics,,,John,01/02/2024
+ORD4401,messi,,unknown,,john ,
+, Messi ,sports,383.34,,john ,2024-01-01
+ORD4403,MESSI,,386.21,-1,John,2024-01-01
+ORD4404,,Electronics,,4,,
+,Messi!!,,,7,,2024-01-01
+,Messi!!,Sports,unknown,,,2024-01-01
+, Messi ,sports,287.4,-1,J0hn,
+,Messi!!,sports,81.62,,,
+, Messi ,sports,,-1,,
+,MESSI,Electronics,119.92,,John,
+ORD4411,,,unknown,-1,John,
+,MESSI,Sports,unknown,,John,01/02/2024
+,MESSI,Electronics,unknown,-1,john ,
+4414,Messi!!,Elec ,,,,01/02/2024
+4415,,Electronics,,-1,,2024/13/01
+ORD4416, Messi ,,190.7,,JOHN,
+,,,,,john ,01/02/2024
+, Messi ,Elec ,unknown,,,2024-01-01
+ORD4419,Messi,,,,John,
+, Messi ,,unknown,,,01/02/2024
+,MESSI,Elec ,,7,john ,
+4422,,Sports,,5,,
+ORD4423,,Elec ,,,JOHN,2024/13/01
+4424,Messi!!,,unknown,,JOHN,01/02/2024
+,messi,Elec ,,,,01/02/2024
+ORD4426,Messi!!,Sports,unknown,,,
+ORD4427,Messi,,,,John,2024/13/01
+, Messi ,Elec ,unknown,,,2024-01-01
+,,Electronics,unknown,-1,JOHN,
+4430, Messi ,Elec ,276.94,-1,JOHN,
+ORD4431,MESSI,sports,295.54,10,John,
+ORD4432,messi,sports,283.5,7,John,
+,MESSI,Electronics,,,J0hn,2024/13/01
+, Messi ,,274.39,2,,01/02/2024
+,MESSI,,unknown,-1,John,2024-01-01
+ORD4436,Messi!!,,unknown,-1,JOHN,2024-01-01
+ORD4437,,sports,305.8,2,J0hn,2024-01-01
+ORD4438,MESSI,,unknown,4,J0hn,2024/13/01
+,Messi!!,Electronics,unknown,,john ,2024/13/01
+ORD4440,Messi!!,Electronics,430.28,1,John,
+4441,,Sports,,,john ,
+,,Electronics,291.69,,John,2024/13/01
+,MESSI,Electronics,,-1,,01/02/2024
+4444,Messi,Elec ,unknown,9,J0hn,
+ORD4445,Messi!!,Electronics,,-1,J0hn,2024/13/01
+,Messi!!,Elec ,,,John,2024-01-01
+4447,messi,Electronics,,-1,J0hn,2024/13/01
+ORD4448,messi,,unknown,-1,,01/02/2024
+, Messi ,Elec ,unknown,,john ,2024-01-01
+,Messi!!,Electronics,329.85,,john ,2024/13/01
+ORD4451, Messi ,Elec ,,,,2024/13/01
+,,Electronics,65.3,,John,01/02/2024
+ORD4453,Messi,Electronics,36.7,7,JOHN,
+4454,Messi!!,Sports,,,J0hn,2024/13/01
+ORD4455,,sports,,-1,John,01/02/2024
+ORD4456,Messi!!,,331.12,4,john ,2024/13/01
+4457,,Elec ,,,JOHN,
+ORD4458,,,unknown,,J0hn,
+,,sports,unknown,7,,
+4460, Messi ,Elec ,unknown,,,01/02/2024
+,,Electronics,15.35,5,JOHN,
+,Messi!!,sports,unknown,,JOHN,
+4463,,Sports,309.17,-1,,2024/13/01
+4464,,Electronics,,,,2024/13/01
+,messi,Elec ,unknown,-1,john ,2024/13/01
+, Messi ,,unknown,,J0hn,
+4467,MESSI,Sports,,2,john ,
+,,,,,,01/02/2024
+,Messi!!,,,,John,2024/13/01
+,messi,Elec ,unknown,,J0hn,01/02/2024
+,,Sports,,,John,01/02/2024
+ORD4472,messi,Electronics,unknown,-1,John,2024/13/01
+,messi,,,,J0hn,
+4474,MESSI,Elec ,,1,john ,01/02/2024
+,Messi!!,,334.94,,JOHN,
+ORD4476,,Sports,unknown,2,john ,
+ORD4477,Messi,Electronics,,-1,john ,2024-01-01
+ORD4478,MESSI,Sports,262.35,3,J0hn,2024-01-01
+,Messi,Sports,,,,2024-01-01
+,Messi,,unknown,,,01/02/2024
+,,,208.27,-1,JOHN,01/02/2024
+4482,Messi!!,,19.73,,john ,01/02/2024
+4483,Messi!!,Elec ,unknown,7,,
+4484,,,unknown,6,,2024/13/01
+4485,messi,,unknown,,,2024/13/01
+ORD4486,Messi,,,-1,JOHN,
+,Messi,,,-1,John,01/02/2024
+ORD4488, Messi ,,65.13,,,2024-01-01
+4489,messi,,unknown,,John,
+,MESSI,,unknown,3,,2024-01-01
+ORD4491,MESSI,Elec ,,-1,,
+, Messi ,,,4,J0hn,
+, Messi ,sports,unknown,,John,2024/13/01
+ORD4494, Messi ,,unknown,-1,,01/02/2024
+ORD4495,messi,Electronics,,,,
+,messi,sports,20.83,,J0hn,01/02/2024
+ORD4497,Messi,Electronics,,,,01/02/2024
+,Messi!!,Elec ,,4,John,01/02/2024
+ORD4499,Messi,,,-1,John,
+,Messi!!,Sports,325.78,10,John,01/02/2024
+,,Sports,,1,JOHN,2024-01-01
+,Messi,Elec ,38.39,,John,01/02/2024
+,Messi!!,,,8,JOHN,
+,,Electronics,,-1,,2024/13/01
+ORD4505,messi,Electronics,unknown,,J0hn,
+ORD4506, Messi ,Elec ,239.0,-1,,2024-01-01
+,,,,1,John,2024-01-01
+,Messi,Sports,,-1,,01/02/2024
+4509,,,184.26,-1,john ,2024-01-01
+ORD4510,Messi!!,Electronics,,-1,J0hn,01/02/2024
+4511,MESSI,,,3,J0hn,2024/13/01
+,,Electronics,41.91,-1,,
+ORD4513,Messi!!,Electronics,,-1,john ,2024-01-01
+ORD4514, Messi ,,,-1,,
+ORD4515,Messi!!,Electronics,unknown,6,JOHN,2024-01-01
+ORD4516,Messi!!,Electronics,,,,
+4517,,Elec ,unknown,,john ,01/02/2024
+ORD4518,messi,,234.94,-1,,
+,Messi,Elec ,,,JOHN,
+,messi,Electronics,,-1,john ,
+,Messi!!,,309.64,2,,01/02/2024
+,,Sports,,6,J0hn,01/02/2024
+,,,,-1,,
+,,Electronics,,-1,John,
+,,Elec ,,,,2024/13/01
+4526,Messi,Elec ,,,,
+,,,,-1,J0hn,
+4528, Messi ,Electronics,251.26,-1,JOHN,2024/13/01
+,messi,,unknown,,,01/02/2024
+ORD4530, Messi ,,437.51,,,2024-01-01
+,messi,Sports,12.65,-1,,01/02/2024
+, Messi ,,,6,J0hn,01/02/2024
+4533,,Elec ,,,John,2024/13/01
+,messi,Elec ,unknown,,J0hn,01/02/2024
+ORD4535,Messi,sports,6.01,-1,J0hn,2024-01-01
+4536,Messi,Sports,,,john ,
+,Messi,Elec ,359.4,1,J0hn,
+ORD4538,messi,Sports,,,J0hn,
+,Messi,,,2,,2024-01-01
+,,Sports,,3,john ,
+,Messi!!,sports,142.4,6,J0hn,2024-01-01
+,Messi!!,sports,,,J0hn,2024/13/01
+ORD4543, Messi ,Electronics,,10,John,
+ORD4544,Messi,Elec ,,-1,,
+4545,messi,Sports,,,,2024/13/01
+,MESSI,Sports,,10,JOHN,01/02/2024
+ORD4547,,Sports,321.97,,John,
+, Messi ,,68.08,,John,01/02/2024
+,,,,-1,J0hn,2024-01-01
+,,Elec ,unknown,-1,JOHN,01/02/2024
+,,,496.2,5,JOHN,
+4552,Messi,Electronics,,3,,
+,Messi,,,,JOHN,2024-01-01
+,,,unknown,2,J0hn,
+,messi,,430.42,4,,01/02/2024
+,messi,Elec ,,6,,2024-01-01
+,MESSI,,unknown,-1,,2024/13/01
+,Messi!!,Electronics,,6,JOHN,
+4559,Messi,,unknown,6,,
+4560,MESSI,Electronics,unknown,,john ,
+,,sports,458.64,-1,,2024/13/01
+,messi,sports,402.89,,,
+ORD4563,Messi,Sports,,,,
+,Messi,,306.79,,john ,
+4565,,sports,364.74,,,
+,,,,-1,,2024/13/01
+,,,,5,,01/02/2024
+4568, Messi ,Elec ,399.62,5,John,2024-01-01
+ORD4569,MESSI,Sports,397.98,3,john ,
+,,sports,,3,john ,
+, Messi ,,,,JOHN,01/02/2024
+ORD4572,Messi!!,Elec ,,,john ,
+ORD4573,,Electronics,,,J0hn,
+ORD4574,,,unknown,,,01/02/2024
+ORD4575,Messi!!,,435.42,,JOHN,2024-01-01
+ORD4576, Messi ,Elec ,,2,John,01/02/2024
+4577,,sports,unknown,,J0hn,2024/13/01
+4578,,Sports,,-1,,01/02/2024
+,,,unknown,,John,01/02/2024
+4580,,sports,,,,2024-01-01
+, Messi ,,unknown,,,
+,,,385.13,,john ,2024/13/01
+, Messi ,Sports,,,john ,
+,MESSI,,unknown,,JOHN,
+,MESSI,Electronics,410.08,8,J0hn,2024-01-01
+,MESSI,Electronics,,,John,
+,Messi!!,,124.41,,JOHN,
+ORD4588,Messi!!,Elec ,unknown,,,01/02/2024
+ORD4589,,,,,J0hn,
+,,,462.51,-1,john ,
+4591,,sports,,,John,
+4592,Messi,,unknown,,JOHN,
+ORD4593, Messi ,Electronics,unknown,-1,JOHN,
+,Messi,Elec ,,2,john ,
+,,,,-1,,
+ORD4596,MESSI,Sports,,-1,john ,2024/13/01
+,Messi,Sports,,-1,JOHN,2024-01-01
+4598,,Sports,,,John,2024/13/01
+,Messi,,,-1,JOHN,2024/13/01
+ORD4600,,Electronics,,2,,01/02/2024
+,MESSI,Elec ,,4,,2024/13/01
+,messi,Sports,,,,01/02/2024
+ORD4603,Messi!!,Elec ,,,john ,
+,MESSI,,,7,John,
+4605,MESSI,Elec ,,,JOHN,
+ORD4606,Messi!!,,261.88,,,2024-01-01
+ORD4607,Messi,Electronics,,-1,JOHN,01/02/2024
+,,,unknown,,JOHN,2024-01-01
+4609,messi,sports,319.22,-1,,
+,Messi!!,,370.39,,John,01/02/2024
+,Messi!!,,485.29,8,John,
+,MESSI,Elec ,,-1,john ,
+ORD4613,MESSI,sports,207.91,,john ,
+,messi,sports,,-1,J0hn,2024/13/01
+ORD4615,messi,Sports,,-1,JOHN,2024-01-01
+4616,MESSI,Electronics,,,,
+ORD4617,Messi,Elec ,unknown,10,,2024/13/01
+,,Sports,,8,john ,01/02/2024
+,messi,Sports,,,John,
+,Messi!!,,120.82,,,
+,,,unknown,-1,JOHN,
+4622,messi,,400.62,,JOHN,2024-01-01
+,,Sports,,8,JOHN,2024/13/01
+ORD4624,messi,,,,J0hn,2024-01-01
+, Messi ,Elec ,28.11,-1,john ,
+4626,Messi,sports,,-1,J0hn,2024/13/01
+4627,MESSI,,344.28,-1,J0hn,01/02/2024
+ORD4628,messi,,,,,2024/13/01
+4629,Messi!!,,67.25,10,,
+,Messi,Elec ,unknown,-1,J0hn,2024-01-01
+,Messi!!,,unknown,,J0hn,2024-01-01
+, Messi ,Elec ,unknown,-1,,01/02/2024
+,MESSI,,unknown,,,
+4634,,sports,,,J0hn,01/02/2024
+,Messi,,85.62,1,J0hn,01/02/2024
+,,Elec ,,,,
+4637,MESSI,Elec ,,-1,John,2024/13/01
+,messi,,unknown,-1,J0hn,2024-01-01
+ORD4639,messi,Sports,,,,01/02/2024
+ORD4640,,sports,,7,john ,
+,Messi,,303.72,3,JOHN,
+,Messi,Elec ,375.03,-1,John,
+4643,Messi,,408.55,,,2024-01-01
+, Messi ,,unknown,,John,2024/13/01
+,,,unknown,7,JOHN,
+,messi,,unknown,6,john ,01/02/2024
+,Messi!!,sports,,6,,
+,messi,Sports,,,,
+,messi,sports,unknown,,J0hn,
+4650,MESSI,Electronics,,-1,JOHN,2024-01-01
+,,,,,,
+,Messi,Elec ,,,J0hn,01/02/2024
+,Messi!!,Electronics,unknown,,john ,
+,MESSI,,,,JOHN,2024-01-01
+,Messi!!,,,,john ,2024/13/01
+4656,Messi!!,Elec ,,,,01/02/2024
+, Messi ,Electronics,,6,john ,2024/13/01
+,,Sports,415.89,,,2024/13/01
+,Messi,sports,unknown,3,John,
+,MESSI,Elec ,,-1,J0hn,2024-01-01
+, Messi ,Electronics,329.65,6,John,
+, Messi ,,unknown,4,John,01/02/2024
+,MESSI,,,3,John,2024/13/01
+, Messi ,,unknown,,,
+4665,,,,,john ,
+,,Electronics,37.61,,,
+4667, Messi ,Sports,,9,JOHN,2024/13/01
+ORD4668,Messi,Sports,unknown,7,J0hn,2024/13/01
+ORD4669,Messi,,unknown,1,JOHN,2024/13/01
+4670, Messi ,Elec ,,,JOHN,
+,MESSI,Electronics,unknown,-1,john ,01/02/2024
+4672, Messi ,,,,,2024-01-01
+,Messi!!,,,3,J0hn,2024/13/01
+ORD4674,messi,,unknown,,john ,
+,MESSI,sports,unknown,-1,J0hn,2024-01-01
+ORD4676, Messi ,Electronics,256.11,,John,2024/13/01
+4677, Messi ,Electronics,unknown,,John,2024/13/01
+4678,messi,Elec ,,,J0hn,2024/13/01
+,Messi,Electronics,unknown,,,2024-01-01
+ORD4680,Messi,,,8,JOHN,
+,,,,-1,,
+4682,messi,,,,John,2024/13/01
+4683,messi,Sports,,-1,,2024-01-01
+4684, Messi ,,,10,J0hn,
+4685,messi,sports,,1,,2024/13/01
+,,,282.26,6,,
+ORD4687,messi,sports,86.86,4,john ,2024-01-01
+,messi,,unknown,-1,,
+,Messi,Electronics,unknown,,J0hn,2024-01-01
+,messi,,350.06,,,
+ORD4691,Messi!!,Electronics,unknown,-1,john ,2024-01-01
+ORD4692,,Sports,unknown,-1,John,2024/13/01
+,,Sports,unknown,9,J0hn,2024/13/01
+4694,MESSI,,,,,01/02/2024
+4695,MESSI,,,-1,john ,2024-01-01
+,Messi,sports,,,John,
+,messi,Sports,,,john ,2024/13/01
+,MESSI,Elec ,,3,,2024/13/01
+,Messi!!,,,,,01/02/2024
+ORD4700,Messi!!,sports,247.42,,,01/02/2024
+,MESSI,Elec ,,-1,JOHN,
+4702,MESSI,,,,,
+4703,Messi!!,,,4,JOHN,01/02/2024
+,messi,Elec ,461.94,,JOHN,2024-01-01
+4705,MESSI,Sports,264.16,8,john ,01/02/2024
+ORD4706,,,,-1,J0hn,01/02/2024
+,MESSI,,unknown,,john ,2024/13/01
+,Messi!!,,79.15,,,
+,MESSI,Elec ,113.5,-1,John,
+,Messi,sports,unknown,1,JOHN,01/02/2024
+ORD4711,Messi,,66.29,-1,john ,01/02/2024
+,,,unknown,,JOHN,
+,,sports,unknown,2,john ,
+,Messi!!,Sports,unknown,,,01/02/2024
+4715,,,,-1,John,01/02/2024
+ORD4716,,sports,unknown,-1,John,
+, Messi ,Sports,,,,01/02/2024
+ORD4718,MESSI,Electronics,,,john ,01/02/2024
+,Messi!!,Elec ,,9,,
+,,sports,unknown,,john ,2024/13/01
+, Messi ,Sports,,,JOHN,2024-01-01
+ORD4722,,sports,310.1,,,
+,,Sports,158.63,,JOHN,2024-01-01
+ORD4724,messi,Sports,unknown,,,01/02/2024
+ORD4725,,sports,,,,
+,,Sports,unknown,-1,JOHN,2024-01-01
+,Messi!!,Sports,,,john ,2024/13/01
+4728,MESSI,,,-1,,2024-01-01
+ORD4729,Messi,,,,,01/02/2024
+ORD4730,,,,,john ,2024-01-01
+, Messi ,Sports,,-1,john ,2024-01-01
+,messi,Sports,,-1,,01/02/2024
+ORD4733,Messi,,379.83,6,,01/02/2024
+,Messi!!,sports,,-1,John,01/02/2024
+4735,Messi!!,Sports,unknown,8,John,01/02/2024
+,,,,,,01/02/2024
+4737, Messi ,Electronics,195.97,-1,,
+,,Electronics,,10,J0hn,
+4739,MESSI,sports,,6,john ,01/02/2024
+,,,,9,,01/02/2024
+4741,messi,Sports,,-1,J0hn,
+ORD4742,MESSI,,,,john ,
+,Messi,sports,unknown,,john ,
+,MESSI,Sports,unknown,,,2024/13/01
+,Messi,sports,unknown,,,
+4746,,,,-1,JOHN,
+,messi,Elec ,,,John,2024/13/01
+,messi,,270.39,2,,2024/13/01
+ORD4749,MESSI,,,,john ,
+4750, Messi ,Elec ,,,JOHN,
+, Messi ,,,,J0hn,
+,messi,Electronics,42.33,6,JOHN,2024-01-01
+4753,messi,Sports,,-1,JOHN,2024/13/01
+,,,,4,JOHN,
+4755,MESSI,,,-1,,2024/13/01
+ORD4756,,sports,66.32,,JOHN,
+,messi,Electronics,494.47,-1,john ,2024/13/01
+4758,Messi,sports,,8,,2024-01-01
+ORD4759,Messi,sports,unknown,10,,2024/13/01
+,Messi!!,,465.74,,JOHN,2024-01-01
+ORD4761,messi,,unknown,,J0hn,
+, Messi ,,unknown,,,2024-01-01
+4763,,Electronics,340.58,-1,,
+4764, Messi ,Electronics,87.53,,JOHN,2024-01-01
+4765,messi,Sports,27.72,-1,,01/02/2024
+ORD4766,MESSI,Elec ,,,,2024-01-01
+,Messi,Electronics,,,,01/02/2024
+, Messi ,Sports,,,John,
+,,,,,,2024/13/01
+ORD4770,Messi!!,sports,,,JOHN,2024/13/01
+4771,,Elec ,,,J0hn,01/02/2024
+,,,35.72,,,
+,,Elec ,unknown,,JOHN,
+ORD4774,MESSI,Elec ,unknown,-1,J0hn,2024/13/01
+,messi,Sports,unknown,3,,2024-01-01
+4776, Messi ,Sports,,-1,JOHN,2024/13/01
+,MESSI,Elec ,466.4,,,
+,MESSI,Electronics,,-1,john ,
+,,,,,John,2024/13/01
+, Messi ,,unknown,2,John,
+,Messi!!,,unknown,,john ,2024/13/01
+ORD4782,MESSI,Electronics,,,JOHN,2024/13/01
+, Messi ,Sports,,9,JOHN,
+,Messi!!,Electronics,,-1,john ,2024/13/01
+4785,messi,,,,,
+,messi,,unknown,5,John,
+4787,,Sports,unknown,5,john ,
+4788,MESSI,Electronics,,,J0hn,2024-01-01
+4789,Messi!!,Elec ,79.79,5,john ,
+,,Sports,,8,JOHN,01/02/2024
+ORD4791, Messi ,,,-1,J0hn,2024/13/01
+,MESSI,sports,,-1,john ,
+,messi,Elec ,,-1,john ,01/02/2024
+,messi,Electronics,,,J0hn,
+ORD4795,MESSI,Electronics,unknown,,john ,01/02/2024
+, Messi ,,unknown,,John,
+,,sports,,,J0hn,01/02/2024
+ORD4798,Messi,Sports,137.3,,john ,
+,Messi!!,,,-1,,2024/13/01
+,messi,Sports,212.7,,JOHN,
+ORD4801, Messi ,sports,188.5,-1,john ,
+ORD4802,messi,Elec ,,2,John,2024/13/01
+,Messi,Sports,,,,01/02/2024
+ORD4804,,Electronics,,,,2024/13/01
+,,Elec ,,,,
+ORD4806,Messi!!,Electronics,,,JOHN,2024-01-01
+,,Elec ,,8,JOHN,
+,Messi,Elec ,,,,2024-01-01
+,Messi!!,Sports,,9,,2024-01-01
+,Messi!!,sports,255.7,,,01/02/2024
+,,sports,,,,01/02/2024
+ORD4812, Messi ,Electronics,,,JOHN,2024/13/01
+ORD4813,,Electronics,unknown,,,
+,messi,,unknown,-1,john ,
+ORD4815,,Electronics,unknown,,,2024/13/01
+4816,,Electronics,,,,
+ORD4817,Messi!!,Electronics,,-1,JOHN,2024/13/01
+,Messi,Electronics,,-1,,01/02/2024
+ORD4819, Messi ,Electronics,131.44,,john ,
+,Messi,,105.97,10,JOHN,
+, Messi ,Elec ,,,John,2024-01-01
+,,Electronics,,6,john ,
+ORD4823,,sports,unknown,,john ,01/02/2024
+,,Elec ,,9,J0hn,
+ORD4825,Messi,,,10,John,2024-01-01
+,Messi,Electronics,unknown,7,,2024/13/01
+ORD4827,,sports,,10,,01/02/2024
+ORD4828, Messi ,,,-1,,2024/13/01
+4829,Messi,,,,John,01/02/2024
+, Messi ,Sports,,,JOHN,2024-01-01
+ORD4831,Messi!!,sports,,,John,01/02/2024
+,MESSI,Electronics,,10,John,
+, Messi ,Electronics,unknown,,john ,2024-01-01
+,MESSI,,,,john ,01/02/2024
+ORD4835,,Electronics,,-1,john ,
+,MESSI,Sports,,,John,
+,messi,,,5,,2024/13/01
+,,sports,unknown,9,john ,
+ORD4839,,Electronics,,8,JOHN,01/02/2024
+,,,,3,john ,
+ORD4841,,,286.12,-1,,
+ORD4842,,sports,unknown,,J0hn,
+,MESSI,,,-1,john ,2024-01-01
+ORD4844,Messi,Elec ,unknown,,,
+,,Sports,,,J0hn,
+ORD4846,messi,,,,JOHN,
+, Messi ,Sports,314.59,,,
+,Messi!!,sports,unknown,,JOHN,
+4849,Messi,Electronics,,,John,01/02/2024
+4850,messi,sports,,-1,J0hn,01/02/2024
+,Messi,Elec ,,-1,JOHN,01/02/2024
+,Messi,Electronics,334.03,-1,,2024-01-01
+ORD4853,,Sports,unknown,-1,JOHN,
+,,,unknown,,,2024-01-01
+4855,Messi!!,Sports,241.64,,,
+,Messi!!,,unknown,,john ,
+4857,,Elec ,unknown,-1,,
+ORD4858,,,216.23,,,
+, Messi ,Electronics,216.98,-1,JOHN,
+4860,,Sports,,-1,J0hn,2024/13/01
+ORD4861,MESSI,Sports,314.32,-1,,
+4862,MESSI,Sports,,,J0hn,01/02/2024
+ORD4863, Messi ,,,-1,JOHN,
+,Messi,,unknown,6,john ,01/02/2024
+4865,,Sports,unknown,-1,,
+ORD4866,,Sports,,,,01/02/2024
+,messi,Sports,,10,,
+,Messi,Sports,,,JOHN,
+,messi,Electronics,,-1,JOHN,
+4870,Messi,Sports,266.35,9,J0hn,2024-01-01
+,Messi!!,,274.82,4,john ,2024/13/01
+,MESSI,,22.12,,john ,
+ORD4873,,,74.68,,J0hn,
+ORD4874, Messi ,Electronics,unknown,,JOHN,2024-01-01
+ORD4875,Messi,,,5,john ,2024/13/01
+,Messi!!,,369.24,,john ,2024/13/01
+ORD4877,,,,-1,john ,
+,,Sports,240.27,-1,John,
+4879,,Sports,439.43,-1,,
+4880,,,,,J0hn,2024-01-01
+ORD4881, Messi ,Electronics,,8,john ,2024/13/01
+,Messi!!,,,,John,
+,MESSI,Sports,unknown,,J0hn,2024/13/01
+ORD4884,,Electronics,477.55,5,John,2024-01-01
+, Messi ,sports,194.98,-1,JOHN,01/02/2024
+ORD4886,,Electronics,,-1,john ,2024-01-01
+,,Elec ,unknown,10,,
+,MESSI,sports,unknown,,,2024-01-01
+ORD4889,,Elec ,264.25,4,J0hn,01/02/2024
+,MESSI,,unknown,-1,John,
+,,Electronics,,-1,,
+,Messi!!,Elec ,,-1,JOHN,2024/13/01
+,messi,,,,,01/02/2024
+4894,MESSI,,,,John,01/02/2024
+,messi,sports,,1,JOHN,01/02/2024
+4896,MESSI,,unknown,-1,John,2024/13/01
+ORD4897, Messi ,sports,,,John,01/02/2024
+,Messi!!,,unknown,,John,2024-01-01
+4899,MESSI,,117.88,-1,,01/02/2024
+ORD4900,MESSI,Elec ,unknown,,john ,2024-01-01
+ORD4901,,,unknown,-1,John,01/02/2024
+,messi,Electronics,,-1,,
+,,Electronics,,5,,2024-01-01
+ORD4904,MESSI,sports,20.32,-1,John,
+,messi,Electronics,,,John,2024/13/01
+4906,Messi,Elec ,unknown,,john ,
+4907,Messi!!,Sports,,,JOHN,
+,Messi!!,Elec ,,10,J0hn,
+,,,,,,
+,Messi,Sports,,2,J0hn,
+,Messi,,unknown,5,J0hn,2024/13/01
+4912,,sports,92.1,8,John,
+4913,Messi!!,Electronics,,6,J0hn,
+4914,,,,,,2024-01-01
+, Messi ,Electronics,,,,01/02/2024
+,,Electronics,unknown,5,JOHN,01/02/2024
+ORD4917,,Elec ,,-1,,
+4918,,Sports,unknown,5,john ,2024/13/01
+,,sports,,6,JOHN,2024/13/01
+4920, Messi ,Sports,,,,
+,MESSI,,408.94,,John,01/02/2024
+,,sports,267.16,,,
+4923,,Sports,unknown,,JOHN,
+,,sports,472.76,,John,
+4925,,,,1,J0hn,2024-01-01
+ORD4926, Messi ,Sports,unknown,,,2024/13/01
+,MESSI,,,-1,J0hn,
+, Messi ,sports,,,JOHN,2024-01-01
+,Messi!!,,,-1,John,01/02/2024
+,,,,,,2024-01-01
+ORD4931,messi,sports,unknown,6,john ,2024/13/01
+,messi,,,,john ,2024-01-01
+ORD4933,Messi!!,Electronics,401.57,10,JOHN,
+4934,,Electronics,unknown,-1,,
+4935,,Electronics,,-1,,
+ORD4936,,Sports,unknown,,J0hn,2024/13/01
+4937,MESSI,Sports,,3,,01/02/2024
+,messi,Electronics,,-1,john ,2024-01-01
+,messi,,unknown,-1,John,2024-01-01
+ORD4940,,sports,,,,2024/13/01
+4941, Messi ,sports,unknown,,john ,
+ORD4942,Messi,sports,,-1,JOHN,
+4943,MESSI,Electronics,111.83,,,
+4944,Messi,sports,unknown,,,2024-01-01
+, Messi ,Elec ,333.21,5,John,
+,Messi,sports,89.63,,John,
+, Messi ,sports,,,J0hn,2024/13/01
+,Messi!!,,,,,
+,MESSI,sports,5.62,,JOHN,2024-01-01
+,Messi!!,Electronics,,-1,J0hn,2024-01-01
+4951,Messi,,unknown,,JOHN,2024/13/01
+ORD4952, Messi ,sports,,3,J0hn,
+,MESSI,Elec ,,-1,,
+,,,286.4,-1,John,2024/13/01
+ORD4955,,,335.95,5,,
+4956,Messi!!,sports,,,John,2024-01-01
+4957,Messi!!,Electronics,389.61,-1,john ,
+4958, Messi ,Electronics,,2,john ,2024-01-01
+ORD4959,Messi,Electronics,unknown,,J0hn,
+4960, Messi ,Electronics,335.18,,,
+ORD4961,,Electronics,,,,
+ORD4962,MESSI,sports,unknown,-1,John,01/02/2024
+,MESSI,sports,,5,,2024-01-01
+ORD4964,,Sports,342.62,-1,JOHN,
+,,,,,J0hn,2024-01-01
+ORD4966, Messi ,,unknown,2,John,
+ORD4967,,,497.23,-1,,2024-01-01
+ORD4968,MESSI,Sports,,,,
+,messi,Sports,148.81,,John,2024-01-01
+ORD4970,Messi,,,,John,
+,messi,,unknown,-1,john ,
+, Messi ,,,,,2024/13/01
+,Messi!!,,225.19,-1,John,2024-01-01
+4974, Messi ,sports,81.26,,J0hn,01/02/2024
+,,Electronics,467.03,6,John,01/02/2024
+ORD4976,,Elec ,unknown,,JOHN,01/02/2024
+,Messi!!,Elec ,,,john ,
+ORD4978, Messi ,,unknown,3,JOHN,2024-01-01
+,,sports,unknown,6,JOHN,01/02/2024
+,Messi!!,,,,JOHN,
+ORD4981,Messi!!,Elec ,,-1,,2024/13/01
+ORD4982,,Elec ,,,john ,
+, Messi ,Electronics,unknown,-1,JOHN,
+,Messi!!,Sports,unknown,-1,,
+ORD4985,messi,,,,JOHN,
+,messi,,112.31,,john ,2024-01-01
+,Messi!!,Elec ,,,,
+,Messi,sports,unknown,10,,01/02/2024
+ORD4989,,,,,JOHN,2024-01-01
+ORD4990,,Sports,,,J0hn,2024/13/01
+ORD4991,messi,,unknown,,,01/02/2024
+,MESSI,Electronics,,1,,
+ORD4993,,,169.44,,John,2024/13/01
+, Messi ,sports,unknown,,JOHN,
+ORD4995, Messi ,Elec ,,,JOHN,01/02/2024
+,Messi,,,9,J0hn,01/02/2024
+ORD4997,,Sports,27.44,,JOHN,
+,Messi!!,Sports,104.99,,,2024-01-01
+,,sports,,,,2024-01-01

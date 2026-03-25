@@ -5,15 +5,18 @@ const Footer = () => {
     <footer className="footer" data-testid="footer">
       <div className="footer-simple">
         <div className="footer-brand">
-          <h3 className="footer-logo">🔨 DataForge</h3>
+          <div className="footer-logo">
+            <img src="/logo.png" alt="DataForge" className="footer-logo-image" />
+            <span className="footer-logo-text">DataForge</span>
+          </div>
           <p className="footer-tagline">
-            Transform messy data into crystal clear insights
+            Your Data, Perfected. Transform messy data into crystal clear insights.
           </p>
         </div>
         
         <div className="footer-bottom">
           <p className="footer-copyright">
-            © 2025 DataForge. All rights reserved.
+            © {new Date().getFullYear()} DataForge. All rights reserved.
           </p>
         </div>
       </div>

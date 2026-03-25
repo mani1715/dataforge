@@ -1,10 +1,14 @@
 import React from 'react';
+import { Table } from 'lucide-react';
 
 const DataTable = ({ data }) => {
   if (!data || data.length === 0) {
     return (
       <div className="card" data-testid="data-table">
-        <h3>📋 Data Preview</h3>
+        <h3>
+          <Table />
+          Data Preview
+        </h3>
         <div className="no-data">No data to display</div>
       </div>
     );
@@ -14,7 +18,10 @@ const DataTable = ({ data }) => {
 
   return (
     <div className="card" data-testid="data-table">
-      <h3>📋 Data Preview (First 20 Rows)</h3>
+      <h3>
+        <Table />
+        Data Preview (First 20 Rows)
+      </h3>
       <div className="table-container">
         <table className="data-table">
           <thead>

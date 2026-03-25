@@ -10,9 +10,9 @@ from routes.clean_routes import clean_bp
 app = Flask(__name__)
 app.config.from_object(Config)
 
-# Configure for large file uploads
+# Configure for large file uploads - 500MB
 app.config['MAX_CONTENT_LENGTH'] = 500 * 1024 * 1024  # 500MB
-app.config['UPLOAD_FOLDER'] = '/app/backend/uploads'
+app.config['UPLOAD_FOLDER'] = os.path.join(os.path.dirname(__file__), 'uploads')
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 # Ensure upload folder exists
@@ -30,8 +30,9 @@ def index():
     return "DataForge API is Live."
 
 @app.errorhandler(413)
-def request_entity_too_large(error):
-    return {"error": "File too large. Maximum size is 500MB."}, 413
+def too_large(e):
+    return {"error": "File too large. Max 500MB allowed."}, 413
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=8001, threaded=True)
+    app.run(debug=False, host='0.0.0.0', port=8001, threaded=True)
+

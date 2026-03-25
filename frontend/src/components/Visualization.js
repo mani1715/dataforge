@@ -11,58 +11,71 @@ import {
   Pie,
   Cell
 } from 'recharts';
+import { BarChart3, PieChart as PieChartIcon, CheckCircle } from 'lucide-react';
 
 const Visualization = ({ data }) => {
   if (!data) return null;
 
-  const COLORS = ['#4F46E5', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6'];
+  const COLORS = ['#0f172a', '#D90429', '#64748b', '#94a3b8', '#cbd5e1'];
 
   return (
     <div className="visualization-panel">
       {/* Bar Chart: Missing Values */}
       <div className="chart-container" data-testid="missing-chart">
-        <div className="chart-title">📉 Missing Values per Column</div>
+        <div className="chart-title">
+          <BarChart3 size={16} />
+          Missing Values per Column
+        </div>
         {data.missing_data && data.missing_data.length > 0 ? (
-          <ResponsiveContainer width="100%" height={220}>
+          <ResponsiveContainer width="100%" height={200}>
             <BarChart data={data.missing_data}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#E5E7EB" />
+              <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis 
                 dataKey="name" 
-                tick={{ fontSize: 12, fill: '#6B7280' }}
+                tick={{ fontSize: 11, fill: '#64748b' }}
                 angle={-45}
                 textAnchor="end"
-                height={80}
+                height={70}
               />
-              <YAxis tick={{ fontSize: 12, fill: '#6B7280' }} />
+              <YAxis tick={{ fontSize: 11, fill: '#64748b' }} />
               <Tooltip 
                 contentStyle={{ 
                   background: '#FFFFFF', 
-                  border: '1px solid #E5E7EB',
+                  border: '1px solid #e2e8f0',
                   borderRadius: '8px',
-                  fontSize: '14px'
+                  fontSize: '13px',
+                  boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
                 }}
               />
-              <Bar dataKey="missing" fill="#4F46E5" radius={[8, 8, 0, 0]} />
+              <Bar dataKey="missing" fill="#D90429" radius={[4, 4, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         ) : (
           <div style={{ 
             padding: '40px', 
             textAlign: 'center',
-            color: '#10B981',
-            fontWeight: 600,
-            fontSize: '15px'
+            color: '#059669',
+            fontWeight: 500,
+            fontSize: '14px',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: '8px'
           }}>
-            ✓ No Missing Values Found!
+            <CheckCircle size={18} />
+            No Missing Values Found!
           </div>
         )}
       </div>
 
       {/* Pie Chart: Data Types */}
       <div className="chart-container" data-testid="type-chart">
-        <div className="chart-title">🧩 Data Type Distribution</div>
+        <div className="chart-title">
+          <PieChartIcon size={16} />
+          Data Type Distribution
+        </div>
         {data.type_data && data.type_data.length > 0 ? (
-          <ResponsiveContainer width="100%" height={220}>
+          <ResponsiveContainer width="100%" height={200}>
             <PieChart>
               <Pie
                 data={data.type_data}
@@ -70,7 +83,7 @@ const Visualization = ({ data }) => {
                 cy="50%"
                 labelLine={false}
                 label={({ name, percent }) => `${name}: ${(percent * 100).toFixed(0)}%`}
-                outerRadius={80}
+                outerRadius={70}
                 fill="#8884d8"
                 dataKey="value"
               >
@@ -81,9 +94,10 @@ const Visualization = ({ data }) => {
               <Tooltip 
                 contentStyle={{ 
                   background: '#FFFFFF', 
-                  border: '1px solid #E5E7EB',
+                  border: '1px solid #e2e8f0',
                   borderRadius: '8px',
-                  fontSize: '14px'
+                  fontSize: '13px',
+                  boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
                 }}
               />
             </PieChart>

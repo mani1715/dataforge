@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify, send_file
+from flask import Blueprint, request, jsonify, send_file, current_app
 import pandas as pd
 import io
 import os
@@ -11,10 +11,6 @@ from services.profiler import DataProfiler
 
 # Create a Blueprint
 data_bp = Blueprint('data', __name__)
-
-# Directory for temporary uploads
-UPLOAD_FOLDER = '/app/backend/uploads'
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # We will store the dataframe in memory
 CURRENT_DF = None
@@ -32,33 +28,41 @@ def set_current_df(df):
 def upload_file():
     global CURRENT_DF, CURRENT_FILE_PATH
     
+    print(f"Upload request size: {request.content_length} bytes")
+    
     if 'file' not in request.files:
         return jsonify({'error': 'No file part'}), 400
     
     file = request.files['file']
     
+    print(f"File content_length: {file.content_length} bytes")
+    
     if file.filename == '':
         return jsonify({'error': 'No selected file'}), 400
 
     try:
+        # Get upload folder from app config (Windows-safe)
+        upload_folder = current_app.config['UPLOAD_FOLDER']
+        
         # Generate unique filename
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         unique_id = str(uuid.uuid4())[:8]
         filename = secure_filename(file.filename)
         file_ext = os.path.splitext(filename)[1]
         unique_filename = f"{timestamp}_{unique_id}{file_ext}"
-        file_path = os.path.join(UPLOAD_FOLDER, unique_filename)
+        file_path = os.path.join(upload_folder, unique_filename)
         
         # STEP 1: Save file to disk first (this prevents memory issues)
         print(f"Saving file to disk: {file_path}")
         file.save(file_path)
-        print(f"File saved successfully: {os.path.getsize(file_path)} bytes")
+        saved_size = os.path.getsize(file_path)
+        print(f"File saved successfully: {saved_size} bytes")
         
         # STEP 2: Read from disk with chunking for large files
         print("Reading file from disk...")
         if filename.endswith('.csv'):
             # Read CSV in chunks for large files
-            file_size = os.path.getsize(file_path)
+            file_size = saved_size
             if file_size > 50 * 1024 * 1024:  # If larger than 50MB
                 print(f"Large file detected ({file_size} bytes), using chunked reading")
                 chunks = []

@@ -1,9 +1,13 @@
 import React from 'react';
+import { Settings, Wand2, Trash2, TrendingDown, Type, Sparkles } from 'lucide-react';
 
 const CleaningControls = ({ strategy, setStrategy, onAction, loading, aiMessage }) => {
   return (
     <div className="card" data-testid="cleaning-controls">
-      <h3>⚙️ Cleaning Tools</h3>
+      <h3>
+        <Settings />
+        Cleaning Tools
+      </h3>
       
       <div className="controls-section">
         <div className="control-group">
@@ -15,61 +19,61 @@ const CleaningControls = ({ strategy, setStrategy, onAction, loading, aiMessage 
             disabled={loading}
             data-testid="strategy-dropdown"
           >
-            <option value="ai">🤖 AI Prediction (MICE)</option>
-            <option value="mean">📊 Mean</option>
-            <option value="median">📈 Median</option>
-            <option value="mode">🔢 Mode</option>
-            <option value="constant">➕ Fill with 0</option>
-            <option value="drop_rows">❌ Drop Rows</option>
+            <option value="ai">AI Prediction (MICE)</option>
+            <option value="mean">Mean</option>
+            <option value="median">Median</option>
+            <option value="mode">Mode</option>
+            <option value="constant">Fill with 0</option>
+            <option value="drop_rows">Drop Rows</option>
           </select>
         </div>
 
         <div className="action-buttons">
           <button 
             className="btn btn-primary" 
-            style={{ width: '100%' }}
             onClick={() => onAction('fill_missing')} 
             disabled={loading}
             data-testid="fill-missing-button"
           >
-            🛠️ Clean Missing Values
+            <Wand2 size={16} />
+            Clean Missing Values
           </button>
 
           <button 
             className="btn btn-secondary" 
-            style={{ width: '100%' }}
             onClick={() => onAction('remove_duplicates')} 
             disabled={loading}
             data-testid="remove-duplicates-button"
           >
-            🗑️ Remove Duplicates
+            <Trash2 size={16} />
+            Remove Duplicates
           </button>
 
           <button 
             className="btn btn-secondary" 
-            style={{ width: '100%' }}
             onClick={() => onAction('remove_outliers')} 
             disabled={loading}
             data-testid="remove-outliers-button"
           >
-            📉 Remove Outliers
+            <TrendingDown size={16} />
+            Remove Outliers
           </button>
 
           <button 
             className="btn btn-secondary" 
-            style={{ width: '100%' }}
             onClick={() => onAction('clean_text')} 
             disabled={loading}
             data-testid="clean-text-button"
           >
-            🔤 Clean Text Data
+            <Type size={16} />
+            Clean Text Data
           </button>
         </div>
 
         {aiMessage && (
           <div className="ai-explanation" data-testid="ai-explanation">
             <div className="ai-explanation-header">
-              <span>🤖</span>
+              <Sparkles size={16} />
               <span>AI Insights</span>
             </div>
             <div className="ai-explanation-text">{aiMessage}</div>
